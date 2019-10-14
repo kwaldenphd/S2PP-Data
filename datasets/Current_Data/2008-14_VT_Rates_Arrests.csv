@@ -1,0 +1,33 @@
+Types of crimes,2008,2009,2010,2011,2012,2013,2014,State_ID,Region_ID,Division_ID
+Total Arrests,"1,675","1,551","1,233","1,263","1,256",876,686,50,1,1
+Violent Crime Index,54,45,42,45,42,N/A,N/A,50,1,1
+Murder/nonneg. mans.,1,0,0,0,0,0,0,50,1,1
+Rape,10,8,14,5,8,N/A,N/A,50,1,1
+Robbery,1,5,1,0,0,4,2,50,1,1
+Aggravated assault,42,32,27,40,34,23,20,50,1,1
+Property Crime Index,364,358,302,257,247,154,126,50,1,1
+Burglary,88,80,60,46,50,22,32,50,1,1
+Larceny-theft,232,246,205,167,156,108,90,50,1,1
+Motor vehicle theft,35,23,28,41,32,16,2,50,1,1
+Arson,9,9,9,3,9,8,2,50,1,1
+Other assaults,251,252,224,277,227,157,146,50,1,1
+Forgery and counterfeiting,4,4,2,1,1,1,0,50,1,1
+Fraud,8,7,2,6,1,2,2,50,1,1
+Embezzlement,1,1,2,1,2,0,3,50,1,1
+Stolen property,21,24,16,14,12,10,6,50,1,1
+Vandalism,144,116,104,111,109,72,69,50,1,1
+Weapons,26,15,9,11,16,12,9,50,1,1
+Prostitution/<br>commercialized vice,0,1,0,0,1,0,0,50,1,1
+Sex offenses (other),4,9,4,8,5,N/A,N/A,50,1,1
+Drug abuse violations,166,140,133,128,156,79,25,50,1,1
+Gambling,0,0,0,0,0,0,0,50,1,1
+Offenses against family,11,8,4,4,8,6,5,50,1,1
+Driving under influence,26,26,25,19,28,19,11,50,1,1
+Liquor laws,191,205,133,115,129,94,43,50,1,1
+Drunkenness,4,1,1,1,0,2,0,50,1,1
+Disorderly conduct,143,125,86,121,109,78,71,50,1,1
+Vagrancy,0,0,0,0,0,0,0,50,1,1
+All other offenses,255,212,144,141,163,146,132,50,1,1
+Curfew and loitering,0,0,0,0,0,0,0,50,1,1
+Runaways,2,2,0,3,0,7,0,50,1,1
+Population Ages 10 to 17,"65,000","63,400","62,400","60,900","59,500","59,600","59,500",50,1,1

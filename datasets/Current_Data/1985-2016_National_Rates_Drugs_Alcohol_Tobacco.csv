@@ -1,0 +1,38 @@
+Year,Any illicit drug used during the past 30 days,Marijuana used during the past 30 days,Cocaine used during the past 30 days,Alcohol used during the past 30 days,Cigarettes used during the past 30 days,Any illicit drug used  during the past year,Marijuana used  during the past year,Cocaine used  during the past year,Alcohol used  during the past year,Cigarettes used  during the past year,Nation_ID
+1985,132,102,15,412,294,207,167,34,527,299,US_National
+1990,71,44,6,325,224,141,96,19,418,262,US_National
+1995,109,82,8,211,202,18,142,17,351,266,US_National
+1999,98,72,5,165,149,198,142,16,341,234,US_National
+2000,97,72,6,164,134,186,134,17,33,208,US_National
+2001,108,8,4,173,13,208,152,15,339,20,US_National
+2002,116,82,6,176,13,222,158,21,346,203,US_National
+2003,112,79,6,177,122,218,15,18,343,19,US_National
+2004,106,76,5,176,119,21,145,16,339,184,US_National
+2005,99,68,6,165,108,199,133,17,333,173,US_National
+2006,98,67,4,166,104,196,132,16,329,17,US_National
+2007,95,67,4,159,98,187,125,15,318,157,US_National
+2008,93,67,4,146,91,19,13,12,308,15,US_National
+2009,10,73,3,147,89,195,136,1,303,15,US_National
+2010,101,74,2,136,84,195,14,1,287,142,US_National
+2011,101,79,3,133,78,19,142,9,278,132,US_National
+2012,95,72,1,129,66,179,135,7,263,118,US_National
+2013,88,71,2,116,56,172,134,5,246,103,US_National
+2014,94,74,2,115,49,174,131,7,24,89,US_National
+2015,88,7,2,96,42,175,126,6,227,81,US_National
+Total number of males in 2015,88,75,3,93,46,168,129,7,22,81,US_National
+Total nmber of females in 2015,88,65,N/A,99,38,181,123,5,235,82,US_National
+Total number of whites in 2015 ,89,73,2,109,54,176,13,6,251,99,US_National
+Total number of blacks in 2015,88,7,#,72,26,176,126,2,172,49,US_National
+Total number of Hispanics in 2015,92,71,N/A,89,27,181,126,8,223,69,US_National
+Total number of Asians in 2015,33,21,N/A,49,11,86,45,N/A,125,25,US_National
+    American Indian/Alaska Native ,83,74,N/A,N/A,48,166,115,N/A,21,8,US_National
+    Total number of two or more races in 2015,128,91,N/A,93,56,225,172,N/A,239,97,US_National
+2016,79,65,1,92,34,158,12,5,216,72,US_National
+Total number of males in 2016,79,68,1,88,38,154,117,5,192,76,US_National
+Total number of females in 2016,78,61,N/A,96,31,163,123,5,241,67,US_National
+Total number of whites in 2016,77,66,1,104,46,157,123,6,24,89,US_National
+Total number of blacks in 2016,87,65,N/A,62,16,17,122,N/A,156,35,US_National
+Total numer of Hispanics in 2016,76,61,N/A,89,21,158,117,7,213,59,US_National
+Total number of Asians in 2016,46,35,N/A,52,11,102,61,N/A,1323,37,US_National
+  Total number of American Indian/Alaska Native in 2016,112,97,N/A,79,72,21,165,N/A,17,116,US_National
+ Total number of two or more races in 2016,144,121,N/A,111,57,225,18,N/A,252,92,US_National

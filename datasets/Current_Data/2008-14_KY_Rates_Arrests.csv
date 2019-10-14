@@ -1,0 +1,33 @@
+Types of crimes,2008,2009,2010,2011,2012,2013,2014,State_ID,Region_ID,Division_ID
+Total Arrests,RS,RS,"7,665","8,279","7,143","6,406","6,496",21,3,6
+Violent Crime Index,RS,RS,392,384,385,N/A,N/A,21,3,6
+Murder/nonneg. mans.,RS,RS,5,5,10,4,11,21,3,6
+Rape,RS,RS,21,24,19,N/A,N/A,21,3,6
+Robbery,RS,RS,198,209,221,171,211,21,3,6
+Aggravated assault,RS,RS,168,146,135,141,114,21,3,6
+Property Crime Index,RS,RS,"2,479","2,807","2,474","2,344","2,183",21,3,6
+Burglary,RS,RS,529,599,525,457,523,21,3,6
+Larceny-theft,RS,RS,"1,871","2,070","1,796","1,724","1,502",21,3,6
+Motor vehicle theft,RS,RS,62,93,92,83,104,21,3,6
+Arson,RS,RS,17,45,61,80,54,21,3,6
+Other assaults,RS,RS,"1,098","1,124","1,057","1,013","1,077",21,3,6
+Forgery and counterfeiting,RS,RS,9,11,6,18,10,21,3,6
+Fraud,RS,RS,14,10,12,10,19,21,3,6
+Embezzlement,RS,RS,2,3,11,6,9,21,3,6
+Stolen property,RS,RS,167,175,157,158,232,21,3,6
+Vandalism,RS,RS,220,331,234,157,152,21,3,6
+Weapons,RS,RS,108,111,87,94,121,21,3,6
+Prostitution/<br>commercialized vice,RS,RS,1,1,0,3,0,21,3,6
+Sex offenses (other),RS,RS,59,78,73,N/A,N/A,21,3,6
+Drug abuse violations,RS,RS,775,911,718,690,648,21,3,6
+Gambling,RS,RS,2,2,0,2,1,21,3,6
+Offenses against family,RS,RS,13,16,6,3,3,21,3,6
+Driving under influence,RS,RS,118,85,94,61,44,21,3,6
+Liquor laws,RS,RS,100,72,61,41,34,21,3,6
+Drunkenness,RS,RS,176,198,110,97,75,21,3,6
+Disorderly conduct,RS,RS,494,446,341,279,309,21,3,6
+Vagrancy,RS,RS,21,22,13,7,10,21,3,6
+All other offenses,RS,RS,"1,252","1,289","1,161",941,"1,055",21,3,6
+Curfew and loitering,RS,RS,52,70,28,2,0,21,3,6
+Runaways,RS,RS,113,133,115,111,113,21,3,6
+Population Ages 10 to 17,"458,300","458,200","457,300","458,100","454,800","456,300","458,200",21,3,6

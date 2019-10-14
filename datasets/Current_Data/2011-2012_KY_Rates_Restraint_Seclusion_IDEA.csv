@@ -1,0 +1,10 @@
+Restraint or Seclusion by gender	Number of Total Students	Percent of Total Students	Number of American Indian or Alaska Native	Percent of American Indian or Alaska Native	Number of Asians	Percent of Asians	Number of Hispanic or Latino of any race	Percent of Hispanic or Latino of any race	Number of Black or African American	Percent of Black or African American	Number of Whites	Percent of Whites	Number of Native Hawaiian or Other Pacific Islander	Percent of Native Hawaiian or Other Pacific Islander	Number of Two or more races	Percent of Two or more races	Number of English Language Learners	Percent of English Language Learners	Number of Schools	State_ID	Region_ID	Division_ID
+Mechanical restraint on males with disabilities under IDEA	7	77.8	0	0	0	0	0	0	0	0	5	55.6	0	0	DS	22.2	0	0	"1,417"	21	3	6
+Mechanical restraint on females with disabilities under IDEA	DS	22.2	0	0	0	0	0	0	DS	22.2	0	0	0	0	0	0	0	0	"1,417"	21	3	6
+Mechanical restraint total	9	100	0	0	0	0	0	0	DS	22.2	5	55.6	0	0	DS	22.2	0	0	"1,417"	21	3	6
+Physical restraint on males with disabilities under IDEA	598	80.5	0	0	DS	0.3	21	2.8	84	11.3	475	63.9	0	0	16	2.2	DS	0.3	"1,417"	21	3	6
+Physical restraint on females with disabilities under IDEA	145	19.5	0	0	DS	0.3	0	0	21	2.8	120	16.2	0	0	DS	0.3	0	0	"1,417"	21	3	6
+Physical restraint total	743	100	0	0	4	0.5	21	2.8	105	14.1	595	80.1	0	0	18	2.4	DS	0.3	"1,417"	21	3	6
+Seclusion on males with disabilities under IDEA	158	81.4	0	0	0	0	DS	1	26	13.4	124	63.9	0	0	6	3.1	DS	1	"1,417"	21	3	6
+Seclusion on females with disabilities under IDEA	36	18.6	0	0	0	0	0	0	13	6.7	21	10.8	0	0	DS	1	0	0	"1,417"	21	3	6
+Seclusion total	194	100	0	0	0	0	DS	1	39	20.1	145	74.7	0	0	8	4.1	DS	1	"1,417"	21	3	6

@@ -1,0 +1,33 @@
+Types of crimes,2001,2002,2003,2004,2005,2006,2007,State_ID,Region_ID,Division_ID
+Total Arrests,"3,283",RS,RS,"3,514","3,448","3,876","3,004",54,3,5
+Violent Crime Index,106,RS,RS,116,112,105,74,54,3,5
+Murder/nonneg. mans.,0,RS,RS,3,2,3,1,54,3,5
+Rape,4,RS,RS,0,4,3,0,54,3,5
+Robbery,19,RS,RS,20,24,20,12,54,3,5
+Aggravated assault,83,RS,RS,93,82,79,61,54,3,5
+Property Crime Index,"1,103",RS,RS,"1,040",860,818,691,54,3,5
+Burglary,140,RS,RS,140,111,114,88,54,3,5
+Larceny-theft,865,RS,RS,809,687,631,553,54,3,5
+Motor vehicle theft,87,RS,RS,83,56,53,38,54,3,5
+Arson,11,RS,RS,8,6,20,12,54,3,5
+Other assaults,433,RS,RS,484,562,633,540,54,3,5
+Forgery and counterfeiting,15,RS,RS,7,13,10,3,54,3,5
+Fraud,23,RS,RS,7,12,8,8,54,3,5
+Embezzlement,3,RS,RS,5,7,4,2,54,3,5
+Stolen property,23,RS,RS,24,31,25,21,54,3,5
+Vandalism,173,RS,RS,188,212,222,138,54,3,5
+Weapons,29,RS,RS,35,47,30,25,54,3,5
+Prostitution/<br>commercialized vice,1,RS,RS,0,0,0,0,54,3,5
+Sex offenses (other),25,RS,RS,15,12,24,15,54,3,5
+Drug abuse violations,235,RS,RS,348,402,432,278,54,3,5
+Gambling,0,RS,RS,0,0,0,0,54,3,5
+Offenses against family,3,RS,RS,0,0,0,2,54,3,5
+Driving under influence,59,RS,RS,60,51,44,35,54,3,5
+Liquor laws,265,RS,RS,208,248,342,219,54,3,5
+Drunkenness,26,RS,RS,23,28,36,28,54,3,5
+Disorderly conduct,53,RS,RS,32,44,73,55,54,3,5
+Vagrancy,0,RS,RS,0,0,0,0,54,3,5
+All other offenses,514,RS,RS,754,669,825,711,54,3,5
+Curfew and loitering,97,RS,RS,90,65,130,84,54,3,5
+Runaways,97,RS,RS,78,73,115,75,54,3,5
+Population Ages 10 to 17,"187,100","186,500","185,700","184,600","183,000","182,400","179,900",54,3,5

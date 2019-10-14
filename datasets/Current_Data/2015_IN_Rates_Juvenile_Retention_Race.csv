@@ -1,0 +1,22 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Age on Census Date by Race/Ethnicity forIndiana-2015"
+
+,,"Race/Ethnicity",,,,,
+"Age","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"Total","1,563","834","558","102","3","3","63",
+"12 & younger","30","18","12","3","0","0","0",
+"13","54","30","15","3","0","0","3",
+"14","174","105","54","9","0","0","6",
+"15","318","162","117","18","0","0","18",
+"16","405","213","147","33","0","0","12",
+"17","462","249","168","27","3","0","18",
+"18 & older","120","57","48","9","0","0","3",
+
+"Note: To preserve the privacy of the juvenile residents  cell counts have been rounded to the nearest multiple of three.  Indiana was the State where the juvenile committed the offense for which they were being held. However  the state of offense is not always reported. These instances are not evenly distributed across states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information.  "
+
+Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories.
+
+"Suggested citation: Sickmund  M.  Sladky  T.J.  Kang  W.  and Puzzanchera  C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's  Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015  [machine-readable data files]."

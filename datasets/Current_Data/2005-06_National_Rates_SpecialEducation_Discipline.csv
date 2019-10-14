@@ -1,0 +1,1122 @@
+Year,State,State_ID,Region_ID,Division_ID,Nation_ID,National_ID,Student Type ,Students Unilaterally Removed for Drugs/Weapons,Unilateral Removals for Drugs,Unilateral Removals for Weapons,Students Removed by Hearing Officer (likely injury),Students Suspended/EN/Vpelled > 10 Days in School Year,Single Suspension/EN/Vpulsions > 10 Days,Students w/ Multiple Suspension/EN/Vpulsions that Sum to > 10 Days
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Mental retardation                 ,785,487,373,144,"6,354","1,012","5,540"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Hearing impairments                ,74,51,31,11,306,106,216
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Speech or language impairments     ,313,195,176,58,"2,297",537,"1,846"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Visual impairments                 ,15,8,7,3,121,55,97
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Emotional disturbance              ,"2,325","1,671","1,080",400,"19,607","3,588","16,895"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Orthopedic impairments             ,45,27,22,8,435,103,358
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Other health impairments           ,"1,403","1,043",575,160,"9,156","2,133","7,634"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Specific learning disabilities     ,"7,825","6,191","2,553",762,"36,257","8,908","29,208"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Deaf-blindness                     ,4,1,3,0,71,19,71
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Multiple disabilities              ,65,33,47,18,840,150,729
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Autism                             ,53,22,36,12,233,68,180
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Traumatic brain injury             ,43,29,24,3,211,47,169
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Developmental delay                ,17,2,16,1,148,24,130
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,All disabilities                   ,"12,967","9,760","4,943","1,580","76,036","16,750","63,073"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,American Indian/Alaska Native      ,575,469,172,17,"1,710",771,"1,047"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Asian/Pacific Islander             ,93,59,56,9,523,273,309
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Black (not Hispanic)               ,"3,214","2,068","1,593",613,"37,406","6,899","32,167"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,Hispanic                           ,"2,976","2,588",756,162,"9,706","2,333","7,818"
+2005,50 States and D.C. (including BIE schools)   ,,,,,US_National,White (not Hispanic)               ,"6,109","4,576","2,366",779,"26,691","6,474","21,732"
+2005,Alabama                                      ,1,3,6,,,Mental retardation                 ,8,         N/V ,7,0,143,         N/V ,140
+2005,Alabama                                      ,1,3,6,,,Hearing impairments                ,0,0,0,0,5,0,5
+2005,Alabama                                      ,1,3,6,,,Speech or language impairments     ,5,         N/V ,         N/V ,0,59,         N/V ,58
+2005,Alabama                                      ,1,3,6,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,Emotional disturbance              ,         N/V ,         N/V ,         N/V ,0,121,         N/V ,119
+2005,Alabama                                      ,1,3,6,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,81,         N/V ,79
+2005,Alabama                                      ,1,3,6,,,Specific learning disabilities     ,73,50,23,0,963,21,942
+2005,Alabama                                      ,1,3,6,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Alabama                                      ,1,3,6,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,Autism                             ,0,0,0,0,0,0,0
+2005,Alabama                                      ,1,3,6,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Alabama                                      ,1,3,6,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,All disabilities                   ,95,59,36,0,"1,380",29,"1,351"
+2005,Alabama                                      ,1,3,6,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Alabama                                      ,1,3,6,,,Black (not Hispanic)               ,64,41,23,0,"1,119",17,"1,102"
+2005,Alabama                                      ,1,3,6,,,Hispanic                           ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Alabama                                      ,1,3,6,,,White (not Hispanic)               ,         N/V ,18,         N/V ,0,253,12,241
+2005,Alaska                                       ,2,4,9,,,Mental retardation                 ,0,0,0,0,11,         N/V ,9
+2005,Alaska                                       ,2,4,9,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,0
+2005,Alaska                                       ,2,4,9,,,Speech or language impairments     ,0,0,0,0,8,         N/V ,6
+2005,Alaska                                       ,2,4,9,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Alaska                                       ,2,4,9,,,Emotional disturbance              ,         N/V ,         N/V ,0,0,67,10,59
+2005,Alaska                                       ,2,4,9,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Alaska                                       ,2,4,9,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,39,14,28
+2005,Alaska                                       ,2,4,9,,,Specific learning disabilities     ,9,9,         N/V ,0,168,57,124
+2005,Alaska                                       ,2,4,9,,,Deaf-blindness                     ,0,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Alaska                                       ,2,4,9,,,Multiple disabilities              ,0,0,0,0,5,         N/V ,         N/V 
+2005,Alaska                                       ,2,4,9,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Alaska                                       ,2,4,9,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Alaska                                       ,2,4,9,,,Developmental delay                ,0,         N/V ,0,         N/V ,         N/V ,0,         N/V 
+2005,Alaska                                       ,2,4,9,,,All disabilities                   ,15,14,         N/V ,0,306,90,237
+2005,Alaska                                       ,2,4,9,,,American Indian/Alaska Native      ,         N/V ,         N/V ,0,0,106,27,85
+2005,Alaska                                       ,2,4,9,,,Asian/Pacific Islander             ,         N/V ,0,         N/V ,0,17,         N/V ,13
+2005,Alaska                                       ,2,4,9,,,Black (not Hispanic)               ,         N/V ,         N/V ,0,0,34,9,28
+2005,Alaska                                       ,2,4,9,,,Hispanic                           ,         N/V ,         N/V ,0,0,17,         N/V ,15
+2005,Alaska                                       ,2,4,9,,,White (not Hispanic)               ,8,8,         N/V ,0,132,47,96
+2005,American Samoa                               ,60,,,,,Mental retardation                 ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,American Samoa                               ,60,,,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Speech or language impairments     ,0,0,0,0,         N/V ,0,         N/V 
+2005,American Samoa                               ,60,,,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,American Samoa                               ,60,,,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Other health impairments           ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,American Samoa                               ,60,,,,,Specific learning disabilities     ,         N/V ,         N/V ,0,0,0,         N/V ,0
+2005,American Samoa                               ,60,,,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Autism                             ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,All disabilities                   ,0,0,0,0,0,         N/V ,0
+2005,American Samoa                               ,60,,,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,Asian/Pacific Islander             ,0,0,0,0,0,         N/V ,0
+2005,American Samoa                               ,60,,,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,American Samoa                               ,60,,,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,American Samoa                               ,60,,,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Arizona                                      ,4,4,8,,,Mental retardation                 ,10,5,5,0,24,5,19
+2005,Arizona                                      ,4,4,8,,,Hearing impairments                ,         N/V ,         N/V ,         N/V ,0,35,26,9
+2005,Arizona                                      ,4,4,8,,,Speech or language impairments     ,5,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Arizona                                      ,4,4,8,,,Visual impairments                 ,0,0,0,0,5,         N/V ,         N/V 
+2005,Arizona                                      ,4,4,8,,,Emotional disturbance              ,89,53,44,0,209,94,132
+2005,Arizona                                      ,4,4,8,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,7,         N/V ,5
+2005,Arizona                                      ,4,4,8,,,Other health impairments           ,29,17,14,0,61,20,46
+2005,Arizona                                      ,4,4,8,,,Specific learning disabilities     ,274,192,106,0,676,316,394
+2005,Arizona                                      ,4,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Arizona                                      ,4,4,8,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,0,10,9,         N/V 
+2005,Arizona                                      ,4,4,8,,,Autism                             ,0,0,0,0,6,         N/V ,5
+2005,Arizona                                      ,4,4,8,,,Traumatic brain injury             ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Arizona                                      ,4,4,8,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Arizona                                      ,4,4,8,,,All disabilities                   ,416,276,175,0,"1,041",481,619
+2005,Arizona                                      ,4,4,8,,,American Indian/Alaska Native      ,56,45,         N/V ,0,152,77,82
+2005,Arizona                                      ,4,4,8,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,7,         N/V ,         N/V 
+2005,Arizona                                      ,4,4,8,,,Black (not Hispanic)               ,         N/V ,         N/V ,16,0,114,         N/V ,         N/V 
+2005,Arizona                                      ,4,4,8,,,Hispanic                           ,170,111,70,0,395,168,245
+2005,Arizona                                      ,4,4,8,,,White (not Hispanic)               ,157,102,73,0,373,191,208
+2005,Arkansas                                     ,5,3,7,,,Mental retardation                 ,         N/V ,         N/V ,0,0,141,15,126
+2005,Arkansas                                     ,5,3,7,,,Hearing impairments                ,0,0,0,         N/V ,0,0,0
+2005,Arkansas                                     ,5,3,7,,,Speech or language impairments     ,0,0,0,0,28,         N/V ,25
+2005,Arkansas                                     ,5,3,7,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Arkansas                                     ,5,3,7,,,Emotional disturbance              ,0,0,0,0,29,         N/V ,27
+2005,Arkansas                                     ,5,3,7,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Arkansas                                     ,5,3,7,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,125,15,110
+2005,Arkansas                                     ,5,3,7,,,Specific learning disabilities     ,10,8,         N/V ,0,325,39,286
+2005,Arkansas                                     ,5,3,7,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Arkansas                                     ,5,3,7,,,Multiple disabilities              ,0,0,0,0,10,0,         N/V 
+2005,Arkansas                                     ,5,3,7,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Arkansas                                     ,5,3,7,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Arkansas                                     ,5,3,7,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Arkansas                                     ,5,3,7,,,All disabilities                   ,19,14,6,         N/V ,661,75,586
+2005,Arkansas                                     ,5,3,7,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,Arkansas                                     ,5,3,7,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Arkansas                                     ,5,3,7,,,Black (not Hispanic)               ,11,8,         N/V ,         N/V ,434,29,405
+2005,Arkansas                                     ,5,3,7,,,Hispanic                           ,0,0,0,0,13,         N/V ,9
+2005,Arkansas                                     ,5,3,7,,,White (not Hispanic)               ,8,6,         N/V ,0,208,41,167
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Mental retardation                 ,         N/V ,         N/V ,         N/V ,0,10,10,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,0,12,10,         N/V 
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Emotional disturbance              ,16,11,6,         N/V ,53,46,7
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Other health impairments           ,         N/V ,0,         N/V ,         N/V ,17,9,8
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Specific learning disabilities     ,50,38,16,         N/V ,258,164,94
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Multiple disabilities              ,0,0,0,0,         N/V ,         N/V ,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Autism                             ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Traumatic brain injury             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,All disabilities                   ,73,52,26,5,356,244,114
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,American Indian/Alaska Native      ,73,52,26,5,         N/V ,         N/V ,114
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Bur. of Indian Affairs                       ,,,,AI_Territory_National,,White (not Hispanic)               ,0,0,0,0,         N/V ,         N/V ,0
+2005,California                                   ,6,4,9,,,Mental retardation                 ,7,         N/V ,         N/V ,0,7,7,0
+2005,California                                   ,6,4,9,,,Hearing impairments                ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,California                                   ,6,4,9,,,Speech or language impairments     ,13,8,5,0,13,9,         N/V 
+2005,California                                   ,6,4,9,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,California                                   ,6,4,9,,,Emotional disturbance              ,14,6,8,0,14,12,         N/V 
+2005,California                                   ,6,4,9,,,Orthopedic impairments             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,0
+2005,California                                   ,6,4,9,,,Other health impairments           ,20,9,11,0,20,16,6
+2005,California                                   ,6,4,9,,,Specific learning disabilities     ,231,129,102,11,231,192,43
+2005,California                                   ,6,4,9,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,California                                   ,6,4,9,,,Multiple disabilities              ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,California                                   ,6,4,9,,,Autism                             ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,California                                   ,6,4,9,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,California                                   ,6,4,9,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,California                                   ,6,4,9,,,All disabilities                   ,292,159,133,11,292,239,59
+2005,California                                   ,6,4,9,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,0
+2005,California                                   ,6,4,9,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,0
+2005,California                                   ,6,4,9,,,Black (not Hispanic)               ,154,84,70,         N/V ,154,128,30
+2005,California                                   ,6,4,9,,,Hispanic                           ,34,17,17,6,34,24,10
+2005,California                                   ,6,4,9,,,White (not Hispanic)               ,96,56,40,         N/V ,96,79,19
+2005,Colorado                                     ,8,4,8,,,Mental retardation                 ,0,0,0,0,18,9,10
+2005,Colorado                                     ,8,4,8,,,Hearing impairments                ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Colorado                                     ,8,4,8,,,Speech or language impairments     ,         N/V ,         N/V ,0,0,48,35,16
+2005,Colorado                                     ,8,4,8,,,Visual impairments                 ,0,0,0,0,         N/V ,7,         N/V 
+2005,Colorado                                     ,8,4,8,,,Emotional disturbance              ,13,11,         N/V ,         N/V ,219,109,131
+2005,Colorado                                     ,8,4,8,,,Orthopedic impairments             ,         N/V ,         N/V ,         N/V ,0,72,45,27
+2005,Colorado                                     ,8,4,8,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,Colorado                                     ,8,4,8,,,Specific learning disabilities     ,25,15,11,         N/V ,280,203,111
+2005,Colorado                                     ,8,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Colorado                                     ,8,4,8,,,Multiple disabilities              ,         N/V ,         N/V ,0,0,7,         N/V ,6
+2005,Colorado                                     ,8,4,8,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Colorado                                     ,8,4,8,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Colorado                                     ,8,4,8,,,Developmental delay                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Colorado                                     ,8,4,8,,,All disabilities                   ,48,34,16,         N/V ,657,418,309
+2005,Colorado                                     ,8,4,8,,,American Indian/Alaska Native      ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Colorado                                     ,8,4,8,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Colorado                                     ,8,4,8,,,Black (not Hispanic)               ,         N/V ,         N/V ,0,0,110,68,48
+2005,Colorado                                     ,8,4,8,,,Hispanic                           ,16,12,6,         N/V ,251,147,137
+2005,Colorado                                     ,8,4,8,,,White (not Hispanic)               ,27,17,10,         N/V ,284,195,120
+2005,Connecticut                                  ,9,1,1,,,Mental retardation                 ,0,0,0,         N/V ,64,         N/V ,61
+2005,Connecticut                                  ,9,1,1,,,Hearing impairments                ,0,0,0,         N/V ,10,0,10
+2005,Connecticut                                  ,9,1,1,,,Speech or language impairments     ,0,0,0,         N/V ,97,7,90
+2005,Connecticut                                  ,9,1,1,,,Visual impairments                 ,0,0,0,0,7,0,7
+2005,Connecticut                                  ,9,1,1,,,Emotional disturbance              ,         N/V ,         N/V ,0,         N/V ,596,19,577
+2005,Connecticut                                  ,9,1,1,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Connecticut                                  ,9,1,1,,,Other health impairments           ,         N/V ,         N/V ,0,         N/V ,365,16,349
+2005,Connecticut                                  ,9,1,1,,,Specific learning disabilities     ,         N/V ,         N/V ,         N/V ,6,842,46,796
+2005,Connecticut                                  ,9,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Connecticut                                  ,9,1,1,,,Multiple disabilities              ,0,0,0,0,28,         N/V ,27
+2005,Connecticut                                  ,9,1,1,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Connecticut                                  ,9,1,1,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Connecticut                                  ,9,1,1,,,Developmental delay                ,0,0,0,0,5,0,5
+2005,Connecticut                                  ,9,1,1,,,All disabilities                   ,7,6,         N/V ,17,"2,019",92,"1,927"
+2005,Connecticut                                  ,9,1,1,,,American Indian/Alaska Native      ,0,0,0,0,7,         N/V ,6
+2005,Connecticut                                  ,9,1,1,,,Asian/Pacific Islander             ,0,0,0,0,8,0,8
+2005,Connecticut                                  ,9,1,1,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,         N/V ,757,         N/V ,730
+2005,Connecticut                                  ,9,1,1,,,Hispanic                           ,         N/V ,         N/V ,0,         N/V ,699,29,670
+2005,Connecticut                                  ,9,1,1,,,White (not Hispanic)               ,5,         N/V ,0,8,548,35,513
+2005,Delaware                                     ,10,3,5,,,Mental retardation                 ,         N/V ,         N/V ,0,0,41,         N/V ,38
+2005,Delaware                                     ,10,3,5,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Delaware                                     ,10,3,5,,,Speech or language impairments     ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Delaware                                     ,10,3,5,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Delaware                                     ,10,3,5,,,Emotional disturbance              ,0,0,0,0,78,         N/V ,77
+2005,Delaware                                     ,10,3,5,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Delaware                                     ,10,3,5,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,58,         N/V ,56
+2005,Delaware                                     ,10,3,5,,,Specific learning disabilities     ,10,5,         N/V ,0,218,19,207
+2005,Delaware                                     ,10,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Delaware                                     ,10,3,5,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Delaware                                     ,10,3,5,,,Autism                             ,0,0,0,0,0,0,0
+2005,Delaware                                     ,10,3,5,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Delaware                                     ,10,3,5,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Delaware                                     ,10,3,5,,,All disabilities                   ,15,8,8,0,405,28,387
+2005,Delaware                                     ,10,3,5,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,         N/V ,0
+2005,Delaware                                     ,10,3,5,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Delaware                                     ,10,3,5,,,Black (not Hispanic)               ,8,         N/V ,         N/V ,0,268,15,259
+2005,Delaware                                     ,10,3,5,,,Hispanic                           ,0,0,0,0,39,         N/V ,         N/V 
+2005,Delaware                                     ,10,3,5,,,White (not Hispanic)               ,7,         N/V ,         N/V ,0,96,11,88
+2005,District of Columbia                         ,11,3,5,,,Mental retardation                 ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Speech or language impairments     ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Emotional disturbance              ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Specific learning disabilities     ,         N/V ,         N/V ,         N/V ,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Autism                             ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,All disabilities                   ,         N/V ,         N/V ,         N/V ,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Black (not Hispanic)               ,         N/V ,         N/V ,         N/V ,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,District of Columbia                         ,11,3,5,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Florida                                      ,12,3,5,,,Mental retardation                 ,9,         N/V ,         N/V ,0,712,         N/V ,712
+2005,Florida                                      ,12,3,5,,,Hearing impairments                ,         N/V ,0,         N/V ,0,19,0,19
+2005,Florida                                      ,12,3,5,,,Speech or language impairments     ,         N/V ,0,         N/V ,0,435,8,435
+2005,Florida                                      ,12,3,5,,,Visual impairments                 ,0,0,0,0,8,0,8
+2005,Florida                                      ,12,3,5,,,Emotional disturbance              ,24,9,16,0,"2,803",7,"2,803"
+2005,Florida                                      ,12,3,5,,,Orthopedic impairments             ,0,0,0,0,14,0,14
+2005,Florida                                      ,12,3,5,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,413,         N/V ,413
+2005,Florida                                      ,12,3,5,,,Specific learning disabilities     ,49,19,30,0,"3,936",27,"3,936"
+2005,Florida                                      ,12,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Florida                                      ,12,3,5,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Florida                                      ,12,3,5,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Florida                                      ,12,3,5,,,Traumatic brain injury             ,0,0,0,0,19,0,19
+2005,Florida                                      ,12,3,5,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Florida                                      ,12,3,5,,,All disabilities                   ,86,35,52,0,"8,369",46,"8,369"
+2005,Florida                                      ,12,3,5,,,American Indian/Alaska Native      ,0,0,0,0,22,0,22
+2005,Florida                                      ,12,3,5,,,Asian/Pacific Islander             ,         N/V ,0,         N/V ,0,20,0,20
+2005,Florida                                      ,12,3,5,,,Black (not Hispanic)               ,29,11,19,0,"4,474",17,"4,474"
+2005,Florida                                      ,12,3,5,,,Hispanic                           ,         N/V ,7,         N/V ,0,"1,345",5,"1,345"
+2005,Florida                                      ,12,3,5,,,White (not Hispanic)               ,40,17,23,0,"2,508",24,"2,508"
+2005,Georgia                                      ,13,3,5,,,Mental retardation                 ,15,10,5,0,196,15,190
+2005,Georgia                                      ,13,3,5,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Georgia                                      ,13,3,5,,,Speech or language impairments     ,8,5,         N/V ,0,23,6,23
+2005,Georgia                                      ,13,3,5,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Georgia                                      ,13,3,5,,,Emotional disturbance              ,55,32,25,         N/V ,409,32,397
+2005,Georgia                                      ,13,3,5,,,Orthopedic impairments             ,         N/V ,0,         N/V ,0,0,0,0
+2005,Georgia                                      ,13,3,5,,,Other health impairments           ,30,22,10,0,188,19,179
+2005,Georgia                                      ,13,3,5,,,Specific learning disabilities     ,76,40,37,0,380,45,366
+2005,Georgia                                      ,13,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Georgia                                      ,13,3,5,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Georgia                                      ,13,3,5,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Georgia                                      ,13,3,5,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Georgia                                      ,13,3,5,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Georgia                                      ,13,3,5,,,All disabilities                   ,186,109,82,         N/V ,"1,207",119,"1,165"
+2005,Georgia                                      ,13,3,5,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,Georgia                                      ,13,3,5,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,Georgia                                      ,13,3,5,,,Black (not Hispanic)               ,89,42,47,         N/V ,846,72,828
+2005,Georgia                                      ,13,3,5,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,39,13,36
+2005,Georgia                                      ,13,3,5,,,White (not Hispanic)               ,80,53,27,0,316,34,295
+2005,Guam                                         ,66,,,,,Mental retardation                 ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Speech or language impairments     ,0,0,0,0,         N/V ,0,         N/V 
+2005,Guam                                         ,66,,,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Emotional disturbance              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Guam                                         ,66,,,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Other health impairments           ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Guam                                         ,66,,,,,Specific learning disabilities     ,         N/V ,         N/V ,5,0,         N/V ,0,         N/V 
+2005,Guam                                         ,66,,,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Autism                             ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,All disabilities                   ,         N/V ,15,         N/V ,0,80,0,80
+2005,Guam                                         ,66,,,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Asian/Pacific Islander             ,17,15,5,0,         N/V ,0,         N/V 
+2005,Guam                                         ,66,,,,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Guam                                         ,66,,,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Hawaii                                       ,15,4,9,,,Mental retardation                 ,0,0,0,0,9,5,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Speech or language impairments     ,0,0,0,0,         N/V ,0,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Emotional disturbance              ,0,0,0,0,60,31,31
+2005,Hawaii                                       ,15,4,9,,,Orthopedic impairments             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Hawaii                                       ,15,4,9,,,Other health impairments           ,0,0,0,0,31,21,16
+2005,Hawaii                                       ,15,4,9,,,Specific learning disabilities     ,0,0,0,0,102,69,40
+2005,Hawaii                                       ,15,4,9,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Hawaii                                       ,15,4,9,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Hawaii                                       ,15,4,9,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Hawaii                                       ,15,4,9,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Hawaii                                       ,15,4,9,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Hawaii                                       ,15,4,9,,,All disabilities                   ,0,0,0,0,211,132,94
+2005,Hawaii                                       ,15,4,9,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Asian/Pacific Islander             ,0,0,0,0,172,105,80
+2005,Hawaii                                       ,15,4,9,,,Black (not Hispanic)               ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Hawaii                                       ,15,4,9,,,Hispanic                           ,0,0,0,0,8,6,         N/V 
+2005,Hawaii                                       ,15,4,9,,,White (not Hispanic)               ,0,0,0,0,24,17,8
+2005,Idaho                                        ,16,4,8,,,Mental retardation                 ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Idaho                                        ,16,4,8,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Idaho                                        ,16,4,8,,,Speech or language impairments     ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Idaho                                        ,16,4,8,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Emotional disturbance              ,         N/V ,         N/V ,         N/V ,         N/V ,6,         N/V ,0
+2005,Idaho                                        ,16,4,8,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Other health impairments           ,7,         N/V ,         N/V ,0,9,6,         N/V 
+2005,Idaho                                        ,16,4,8,,,Specific learning disabilities     ,13,5,8,         N/V ,25,14,11
+2005,Idaho                                        ,16,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Idaho                                        ,16,4,8,,,Autism                             ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,All disabilities                   ,25,9,17,         N/V ,45,27,18
+2005,Idaho                                        ,16,4,8,,,American Indian/Alaska Native      ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Idaho                                        ,16,4,8,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Idaho                                        ,16,4,8,,,Black (not Hispanic)               ,0,0,0,0,         N/V ,         N/V ,0
+2005,Idaho                                        ,16,4,8,,,Hispanic                           ,         N/V ,0,6,         N/V ,10,8,         N/V 
+2005,Idaho                                        ,16,4,8,,,White (not Hispanic)               ,17,         N/V ,11,         N/V ,31,17,14
+2005,Illinois                                     ,17,2,3,,,Mental retardation                 ,35,27,19,16,250,93,178
+2005,Illinois                                     ,17,2,3,,,Hearing impairments                ,         N/V ,         N/V ,         N/V ,0,18,9,9
+2005,Illinois                                     ,17,2,3,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,         N/V ,62,28,37
+2005,Illinois                                     ,17,2,3,,,Visual impairments                 ,0,0,0,         N/V ,11,11,8
+2005,Illinois                                     ,17,2,3,,,Emotional disturbance              ,113,80,67,98,875,285,646
+2005,Illinois                                     ,17,2,3,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Illinois                                     ,17,2,3,,,Other health impairments           ,27,18,19,12,187,40,157
+2005,Illinois                                     ,17,2,3,,,Specific learning disabilities     ,341,270,108,160,"1,310",489,884
+2005,Illinois                                     ,17,2,3,,,Deaf-blindness                     ,0,0,0,0,21,0,21
+2005,Illinois                                     ,17,2,3,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,         N/V ,20,         N/V ,17
+2005,Illinois                                     ,17,2,3,,,Autism                             ,7,7,0,         N/V ,         N/V ,         N/V ,         N/V 
+2005,Illinois                                     ,17,2,3,,,Traumatic brain injury             ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Illinois                                     ,17,2,3,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Illinois                                     ,17,2,3,,,All disabilities                   ,536,408,220,292,"2,762",962,"1,962"
+2005,Illinois                                     ,17,2,3,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,Illinois                                     ,17,2,3,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,         N/V ,         N/V ,5,         N/V 
+2005,Illinois                                     ,17,2,3,,,Black (not Hispanic)               ,194,118,104,188,"1,432",472,"1,045"
+2005,Illinois                                     ,17,2,3,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,         N/V ,350,170,195
+2005,Illinois                                     ,17,2,3,,,White (not Hispanic)               ,294,254,85,78,967,315,713
+2005,Indiana                                      ,18,2,3,,,Mental retardation                 ,68,44,24,0,346,155,191
+2005,Indiana                                      ,18,2,3,,,Hearing impairments                ,         N/V ,         N/V ,         N/V ,0,10,5,5
+2005,Indiana                                      ,18,2,3,,,Speech or language impairments     ,15,6,9,0,14,5,9
+2005,Indiana                                      ,18,2,3,,,Visual impairments                 ,         N/V ,0,         N/V ,0,7,         N/V ,         N/V 
+2005,Indiana                                      ,18,2,3,,,Emotional disturbance              ,185,112,73,0,731,183,548
+2005,Indiana                                      ,18,2,3,,,Orthopedic impairments             ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,0
+2005,Indiana                                      ,18,2,3,,,Other health impairments           ,54,33,21,0,144,29,115
+2005,Indiana                                      ,18,2,3,,,Specific learning disabilities     ,326,225,101,0,813,268,545
+2005,Indiana                                      ,18,2,3,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Indiana                                      ,18,2,3,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Indiana                                      ,18,2,3,,,Autism                             ,8,         N/V ,7,0,27,         N/V ,23
+2005,Indiana                                      ,18,2,3,,,Traumatic brain injury             ,0,0,0,0,10,         N/V ,6
+2005,Indiana                                      ,18,2,3,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Indiana                                      ,18,2,3,,,All disabilities                   ,663,424,239,0,"2,105",657,"1,448"
+2005,Indiana                                      ,18,2,3,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,6,         N/V ,         N/V 
+2005,Indiana                                      ,18,2,3,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,5,         N/V ,         N/V 
+2005,Indiana                                      ,18,2,3,,,Black (not Hispanic)               ,177,105,72,0,797,366,431
+2005,Indiana                                      ,18,2,3,,,Hispanic                           ,15,11,         N/V ,0,44,16,28
+2005,Indiana                                      ,18,2,3,,,White (not Hispanic)               ,466,305,161,0,"1,253",269,984
+2005,Iowa                                         ,19,2,4,,,Mental retardation                 ,         N/V ,0,         N/V ,0,91,         N/V ,87
+2005,Iowa                                         ,19,2,4,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Speech or language impairments     ,         N/V ,0,         N/V ,0,43,         N/V ,42
+2005,Iowa                                         ,19,2,4,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Iowa                                         ,19,2,4,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,52,         N/V ,49
+2005,Iowa                                         ,19,2,4,,,Orthopedic impairments             ,0,0,0,0,5,0,5
+2005,Iowa                                         ,19,2,4,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,Iowa                                         ,19,2,4,,,Specific learning disabilities     ,9,6,         N/V ,0,306,12,297
+2005,Iowa                                         ,19,2,4,,,Deaf-blindness                     ,0,0,0,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Autism                             ,0,0,0,0,6,0,6
+2005,Iowa                                         ,19,2,4,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Iowa                                         ,19,2,4,,,All disabilities                   ,14,6,8,0,513,20,496
+2005,Iowa                                         ,19,2,4,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Asian/Pacific Islander             ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Iowa                                         ,19,2,4,,,Black (not Hispanic)               ,         N/V ,         N/V ,         N/V ,0,199,7,194
+2005,Iowa                                         ,19,2,4,,,Hispanic                           ,         N/V ,0,         N/V ,0,27,0,27
+2005,Iowa                                         ,19,2,4,,,White (not Hispanic)               ,9,         N/V ,         N/V ,0,282,13,270
+2005,Kansas                                       ,20,2,4,,,Mental retardation                 ,7,5,         N/V ,0,43,6,38
+2005,Kansas                                       ,20,2,4,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,Speech or language impairments     ,0,0,0,0,7,0,7
+2005,Kansas                                       ,20,2,4,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,Emotional disturbance              ,22,13,10,         N/V ,124,11,117
+2005,Kansas                                       ,20,2,4,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,Other health impairments           ,12,9,         N/V ,         N/V ,89,15,80
+2005,Kansas                                       ,20,2,4,,,Specific learning disabilities     ,62,46,17,12,306,43,267
+2005,Kansas                                       ,20,2,4,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Kansas                                       ,20,2,4,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,         N/V ,34,         N/V ,32
+2005,Kansas                                       ,20,2,4,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Kansas                                       ,20,2,4,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,All disabilities                   ,109,76,35,18,617,79,554
+2005,Kansas                                       ,20,2,4,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Kansas                                       ,20,2,4,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,         N/V ,         N/V ,0,         N/V 
+2005,Kansas                                       ,20,2,4,,,Black (not Hispanic)               ,38,29,10,         N/V ,229,10,223
+2005,Kansas                                       ,20,2,4,,,Hispanic                           ,6,         N/V ,         N/V ,0,56,         N/V ,51
+2005,Kansas                                       ,20,2,4,,,White (not Hispanic)               ,59,42,18,9,314,62,264
+2005,Kentucky                                     ,21,3,6,,,Mental retardation                 ,         N/V ,         N/V ,0,0,56,5,55
+2005,Kentucky                                     ,21,3,6,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kentucky                                     ,21,3,6,,,Speech or language impairments     ,0,0,0,0,7,0,7
+2005,Kentucky                                     ,21,3,6,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Kentucky                                     ,21,3,6,,,Emotional disturbance              ,         N/V ,5,0,0,140,10,130
+2005,Kentucky                                     ,21,3,6,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Kentucky                                     ,21,3,6,,,Other health impairments           ,0,0,0,0,59,10,51
+2005,Kentucky                                     ,21,3,6,,,Specific learning disabilities     ,         N/V ,         N/V ,0,0,65,10,55
+2005,Kentucky                                     ,21,3,6,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Kentucky                                     ,21,3,6,,,Multiple disabilities              ,0,0,0,0,16,8,8
+2005,Kentucky                                     ,21,3,6,,,Autism                             ,0,0,0,0,0,0,0
+2005,Kentucky                                     ,21,3,6,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Kentucky                                     ,21,3,6,,,Developmental delay                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Kentucky                                     ,21,3,6,,,All disabilities                   ,7,13,0,0,353,45,314
+2005,Kentucky                                     ,21,3,6,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Kentucky                                     ,21,3,6,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Kentucky                                     ,21,3,6,,,Black (not Hispanic)               ,0,0,0,0,131,         N/V ,126
+2005,Kentucky                                     ,21,3,6,,,Hispanic                           ,0,0,0,0,6,         N/V ,5
+2005,Kentucky                                     ,21,3,6,,,White (not Hispanic)               ,7,13,0,0,216,38,183
+2005,Louisiana                                    ,22,3,7,,,Mental retardation                 ,25,13,13,0,120,16,111
+2005,Louisiana                                    ,22,3,7,,,Hearing impairments                ,         N/V ,         N/V ,0,0,5,         N/V ,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Speech or language impairments     ,15,10,         N/V ,0,28,         N/V ,27
+2005,Louisiana                                    ,22,3,7,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,0
+2005,Louisiana                                    ,22,3,7,,,Emotional disturbance              ,32,17,17,0,189,12,181
+2005,Louisiana                                    ,22,3,7,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,0
+2005,Louisiana                                    ,22,3,7,,,Other health impairments           ,33,24,15,0,161,20,155
+2005,Louisiana                                    ,22,3,7,,,Specific learning disabilities     ,122,83,57,0,510,84,471
+2005,Louisiana                                    ,22,3,7,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Louisiana                                    ,22,3,7,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Developmental delay                ,6,         N/V ,         N/V ,0,9,         N/V ,9
+2005,Louisiana                                    ,22,3,7,,,All disabilities                   ,235,151,111,0,"1,031",139,964
+2005,Louisiana                                    ,22,3,7,,,American Indian/Alaska Native      ,6,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Louisiana                                    ,22,3,7,,,Black (not Hispanic)               ,141,80,73,0,815,104,763
+2005,Louisiana                                    ,22,3,7,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,5,0,5
+2005,Louisiana                                    ,22,3,7,,,White (not Hispanic)               ,84,65,34,0,207,         N/V ,192
+2005,Maine                                        ,23,1,1,,,Mental retardation                 ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Maine                                        ,23,1,1,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Speech or language impairments     ,         N/V ,         N/V ,0,         N/V ,5,0,5
+2005,Maine                                        ,23,1,1,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Emotional disturbance              ,16,13,         N/V ,         N/V ,20,         N/V ,18
+2005,Maine                                        ,23,1,1,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Other health impairments           ,23,19,         N/V ,11,34,6,28
+2005,Maine                                        ,23,1,1,,,Specific learning disabilities     ,35,26,9,19,54,26,28
+2005,Maine                                        ,23,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,         N/V ,6,         N/V ,5
+2005,Maine                                        ,23,1,1,,,Autism                             ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Maine                                        ,23,1,1,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,All disabilities                   ,80,62,18,41,121,35,86
+2005,Maine                                        ,23,1,1,,,American Indian/Alaska Native      ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Maine                                        ,23,1,1,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Maine                                        ,23,1,1,,,Black (not Hispanic)               ,0,0,0,         N/V ,0,0,0
+2005,Maine                                        ,23,1,1,,,Hispanic                           ,0,0,0,0,         N/V ,0,         N/V 
+2005,Maine                                        ,23,1,1,,,White (not Hispanic)               ,         N/V ,         N/V ,18,         N/V ,117,35,82
+2005,Maryland                                     ,24,3,5,,,Mental retardation                 ,         N/V ,0,         N/V ,0,78,36,52
+2005,Maryland                                     ,24,3,5,,,Hearing impairments                ,0,0,0,0,5,0,5
+2005,Maryland                                     ,24,3,5,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,0,91,46,50
+2005,Maryland                                     ,24,3,5,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Maryland                                     ,24,3,5,,,Emotional disturbance              ,16,         N/V ,16,         N/V ,556,211,399
+2005,Maryland                                     ,24,3,5,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Maryland                                     ,24,3,5,,,Other health impairments           ,13,         N/V ,11,         N/V ,415,160,291
+2005,Maryland                                     ,24,3,5,,,Specific learning disabilities     ,19,7,13,         N/V ,891,407,562
+2005,Maryland                                     ,24,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Maryland                                     ,24,3,5,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,79,29,61
+2005,Maryland                                     ,24,3,5,,,Autism                             ,0,0,0,0,11,         N/V ,9
+2005,Maryland                                     ,24,3,5,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Maryland                                     ,24,3,5,,,Developmental delay                ,0,0,0,0,6,0,6
+2005,Maryland                                     ,24,3,5,,,All disabilities                   ,55,14,44,6,"2,141",895,"1,440"
+2005,Maryland                                     ,24,3,5,,,American Indian/Alaska Native      ,         N/V ,0,         N/V ,0,8,         N/V ,         N/V 
+2005,Maryland                                     ,24,3,5,,,Asian/Pacific Islander             ,0,0,0,         N/V ,5,         N/V ,         N/V 
+2005,Maryland                                     ,24,3,5,,,Black (not Hispanic)               ,30,         N/V ,29,         N/V ,"1,497",660,996
+2005,Maryland                                     ,24,3,5,,,Hispanic                           ,         N/V ,6,         N/V ,0,91,51,45
+2005,Maryland                                     ,24,3,5,,,White (not Hispanic)               ,13,         N/V ,9,         N/V ,540,177,392
+2005,Massachusetts                                ,25,1,1,,,Mental retardation                 ,         N/V ,0,         N/V ,         N/V ,148,24,128
+2005,Massachusetts                                ,25,1,1,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Massachusetts                                ,25,1,1,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,8,53,20,35
+2005,Massachusetts                                ,25,1,1,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Massachusetts                                ,25,1,1,,,Emotional disturbance              ,8,5,         N/V ,6,325,63,274
+2005,Massachusetts                                ,25,1,1,,,Orthopedic impairments             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Massachusetts                                ,25,1,1,,,Other health impairments           ,8,5,         N/V ,         N/V ,130,22,112
+2005,Massachusetts                                ,25,1,1,,,Specific learning disabilities     ,27,14,14,27,755,183,606
+2005,Massachusetts                                ,25,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Massachusetts                                ,25,1,1,,,Multiple disabilities              ,         N/V ,0,         N/V ,         N/V ,42,11,33
+2005,Massachusetts                                ,25,1,1,,,Autism                             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Massachusetts                                ,25,1,1,,,Traumatic brain injury             ,         N/V ,         N/V ,0,         N/V ,20,         N/V ,16
+2005,Massachusetts                                ,25,1,1,,,Developmental delay                ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Massachusetts                                ,25,1,1,,,All disabilities                   ,55,28,29,45,"1,483",330,"1,211"
+2005,Massachusetts                                ,25,1,1,,,American Indian/Alaska Native      ,0,0,0,0,9,         N/V ,5
+2005,Massachusetts                                ,25,1,1,,,Asian/Pacific Islander             ,0,0,0,0,10,0,10
+2005,Massachusetts                                ,25,1,1,,,Black (not Hispanic)               ,7,         N/V ,6,         N/V ,289,         N/V ,219
+2005,Massachusetts                                ,25,1,1,,,Hispanic                           ,15,         N/V ,13,         N/V ,406,103,325
+2005,Massachusetts                                ,25,1,1,,,White (not Hispanic)               ,33,24,10,27,769,139,652
+2005,Michigan                                     ,26,2,3,,,Mental retardation                 ,30,15,16,12,462,95,398
+2005,Michigan                                     ,26,2,3,,,Hearing impairments                ,         N/V ,         N/V ,         N/V ,         N/V ,13,         N/V ,10
+2005,Michigan                                     ,26,2,3,,,Speech or language impairments     ,         N/V ,         N/V ,0,         N/V ,46,15,33
+2005,Michigan                                     ,26,2,3,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Michigan                                     ,26,2,3,,,Emotional disturbance              ,44,22,25,31,826,189,719
+2005,Michigan                                     ,26,2,3,,,Orthopedic impairments             ,7,         N/V ,         N/V ,0,44,11,36
+2005,Michigan                                     ,26,2,3,,,Other health impairments           ,28,18,11,33,233,86,184
+2005,Michigan                                     ,26,2,3,,,Specific learning disabilities     ,160,115,52,93,"1,824",489,"1,537"
+2005,Michigan                                     ,26,2,3,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Michigan                                     ,26,2,3,,,Multiple disabilities              ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Michigan                                     ,26,2,3,,,Autism                             ,         N/V ,         N/V ,0,6,27,17,19
+2005,Michigan                                     ,26,2,3,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,7,         N/V ,         N/V 
+2005,Michigan                                     ,26,2,3,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Michigan                                     ,26,2,3,,,All disabilities                   ,275,177,111,178,"3,488",911,"2,944"
+2005,Michigan                                     ,26,2,3,,,American Indian/Alaska Native      ,         N/V ,6,         N/V ,         N/V ,44,12,33
+2005,Michigan                                     ,26,2,3,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,         N/V ,10,13,6
+2005,Michigan                                     ,26,2,3,,,Black (not Hispanic)               ,123,72,58,34,"1,750",330,"1,533"
+2005,Michigan                                     ,26,2,3,,,Hispanic                           ,12,         N/V ,         N/V ,         N/V ,169,41,144
+2005,Michigan                                     ,26,2,3,,,White (not Hispanic)               ,132,94,44,136,"1,515",515,"1,228"
+2005,Minnesota                                    ,27,2,4,,,Mental retardation                 ,         N/V ,0,         N/V ,0,40,         N/V ,40
+2005,Minnesota                                    ,27,2,4,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Minnesota                                    ,27,2,4,,,Speech or language impairments     ,0,0,0,0,20,         N/V ,20
+2005,Minnesota                                    ,27,2,4,,,Visual impairments                 ,         N/V ,0,         N/V ,0,24,7,24
+2005,Minnesota                                    ,27,2,4,,,Emotional disturbance              ,14,5,9,0,352,39,352
+2005,Minnesota                                    ,27,2,4,,,Orthopedic impairments             ,9,         N/V ,5,0,225,21,225
+2005,Minnesota                                    ,27,2,4,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,66,8,66
+2005,Minnesota                                    ,27,2,4,,,Specific learning disabilities     ,8,7,         N/V ,0,242,23,242
+2005,Minnesota                                    ,27,2,4,,,Deaf-blindness                     ,         N/V ,0,         N/V ,0,27,11,27
+2005,Minnesota                                    ,27,2,4,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Minnesota                                    ,27,2,4,,,Autism                             ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Minnesota                                    ,27,2,4,,,Traumatic brain injury             ,0,0,0,0,5,0,5
+2005,Minnesota                                    ,27,2,4,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Minnesota                                    ,27,2,4,,,All disabilities                   ,41,17,25,0,"1,008",114,"1,008"
+2005,Minnesota                                    ,27,2,4,,,American Indian/Alaska Native      ,8,         N/V ,         N/V ,0,66,8,66
+2005,Minnesota                                    ,27,2,4,,,Asian/Pacific Islander             ,0,0,0,0,17,         N/V ,17
+2005,Minnesota                                    ,27,2,4,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,0,618,59,618
+2005,Minnesota                                    ,27,2,4,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,47,         N/V ,47
+2005,Minnesota                                    ,27,2,4,,,White (not Hispanic)               ,27,11,17,0,260,38,260
+2005,Mississippi                                  ,28,3,6,,,Mental retardation                 ,0,0,0,0,32,5,27
+2005,Mississippi                                  ,28,3,6,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Mississippi                                  ,28,3,6,,,Speech or language impairments     ,0,0,0,0,24,         N/V ,20
+2005,Mississippi                                  ,28,3,6,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Mississippi                                  ,28,3,6,,,Emotional disturbance              ,         N/V ,         N/V ,         N/V ,0,34,5,29
+2005,Mississippi                                  ,28,3,6,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Mississippi                                  ,28,3,6,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,51,7,44
+2005,Mississippi                                  ,28,3,6,,,Specific learning disabilities     ,24,15,9,0,309,58,251
+2005,Mississippi                                  ,28,3,6,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Mississippi                                  ,28,3,6,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Mississippi                                  ,28,3,6,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Mississippi                                  ,28,3,6,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Mississippi                                  ,28,3,6,,,Developmental delay                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Mississippi                                  ,28,3,6,,,All disabilities                   ,29,20,11,0,461,83,378
+2005,Mississippi                                  ,28,3,6,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Mississippi                                  ,28,3,6,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Mississippi                                  ,28,3,6,,,Black (not Hispanic)               ,19,12,         N/V ,0,397,63,334
+2005,Mississippi                                  ,28,3,6,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Mississippi                                  ,28,3,6,,,White (not Hispanic)               ,10,8,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Missouri                                     ,29,2,4,,,Mental retardation                 ,10,6,         N/V ,0,293,41,263
+2005,Missouri                                     ,29,2,4,,,Hearing impairments                ,         N/V ,         N/V ,0,0,18,7,17
+2005,Missouri                                     ,29,2,4,,,Speech or language impairments     ,17,8,9,0,174,46,137
+2005,Missouri                                     ,29,2,4,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Missouri                                     ,29,2,4,,,Emotional disturbance              ,31,22,9,0,743,130,668
+2005,Missouri                                     ,29,2,4,,,Orthopedic impairments             ,0,0,0,0,         N/V ,6,         N/V 
+2005,Missouri                                     ,29,2,4,,,Other health impairments           ,46,37,11,0,408,101,336
+2005,Missouri                                     ,29,2,4,,,Specific learning disabilities     ,117,92,26,0,"1,605",440,"1,283"
+2005,Missouri                                     ,29,2,4,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Missouri                                     ,29,2,4,,,Multiple disabilities              ,0,0,0,0,11,6,8
+2005,Missouri                                     ,29,2,4,,,Autism                             ,         N/V ,         N/V ,0,0,14,         N/V ,13
+2005,Missouri                                     ,29,2,4,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,8,         N/V ,7
+2005,Missouri                                     ,29,2,4,,,Developmental delay                ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Missouri                                     ,29,2,4,,,All disabilities                   ,227,169,61,0,"3,283",780,"2,735"
+2005,Missouri                                     ,29,2,4,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Missouri                                     ,29,2,4,,,Asian/Pacific Islander             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Missouri                                     ,29,2,4,,,Black (not Hispanic)               ,66,42,24,0,"2,028",470,"1,717"
+2005,Missouri                                     ,29,2,4,,,Hispanic                           ,         N/V ,         N/V ,0,0,42,10,33
+2005,Missouri                                     ,29,2,4,,,White (not Hispanic)               ,154,122,35,0,"1,201",296,977
+2005,Montana                                      ,30,4,8,,,Mental retardation                 ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Montana                                      ,30,4,8,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Speech or language impairments     ,0,0,0,0,         N/V ,0,         N/V 
+2005,Montana                                      ,30,4,8,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Emotional disturbance              ,         N/V ,6,0,0,22,         N/V ,21
+2005,Montana                                      ,30,4,8,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,0,9,6,         N/V 
+2005,Montana                                      ,30,4,8,,,Specific learning disabilities     ,29,23,6,0,71,31,43
+2005,Montana                                      ,30,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,Montana                                      ,30,4,8,,,Autism                             ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,All disabilities                   ,43,35,10,0,106,40,70
+2005,Montana                                      ,30,4,8,,,American Indian/Alaska Native      ,10,9,         N/V ,0,57,         N/V ,42
+2005,Montana                                      ,30,4,8,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Montana                                      ,30,4,8,,,Black (not Hispanic)               ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,Montana                                      ,30,4,8,,,Hispanic                           ,         N/V ,         N/V ,0,0,         N/V ,         N/V ,         N/V 
+2005,Montana                                      ,30,4,8,,,White (not Hispanic)               ,29,22,         N/V ,0,45,21,25
+2005,Nebraska                                     ,31,2,4,,,Mental retardation                 ,0,0,0,0,53,16,50
+2005,Nebraska                                     ,31,2,4,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Nebraska                                     ,31,2,4,,,Speech or language impairments     ,0,0,0,0,23,13,16
+2005,Nebraska                                     ,31,2,4,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Nebraska                                     ,31,2,4,,,Emotional disturbance              ,         N/V ,         N/V ,5,0,124,31,109
+2005,Nebraska                                     ,31,2,4,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Nebraska                                     ,31,2,4,,,Other health impairments           ,8,         N/V ,         N/V ,0,102,33,90
+2005,Nebraska                                     ,31,2,4,,,Specific learning disabilities     ,12,6,6,0,239,125,174
+2005,Nebraska                                     ,31,2,4,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Nebraska                                     ,31,2,4,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,8,         N/V ,5
+2005,Nebraska                                     ,31,2,4,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Nebraska                                     ,31,2,4,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Nebraska                                     ,31,2,4,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Nebraska                                     ,31,2,4,,,All disabilities                   ,28,12,16,0,557,226,448
+2005,Nebraska                                     ,31,2,4,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,10,         N/V 
+2005,Nebraska                                     ,31,2,4,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,5,         N/V 
+2005,Nebraska                                     ,31,2,4,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,0,256,70,233
+2005,Nebraska                                     ,31,2,4,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,45,15,37
+2005,Nebraska                                     ,31,2,4,,,White (not Hispanic)               ,23,         N/V ,13,0,236,126,167
+2005,Nevada                                       ,32,4,8,,,Mental retardation                 ,13,         N/V ,10,0,11,         N/V ,9
+2005,Nevada                                       ,32,4,8,,,Hearing impairments                ,         N/V ,         N/V ,0,0,0,0,0
+2005,Nevada                                       ,32,4,8,,,Speech or language impairments     ,5,0,5,0,8,0,8
+2005,Nevada                                       ,32,4,8,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Nevada                                       ,32,4,8,,,Emotional disturbance              ,57,34,30,0,114,34,86
+2005,Nevada                                       ,32,4,8,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Nevada                                       ,32,4,8,,,Other health impairments           ,26,11,16,0,34,10,27
+2005,Nevada                                       ,32,4,8,,,Specific learning disabilities     ,299,127,183,0,460,160,335
+2005,Nevada                                       ,32,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Nevada                                       ,32,4,8,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Nevada                                       ,32,4,8,,,Autism                             ,         N/V ,0,         N/V ,0,0,0,0
+2005,Nevada                                       ,32,4,8,,,Traumatic brain injury             ,0,0,0,0,5,         N/V ,         N/V 
+2005,Nevada                                       ,32,4,8,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Nevada                                       ,32,4,8,,,All disabilities                   ,403,176,246,0,636,207,473
+2005,Nevada                                       ,32,4,8,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Nevada                                       ,32,4,8,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Nevada                                       ,32,4,8,,,Black (not Hispanic)               ,134,51,93,0,301,104,223
+2005,Nevada                                       ,32,4,8,,,Hispanic                           ,93,36,60,0,162,42,127
+2005,Nevada                                       ,32,4,8,,,White (not Hispanic)               ,160,80,86,0,156,55,110
+2005,New Hampshire                                ,33,1,1,,,Mental retardation                 ,0,0,0,0,5,         N/V ,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Speech or language impairments     ,0,0,0,0,18,         N/V ,17
+2005,New Hampshire                                ,33,1,1,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Emotional disturbance              ,0,0,0,0,54,6,48
+2005,New Hampshire                                ,33,1,1,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,Other health impairments           ,0,0,0,0,51,         N/V ,47
+2005,New Hampshire                                ,33,1,1,,,Specific learning disabilities     ,0,0,0,0,86,8,79
+2005,New Hampshire                                ,33,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,Autism                             ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,All disabilities                   ,0,0,0,0,217,21,198
+2005,New Hampshire                                ,33,1,1,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,New Hampshire                                ,33,1,1,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Black (not Hispanic)               ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Hampshire                                ,33,1,1,,,Hispanic                           ,0,0,0,0,5,0,5
+2005,New Hampshire                                ,33,1,1,,,White (not Hispanic)               ,0,0,0,0,209,21,190
+2005,New Jersey                                   ,34,1,2,,,Mental retardation                 ,0,0,0,0,14,0,14
+2005,New Jersey                                   ,34,1,2,,,Hearing impairments                ,0,0,0,0,7,0,7
+2005,New Jersey                                   ,34,1,2,,,Speech or language impairments     ,         N/V ,         N/V ,0,0,29,         N/V ,27
+2005,New Jersey                                   ,34,1,2,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,New Jersey                                   ,34,1,2,,,Emotional disturbance              ,7,         N/V ,         N/V ,         N/V ,276,8,268
+2005,New Jersey                                   ,34,1,2,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Jersey                                   ,34,1,2,,,Other health impairments           ,         N/V ,0,         N/V ,         N/V ,127,         N/V ,124
+2005,New Jersey                                   ,34,1,2,,,Specific learning disabilities     ,35,20,19,7,831,36,800
+2005,New Jersey                                   ,34,1,2,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,New Jersey                                   ,34,1,2,,,Multiple disabilities              ,5,         N/V ,         N/V ,0,249,6,243
+2005,New Jersey                                   ,34,1,2,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Jersey                                   ,34,1,2,,,Traumatic brain injury             ,0,0,0,0,5,0,5
+2005,New Jersey                                   ,34,1,2,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,New Jersey                                   ,34,1,2,,,All disabilities                   ,49,26,28,9,"1,542",57,"1,491"
+2005,New Jersey                                   ,34,1,2,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Jersey                                   ,34,1,2,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,0,         N/V 
+2005,New Jersey                                   ,34,1,2,,,Black (not Hispanic)               ,26,13,16,         N/V ,623,14,611
+2005,New Jersey                                   ,34,1,2,,,Hispanic                           ,9,5,         N/V ,         N/V ,280,13,267
+2005,New Jersey                                   ,34,1,2,,,White (not Hispanic)               ,14,8,         N/V ,5,629,30,603
+2005,New Mexico                                   ,35,4,8,,,Mental retardation                 ,17,11,7,0,13,         N/V ,11
+2005,New Mexico                                   ,35,4,8,,,Hearing impairments                ,9,5,5,0,         N/V ,0,         N/V 
+2005,New Mexico                                   ,35,4,8,,,Speech or language impairments     ,72,64,27,0,54,         N/V ,50
+2005,New Mexico                                   ,35,4,8,,,Visual impairments                 ,         N/V ,0,         N/V ,0,0,0,0
+2005,New Mexico                                   ,35,4,8,,,Emotional disturbance              ,127,85,67,0,68,10,62
+2005,New Mexico                                   ,35,4,8,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,New Mexico                                   ,35,4,8,,,Other health impairments           ,82,50,49,0,39,9,31
+2005,New Mexico                                   ,35,4,8,,,Specific learning disabilities     ,592,508,186,0,339,31,317
+2005,New Mexico                                   ,35,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,New Mexico                                   ,35,4,8,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,New Mexico                                   ,35,4,8,,,Autism                             ,0,0,0,0,0,0,0
+2005,New Mexico                                   ,35,4,8,,,Traumatic brain injury             ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,New Mexico                                   ,35,4,8,,,Developmental delay                ,6,0,6,0,9,0,9
+2005,New Mexico                                   ,35,4,8,,,All disabilities                   ,912,727,352,0,529,58,485
+2005,New Mexico                                   ,35,4,8,,,American Indian/Alaska Native      ,225,221,48,0,68,16,54
+2005,New Mexico                                   ,35,4,8,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,0,         N/V ,0,         N/V 
+2005,New Mexico                                   ,35,4,8,,,Black (not Hispanic)               ,         N/V ,         N/V ,21,0,         N/V ,         N/V ,         N/V 
+2005,New Mexico                                   ,35,4,8,,,Hispanic                           ,446,352,172,0,315,28,296
+2005,New Mexico                                   ,35,4,8,,,White (not Hispanic)               ,200,126,111,0,120,         N/V ,110
+2005,New York                                     ,36,1,2,,,Mental retardation                 ,0,         N/V ,13,0,166,26,153
+2005,New York                                     ,36,1,2,,,Hearing impairments                ,0,         N/V ,         N/V ,         N/V ,13,9,6
+2005,New York                                     ,36,1,2,,,Speech or language impairments     ,0,6,26,0,201,127,95
+2005,New York                                     ,36,1,2,,,Visual impairments                 ,0,0,0,0,5,         N/V ,         N/V 
+2005,New York                                     ,36,1,2,,,Emotional disturbance              ,0,35,112,22,"1,604",530,"1,232"
+2005,New York                                     ,36,1,2,,,Orthopedic impairments             ,0,         N/V ,         N/V ,         N/V ,         N/V ,         N/V ,         N/V 
+2005,New York                                     ,36,1,2,,,Other health impairments           ,0,35,63,16,807,139,724
+2005,New York                                     ,36,1,2,,,Specific learning disabilities     ,0,132,243,78,"2,339",971,"1,601"
+2005,New York                                     ,36,1,2,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,New York                                     ,36,1,2,,,Multiple disabilities              ,0,         N/V ,7,6,130,13,123
+2005,New York                                     ,36,1,2,,,Autism                             ,0,0,         N/V ,         N/V ,8,         N/V ,6
+2005,New York                                     ,36,1,2,,,Traumatic brain injury             ,0,0,         N/V ,0,18,         N/V ,15
+2005,New York                                     ,36,1,2,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,New York                                     ,36,1,2,,,All disabilities                   ,0,217,472,125,"5,297","1,824","3,963"
+2005,New York                                     ,36,1,2,,,American Indian/Alaska Native      ,0,0,5,0,48,18,31
+2005,New York                                     ,36,1,2,,,Asian/Pacific Islander             ,0,         N/V ,12,0,23,13,11
+2005,New York                                     ,36,1,2,,,Black (not Hispanic)               ,0,53,225,63,"2,534",899,"1,885"
+2005,New York                                     ,36,1,2,,,Hispanic                           ,0,         N/V ,109,13,929,554,466
+2005,New York                                     ,36,1,2,,,White (not Hispanic)               ,0,142,121,49,"1,763",340,"1,570"
+2005,North Carolina                               ,37,3,5,,,Mental retardation                 ,20,8,13,29,"1,039",95,947
+2005,North Carolina                               ,37,3,5,,,Hearing impairments                ,         N/V ,0,         N/V ,0,21,         N/V ,17
+2005,North Carolina                               ,37,3,5,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,         N/V ,141,18,124
+2005,North Carolina                               ,37,3,5,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,North Carolina                               ,37,3,5,,,Emotional disturbance              ,23,7,16,43,"1,580",209,"1,373"
+2005,North Carolina                               ,37,3,5,,,Orthopedic impairments             ,         N/V ,         N/V ,0,5,8,         N/V ,7
+2005,North Carolina                               ,37,3,5,,,Other health impairments           ,18,8,10,16,967,191,778
+2005,North Carolina                               ,37,3,5,,,Specific learning disabilities     ,45,31,15,34,"1,673",228,"1,449"
+2005,North Carolina                               ,37,3,5,,,Deaf-blindness                     ,0,0,0,0,         N/V ,0,         N/V 
+2005,North Carolina                               ,37,3,5,,,Multiple disabilities              ,         N/V ,         N/V ,0,0,22,7,15
+2005,North Carolina                               ,37,3,5,,,Autism                             ,0,0,0,         N/V ,15,         N/V ,12
+2005,North Carolina                               ,37,3,5,,,Traumatic brain injury             ,         N/V ,0,         N/V ,0,13,         N/V ,11
+2005,North Carolina                               ,37,3,5,,,Developmental delay                ,0,0,0,0,20,         N/V ,19
+2005,North Carolina                               ,37,3,5,,,All disabilities                   ,114,59,57,130,"5,507",761,"4,758"
+2005,North Carolina                               ,37,3,5,,,American Indian/Alaska Native      ,0,0,0,         N/V ,96,         N/V ,         N/V 
+2005,North Carolina                               ,37,3,5,,,Asian/Pacific Islander             ,0,0,0,0,7,         N/V ,         N/V 
+2005,North Carolina                               ,37,3,5,,,Black (not Hispanic)               ,59,         N/V ,34,75,"3,971",523,"3,455"
+2005,North Carolina                               ,37,3,5,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,152,33,119
+2005,North Carolina                               ,37,3,5,,,White (not Hispanic)               ,         N/V ,32,         N/V ,         N/V ,"1,281",184,"1,102"
+2005,North Dakota                                 ,38,2,4,,,Mental retardation                 ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Speech or language impairments     ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Emotional disturbance              ,5,         N/V ,         N/V ,         N/V ,5,5,         N/V 
+2005,North Dakota                                 ,38,2,4,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Other health impairments           ,0,0,0,         N/V ,         N/V ,         N/V ,         N/V 
+2005,North Dakota                                 ,38,2,4,,,Specific learning disabilities     ,0,0,0,         N/V ,         N/V ,         N/V ,         N/V 
+2005,North Dakota                                 ,38,2,4,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Autism                             ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,All disabilities                   ,5,         N/V ,         N/V ,7,7,7,7
+2005,North Dakota                                 ,38,2,4,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,         N/V ,         N/V ,         N/V ,         N/V 
+2005,North Dakota                                 ,38,2,4,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,North Dakota                                 ,38,2,4,,,Hispanic                           ,0,0,0,         N/V ,0,0,0
+2005,North Dakota                                 ,38,2,4,,,White (not Hispanic)               ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V ,         N/V 
+2005,Northern Marianas                            ,69,,,,,Mental retardation                 ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Speech or language impairments     ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Emotional disturbance              ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Specific learning disabilities     ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Northern Marianas                            ,69,,,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Autism                             ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,All disabilities                   ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Northern Marianas                            ,69,,,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Northern Marianas                            ,69,,,,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Northern Marianas                            ,69,,,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,Mental retardation                 ,285,177,146,75,162,24,138
+2005,Ohio                                         ,39,2,3,,,Hearing impairments                ,         N/V ,         N/V ,7,         N/V ,         N/V ,0,         N/V 
+2005,Ohio                                         ,39,2,3,,,Speech or language impairments     ,44,7,40,0,24,         N/V ,21
+2005,Ohio                                         ,39,2,3,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Ohio                                         ,39,2,3,,,Emotional disturbance              ,326,180,216,111,193,26,167
+2005,Ohio                                         ,39,2,3,,,Orthopedic impairments             ,         N/V ,0,         N/V ,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,Other health impairments           ,207,104,129,         N/V ,60,11,53
+2005,Ohio                                         ,39,2,3,,,Specific learning disabilities     ,747,499,366,67,328,75,256
+2005,Ohio                                         ,39,2,3,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,Multiple disabilities              ,18,8,13,0,8,         N/V ,7
+2005,Ohio                                         ,39,2,3,,,Autism                             ,12,         N/V ,11,0,         N/V ,         N/V ,         N/V 
+2005,Ohio                                         ,39,2,3,,,Traumatic brain injury             ,9,6,         N/V ,0,6,         N/V ,5
+2005,Ohio                                         ,39,2,3,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,All disabilities                   ,"1,657",983,937,258,788,144,653
+2005,Ohio                                         ,39,2,3,,,American Indian/Alaska Native      ,         N/V ,0,         N/V ,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,0,0,0
+2005,Ohio                                         ,39,2,3,,,Black (not Hispanic)               ,382,188,247,149,328,         N/V ,269
+2005,Ohio                                         ,39,2,3,,,Hispanic                           ,35,         N/V ,24,7,13,         N/V ,11
+2005,Ohio                                         ,39,2,3,,,White (not Hispanic)               ,"1,235",776,662,102,447,76,373
+2005,Oklahoma                                     ,40,3,7,,,Mental retardation                 ,13,6,7,0,123,51,75
+2005,Oklahoma                                     ,40,3,7,,,Hearing impairments                ,         N/V ,         N/V ,0,0,7,         N/V ,6
+2005,Oklahoma                                     ,40,3,7,,,Speech or language impairments     ,         N/V ,         N/V ,0,0,17,6,12
+2005,Oklahoma                                     ,40,3,7,,,Visual impairments                 ,0,0,0,0,         N/V ,8,         N/V 
+2005,Oklahoma                                     ,40,3,7,,,Emotional disturbance              ,42,68,24,         N/V ,246,122,136
+2005,Oklahoma                                     ,40,3,7,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Oklahoma                                     ,40,3,7,,,Other health impairments           ,25,22,         N/V ,0,131,145,68
+2005,Oklahoma                                     ,40,3,7,,,Specific learning disabilities     ,159,106,57,         N/V ,911,571,467
+2005,Oklahoma                                     ,40,3,7,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Oklahoma                                     ,40,3,7,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,Oklahoma                                     ,40,3,7,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Oklahoma                                     ,40,3,7,,,Traumatic brain injury             ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,0
+2005,Oklahoma                                     ,40,3,7,,,Developmental delay                ,0,0,0,0,8,7,5
+2005,Oklahoma                                     ,40,3,7,,,All disabilities                   ,249,211,97,         N/V ,"1,454",914,776
+2005,Oklahoma                                     ,40,3,7,,,American Indian/Alaska Native      ,58,40,19,         N/V ,216,145,102
+2005,Oklahoma                                     ,40,3,7,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,0,6,14,         N/V 
+2005,Oklahoma                                     ,40,3,7,,,Black (not Hispanic)               ,29,17,14,         N/V ,563,258,340
+2005,Oklahoma                                     ,40,3,7,,,Hispanic                           ,         N/V ,         N/V ,5,0,63,30,         N/V 
+2005,Oklahoma                                     ,40,3,7,,,White (not Hispanic)               ,151,148,59,         N/V ,606,467,296
+2005,Oregon                                       ,41,4,9,,,Mental retardation                 ,         N/V ,0,         N/V ,0,14,6,8
+2005,Oregon                                       ,41,4,9,,,Hearing impairments                ,0,0,0,0,         N/V ,         N/V ,0
+2005,Oregon                                       ,41,4,9,,,Speech or language impairments     ,         N/V ,0,         N/V ,0,27,19,8
+2005,Oregon                                       ,41,4,9,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,0
+2005,Oregon                                       ,41,4,9,,,Emotional disturbance              ,0,0,0,0,113,56,58
+2005,Oregon                                       ,41,4,9,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Oregon                                       ,41,4,9,,,Other health impairments           ,5,         N/V ,         N/V ,0,104,63,47
+2005,Oregon                                       ,41,4,9,,,Specific learning disabilities     ,11,         N/V ,6,0,310,206,118
+2005,Oregon                                       ,41,4,9,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Oregon                                       ,41,4,9,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Oregon                                       ,41,4,9,,,Autism                             ,0,0,0,0,9,         N/V ,5
+2005,Oregon                                       ,41,4,9,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,0
+2005,Oregon                                       ,41,4,9,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Oregon                                       ,41,4,9,,,All disabilities                   ,21,8,13,0,581,358,244
+2005,Oregon                                       ,41,4,9,,,American Indian/Alaska Native      ,0,0,0,0,32,16,17
+2005,Oregon                                       ,41,4,9,,,Asian/Pacific Islander             ,0,0,0,0,7,7,0
+2005,Oregon                                       ,41,4,9,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,0,44,24,21
+2005,Oregon                                       ,41,4,9,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,104,75,32
+2005,Oregon                                       ,41,4,9,,,White (not Hispanic)               ,17,         N/V ,10,0,394,236,174
+2005,Pennsylvania                                 ,42,1,2,,,Mental retardation                 ,63,37,28,         N/V ,93,6,87
+2005,Pennsylvania                                 ,42,1,2,,,Hearing impairments                ,6,         N/V ,         N/V ,0,6,         N/V ,5
+2005,Pennsylvania                                 ,42,1,2,,,Speech or language impairments     ,35,20,16,0,25,         N/V ,24
+2005,Pennsylvania                                 ,42,1,2,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Emotional disturbance              ,219,140,91,0,717,54,673
+2005,Pennsylvania                                 ,42,1,2,,,Orthopedic impairments             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Other health impairments           ,33,22,12,0,52,         N/V ,50
+2005,Pennsylvania                                 ,42,1,2,,,Specific learning disabilities     ,684,479,235,0,"1,407",148,"1,282"
+2005,Pennsylvania                                 ,42,1,2,,,Deaf-blindness                     ,         N/V ,         N/V ,0,0,0,0,0
+2005,Pennsylvania                                 ,42,1,2,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Pennsylvania                                 ,42,1,2,,,Autism                             ,6,         N/V ,5,0,         N/V ,         N/V ,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Traumatic brain injury             ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Developmental delay                ,         N/V ,0,         N/V ,0,7,         N/V ,6
+2005,Pennsylvania                                 ,42,1,2,,,All disabilities                   ,"1,050",705,392,         N/V ,"2,317",216,"2,136"
+2005,Pennsylvania                                 ,42,1,2,,,American Indian/Alaska Native      ,         N/V ,         N/V ,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Asian/Pacific Islander             ,         N/V ,         N/V ,         N/V ,0,         N/V ,0,         N/V 
+2005,Pennsylvania                                 ,42,1,2,,,Black (not Hispanic)               ,519,339,186,0,"1,185",42,"1,151"
+2005,Pennsylvania                                 ,42,1,2,,,Hispanic                           ,157,109,48,         N/V ,214,         N/V ,204
+2005,Pennsylvania                                 ,42,1,2,,,White (not Hispanic)               ,368,252,156,0,906,161,770
+2005,Puerto Rico                                  ,72,,,,,Mental retardation                 ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Speech or language impairments     ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Emotional disturbance              ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Specific learning disabilities     ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Autism                             ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,All disabilities                   ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Puerto Rico                                  ,72,,,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Rhode Island                                 ,44,1,1,,,Mental retardation                 ,0,0,0,0,9,0,9
+2005,Rhode Island                                 ,44,1,1,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Rhode Island                                 ,44,1,1,,,Speech or language impairments     ,0,0,0,0,10,0,10
+2005,Rhode Island                                 ,44,1,1,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Rhode Island                                 ,44,1,1,,,Emotional disturbance              ,         N/V ,         N/V ,0,0,151,         N/V ,151
+2005,Rhode Island                                 ,44,1,1,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Rhode Island                                 ,44,1,1,,,Other health impairments           ,         N/V ,         N/V ,0,0,94,0,94
+2005,Rhode Island                                 ,44,1,1,,,Specific learning disabilities     ,         N/V ,0,         N/V ,0,220,         N/V ,217
+2005,Rhode Island                                 ,44,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Rhode Island                                 ,44,1,1,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Rhode Island                                 ,44,1,1,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Rhode Island                                 ,44,1,1,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Rhode Island                                 ,44,1,1,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Rhode Island                                 ,44,1,1,,,All disabilities                   ,         N/V ,         N/V ,         N/V ,0,489,6,486
+2005,Rhode Island                                 ,44,1,1,,,American Indian/Alaska Native      ,0,0,0,0,8,0,8
+2005,Rhode Island                                 ,44,1,1,,,Asian/Pacific Islander             ,0,0,0,0,9,0,9
+2005,Rhode Island                                 ,44,1,1,,,Black (not Hispanic)               ,0,0,0,0,78,         N/V ,76
+2005,Rhode Island                                 ,44,1,1,,,Hispanic                           ,0,0,0,0,123,         N/V ,122
+2005,Rhode Island                                 ,44,1,1,,,White (not Hispanic)               ,         N/V ,         N/V ,         N/V ,0,271,         N/V ,271
+2005,South Carolina                               ,45,3,5,,,Mental retardation                 ,34,18,16,         N/V ,247,50,216
+2005,South Carolina                               ,45,3,5,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Carolina                               ,45,3,5,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,0,31,9,23
+2005,South Carolina                               ,45,3,5,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,South Carolina                               ,45,3,5,,,Emotional disturbance              ,52,28,27,13,373,55,338
+2005,South Carolina                               ,45,3,5,,,Orthopedic impairments             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,South Carolina                               ,45,3,5,,,Other health impairments           ,         N/V ,         N/V ,         N/V ,         N/V ,185,28,170
+2005,South Carolina                               ,45,3,5,,,Specific learning disabilities     ,136,90,55,30,"1,158",177,"1,050"
+2005,South Carolina                               ,45,3,5,,,Deaf-blindness                     ,0,0,0,0,20,         N/V ,20
+2005,South Carolina                               ,45,3,5,,,Multiple disabilities              ,0,0,0,0,9,0,9
+2005,South Carolina                               ,45,3,5,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Carolina                               ,45,3,5,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Carolina                               ,45,3,5,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,South Carolina                               ,45,3,5,,,All disabilities                   ,249,151,112,49,"2,035",328,"1,836"
+2005,South Carolina                               ,45,3,5,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Carolina                               ,45,3,5,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,South Carolina                               ,45,3,5,,,Black (not Hispanic)               ,97,53,         N/V ,34,"1,371",233,"1,228"
+2005,South Carolina                               ,45,3,5,,,Hispanic                           ,7,6,         N/V ,         N/V ,95,         N/V ,91
+2005,South Carolina                               ,45,3,5,,,White (not Hispanic)               ,145,92,65,         N/V ,558,88,507
+2005,South Dakota                                 ,46,2,4,,,Mental retardation                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,South Dakota                                 ,46,2,4,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Dakota                                 ,46,2,4,,,Speech or language impairments     ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Dakota                                 ,46,2,4,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,8,         N/V ,6
+2005,South Dakota                                 ,46,2,4,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Other health impairments           ,         N/V ,0,         N/V ,0,10,         N/V ,9
+2005,South Dakota                                 ,46,2,4,,,Specific learning disabilities     ,10,5,6,0,46,15,38
+2005,South Dakota                                 ,46,2,4,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,South Dakota                                 ,46,2,4,,,Autism                             ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,All disabilities                   ,13,5,9,0,72,19,60
+2005,South Dakota                                 ,46,2,4,,,American Indian/Alaska Native      ,10,5,6,0,52,16,43
+2005,South Dakota                                 ,46,2,4,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Black (not Hispanic)               ,0,0,0,0,0,0,0
+2005,South Dakota                                 ,46,2,4,,,Hispanic                           ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,0
+2005,South Dakota                                 ,46,2,4,,,White (not Hispanic)               ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,17
+2005,Tennessee                                    ,47,3,6,,,Mental retardation                 ,10,6,6,         N/V ,107,35,72
+2005,Tennessee                                    ,47,3,6,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Speech or language impairments     ,12,9,         N/V ,         N/V ,68,23,47
+2005,Tennessee                                    ,47,3,6,,,Visual impairments                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Emotional disturbance              ,17,10,8,         N/V ,148,26,123
+2005,Tennessee                                    ,47,3,6,,,Orthopedic impairments             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Other health impairments           ,15,12,         N/V ,         N/V ,171,53,121
+2005,Tennessee                                    ,47,3,6,,,Specific learning disabilities     ,103,81,29,13,776,221,560
+2005,Tennessee                                    ,47,3,6,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Tennessee                                    ,47,3,6,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Autism                             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Traumatic brain injury             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Developmental delay                ,0,0,0,0,7,         N/V ,5
+2005,Tennessee                                    ,47,3,6,,,All disabilities                   ,159,118,52,21,"1,290",362,939
+2005,Tennessee                                    ,47,3,6,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Tennessee                                    ,47,3,6,,,Black (not Hispanic)               ,         N/V ,         N/V ,8,6,596,217,385
+2005,Tennessee                                    ,47,3,6,,,Hispanic                           ,         N/V ,         N/V ,0,0,16,6,10
+2005,Tennessee                                    ,47,3,6,,,White (not Hispanic)               ,139,102,44,15,669,134,540
+2005,Texas                                        ,48,3,7,,,Mental retardation                 ,51,49,         N/V ,0,160,17,154
+2005,Texas                                        ,48,3,7,,,Hearing impairments                ,15,15,0,         N/V ,24,7,19
+2005,Texas                                        ,48,3,7,,,Speech or language impairments     ,19,20,0,         N/V ,71,6,66
+2005,Texas                                        ,48,3,7,,,Visual impairments                 ,8,8,0,0,7,         N/V ,6
+2005,Texas                                        ,48,3,7,,,Emotional disturbance              ,533,539,30,21,"1,458",204,"1,321"
+2005,Texas                                        ,48,3,7,,,Orthopedic impairments             ,         N/V ,         N/V ,0,0,8,         N/V ,6
+2005,Texas                                        ,48,3,7,,,Other health impairments           ,381,388,         N/V ,14,751,159,656
+2005,Texas                                        ,48,3,7,,,Specific learning disabilities     ,"2,137","2,153",105,86,"3,389",582,"2,998"
+2005,Texas                                        ,48,3,7,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Texas                                        ,48,3,7,,,Multiple disabilities              ,6,6,0,         N/V ,7,         N/V ,5
+2005,Texas                                        ,48,3,7,,,Autism                             ,         N/V ,         N/V ,0,0,15,         N/V ,13
+2005,Texas                                        ,48,3,7,,,Traumatic brain injury             ,10,10,0,0,14,         N/V ,14
+2005,Texas                                        ,48,3,7,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Texas                                        ,48,3,7,,,All disabilities                   ,"3,169","3,197",157,125,"5,904",984,"5,258"
+2005,Texas                                        ,48,3,7,,,American Indian/Alaska Native      ,17,15,         N/V ,0,14,         N/V ,9
+2005,Texas                                        ,48,3,7,,,Asian/Pacific Islander             ,14,14,         N/V ,         N/V ,9,         N/V ,7
+2005,Texas                                        ,48,3,7,,,Black (not Hispanic)               ,552,535,33,         N/V ,"2,528",369,"2,326"
+2005,Texas                                        ,48,3,7,,,Hispanic                           ,"1,701","1,733",75,51,"2,351",369,"2,092"
+2005,Texas                                        ,48,3,7,,,White (not Hispanic)               ,885,900,43,45,"1,002",237,824
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Mental retardation                 ,786,487,374,144,"6,355","1,012","5,541"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Hearing impairments                ,74,51,31,11,306,106,216
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Speech or language impairments     ,313,195,176,58,"2,298",537,"1,847"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Visual impairments                 ,15,8,7,3,121,55,97
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Emotional disturbance              ,"2,326","1,671","1,081",400,"19,611","3,588","16,899"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Orthopedic impairments             ,45,27,22,8,435,103,358
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Other health impairments           ,"1,404","1,044",575,160,"9,159","2,133","7,637"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Specific learning disabilities     ,"7,841","6,205","2,558",762,"36,333","8,910","29,282"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Deaf-blindness                     ,4,1,3,0,71,19,71
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Multiple disabilities              ,65,33,47,18,840,150,729
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Autism                             ,53,22,36,12,233,68,180
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Traumatic brain injury             ,43,29,24,3,211,47,169
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Developmental delay                ,17,2,16,1,148,24,130
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,All disabilities                   ,"12,986","9,775","4,950","1,580","76,121","16,752","63,156"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,American Indian/Alaska Native      ,575,469,172,17,"1,710",771,"1,047"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Asian/Pacific Islander             ,110,74,61,9,607,275,391
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Black (not Hispanic)               ,"3,216","2,068","1,595",613,"37,407","6,899","32,168"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,Hispanic                           ,"2,976","2,588",756,162,"9,706","2,333","7,818"
+2005,U.S. and Outlying Areas                      ,,,,US_OT,,White (not Hispanic)               ,"6,109","4,576","2,366",779,"26,691","6,474","21,732"
+2005,Utah                                         ,49,4,8,,,Mental retardation                 ,12,8,         N/V ,         N/V ,20,11,9
+2005,Utah                                         ,49,4,8,,,Hearing impairments                ,         N/V ,0,         N/V ,         N/V ,6,         N/V ,         N/V 
+2005,Utah                                         ,49,4,8,,,Speech or language impairments     ,13,7,6,9,12,         N/V ,10
+2005,Utah                                         ,49,4,8,,,Visual impairments                 ,         N/V ,0,         N/V ,         N/V ,0,0,0
+2005,Utah                                         ,49,4,8,,,Emotional disturbance              ,32,17,15,0,192,38,154
+2005,Utah                                         ,49,4,8,,,Orthopedic impairments             ,         N/V ,         N/V ,0,         N/V ,         N/V ,0,         N/V 
+2005,Utah                                         ,49,4,8,,,Other health impairments           ,11,6,5,0,         N/V ,         N/V ,         N/V 
+2005,Utah                                         ,49,4,8,,,Specific learning disabilities     ,395,272,123,12,412,164,248
+2005,Utah                                         ,49,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Utah                                         ,49,4,8,,,Multiple disabilities              ,         N/V ,         N/V ,         N/V ,         N/V ,36,16,20
+2005,Utah                                         ,49,4,8,,,Autism                             ,         N/V ,         N/V ,         N/V ,         N/V ,8,         N/V ,6
+2005,Utah                                         ,49,4,8,,,Traumatic brain injury             ,5,         N/V ,         N/V ,         N/V ,         N/V ,0,         N/V 
+2005,Utah                                         ,49,4,8,,,Developmental delay                ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,0
+2005,Utah                                         ,49,4,8,,,All disabilities                   ,481,317,164,33,695,240,455
+2005,Utah                                         ,49,4,8,,,American Indian/Alaska Native      ,14,9,         N/V ,         N/V ,14,         N/V ,10
+2005,Utah                                         ,49,4,8,,,Asian/Pacific Islander             ,5,         N/V ,         N/V ,0,8,5,         N/V 
+2005,Utah                                         ,49,4,8,,,Black (not Hispanic)               ,10,         N/V ,7,         N/V ,13,         N/V ,         N/V 
+2005,Utah                                         ,49,4,8,,,Hispanic                           ,57,27,30,12,90,41,49
+2005,Utah                                         ,49,4,8,,,White (not Hispanic)               ,395,276,119,19,570,186,384
+2005,Vermont                                      ,50,1,1,,,Mental retardation                 ,0,0,0,0,         N/V ,0,         N/V 
+2005,Vermont                                      ,50,1,1,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Speech or language impairments     ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Vermont                                      ,50,1,1,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,27,         N/V ,25
+2005,Vermont                                      ,50,1,1,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Other health impairments           ,0,0,0,0,6,         N/V ,5
+2005,Vermont                                      ,50,1,1,,,Specific learning disabilities     ,0,0,0,0,21,7,14
+2005,Vermont                                      ,50,1,1,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Multiple disabilities              ,0,0,0,0,         N/V ,0,         N/V 
+2005,Vermont                                      ,50,1,1,,,Autism                             ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Vermont                                      ,50,1,1,,,All disabilities                   ,         N/V ,0,         N/V ,0,61,12,49
+2005,Vermont                                      ,50,1,1,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Vermont                                      ,50,1,1,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Vermont                                      ,50,1,1,,,Black (not Hispanic)               ,0,0,0,0,         N/V ,         N/V ,0
+2005,Vermont                                      ,50,1,1,,,Hispanic                           ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Vermont                                      ,50,1,1,,,White (not Hispanic)               ,         N/V ,0,         N/V ,0,53,8,45
+2005,Virgin Islands                               ,78,,,,,Mental retardation                 ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Virgin Islands                               ,78,,,,,Hearing impairments                ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Speech or language impairments     ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Other health impairments           ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Specific learning disabilities     ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Autism                             ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,All disabilities                   ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Virgin Islands                               ,78,,,,,American Indian/Alaska Native      ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Asian/Pacific Islander             ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,Black (not Hispanic)               ,         N/V ,0,         N/V ,0,         N/V ,0,         N/V 
+2005,Virgin Islands                               ,78,,,,,Hispanic                           ,0,0,0,0,0,0,0
+2005,Virgin Islands                               ,78,,,,,White (not Hispanic)               ,0,0,0,0,0,0,0
+2005,Virginia                                     ,51,3,5,,,Mental retardation                 ,         N/V ,         N/V ,0,0,421,65,375
+2005,Virginia                                     ,51,3,5,,,Hearing impairments                ,0,0,0,0,8,         N/V ,7
+2005,Virginia                                     ,51,3,5,,,Speech or language impairments     ,         N/V ,0,         N/V ,0,158,25,136
+2005,Virginia                                     ,51,3,5,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Virginia                                     ,51,3,5,,,Emotional disturbance              ,12,         N/V ,7,0,"1,196",304,966
+2005,Virginia                                     ,51,3,5,,,Orthopedic impairments             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Virginia                                     ,51,3,5,,,Other health impairments           ,16,15,         N/V ,0,"1,110",332,856
+2005,Virginia                                     ,51,3,5,,,Specific learning disabilities     ,28,20,10,0,"1,908",675,"1,364"
+2005,Virginia                                     ,51,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Virginia                                     ,51,3,5,,,Multiple disabilities              ,0,0,0,0,49,8,44
+2005,Virginia                                     ,51,3,5,,,Autism                             ,0,0,0,0,13,0,13
+2005,Virginia                                     ,51,3,5,,,Traumatic brain injury             ,0,0,0,0,10,         N/V ,8
+2005,Virginia                                     ,51,3,5,,,Developmental delay                ,0,0,0,0,38,         N/V ,34
+2005,Virginia                                     ,51,3,5,,,All disabilities                   ,58,41,19,0,"4,917","1,420","3,807"
+2005,Virginia                                     ,51,3,5,,,American Indian/Alaska Native      ,0,0,0,0,17,7,11
+2005,Virginia                                     ,51,3,5,,,Asian/Pacific Islander             ,0,0,0,0,31,22,11
+2005,Virginia                                     ,51,3,5,,,Black (not Hispanic)               ,         N/V ,         N/V ,         N/V ,0,"2,933",729,"2,396"
+2005,Virginia                                     ,51,3,5,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,241,130,123
+2005,Virginia                                     ,51,3,5,,,White (not Hispanic)               ,36,26,10,0,"1,695",532,"1,266"
+2005,Washington                                   ,53,4,9,,,Mental retardation                 ,8,         N/V ,         N/V ,0,30,12,26
+2005,Washington                                   ,53,4,9,,,Hearing impairments                ,7,6,         N/V ,0,14,12,5
+2005,Washington                                   ,53,4,9,,,Speech or language impairments     ,         N/V ,0,         N/V ,         N/V ,22,14,13
+2005,Washington                                   ,53,4,9,,,Visual impairments                 ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Washington                                   ,53,4,9,,,Emotional disturbance              ,75,40,42,0,335,177,231
+2005,Washington                                   ,53,4,9,,,Orthopedic impairments             ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,Washington                                   ,53,4,9,,,Other health impairments           ,144,97,66,0,441,241,298
+2005,Washington                                   ,53,4,9,,,Specific learning disabilities     ,246,165,112,0,838,473,526
+2005,Washington                                   ,53,4,9,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Washington                                   ,53,4,9,,,Multiple disabilities              ,         N/V ,0,         N/V ,0,22,9,21
+2005,Washington                                   ,53,4,9,,,Autism                             ,         N/V ,         N/V ,5,0,13,10,         N/V 
+2005,Washington                                   ,53,4,9,,,Traumatic brain injury             ,0,0,0,0,9,7,         N/V 
+2005,Washington                                   ,53,4,9,,,Developmental delay                ,         N/V ,0,         N/V ,         N/V ,         N/V ,         N/V ,         N/V 
+2005,Washington                                   ,53,4,9,,,All disabilities                   ,489,313,236,         N/V ,"1,735",959,"1,135"
+2005,Washington                                   ,53,4,9,,,American Indian/Alaska Native      ,44,29,18,         N/V ,122,66,76
+2005,Washington                                   ,53,4,9,,,Asian/Pacific Islander             ,30,14,19,         N/V ,55,40,34
+2005,Washington                                   ,53,4,9,,,Black (not Hispanic)               ,55,37,25,0,267,160,163
+2005,Washington                                   ,53,4,9,,,Hispanic                           ,61,32,37,0,260,135,183
+2005,Washington                                   ,53,4,9,,,White (not Hispanic)               ,299,201,137,0,"1,031",558,679
+2005,West Virginia                                ,54,3,5,,,Mental retardation                 ,0,0,0,0,166,7,160
+2005,West Virginia                                ,54,3,5,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,West Virginia                                ,54,3,5,,,Speech or language impairments     ,0,0,0,0,11,0,11
+2005,West Virginia                                ,54,3,5,,,Visual impairments                 ,         N/V ,0,         N/V ,0,         N/V ,         N/V ,         N/V 
+2005,West Virginia                                ,54,3,5,,,Emotional disturbance              ,         N/V ,0,         N/V ,0,204,19,191
+2005,West Virginia                                ,54,3,5,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,West Virginia                                ,54,3,5,,,Other health impairments           ,         N/V ,         N/V ,0,0,146,         N/V ,143
+2005,West Virginia                                ,54,3,5,,,Specific learning disabilities     ,         N/V ,0,         N/V ,0,377,42,343
+2005,West Virginia                                ,54,3,5,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,West Virginia                                ,54,3,5,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,West Virginia                                ,54,3,5,,,Autism                             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,West Virginia                                ,54,3,5,,,Traumatic brain injury             ,0,0,0,0,10,0,10
+2005,West Virginia                                ,54,3,5,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,West Virginia                                ,54,3,5,,,All disabilities                   ,         N/V ,         N/V ,         N/V ,0,920,74,862
+2005,West Virginia                                ,54,3,5,,,American Indian/Alaska Native      ,0,0,0,0,         N/V ,0,         N/V 
+2005,West Virginia                                ,54,3,5,,,Asian/Pacific Islander             ,0,0,0,0,         N/V ,0,         N/V 
+2005,West Virginia                                ,54,3,5,,,Black (not Hispanic)               ,0,0,0,0,130,8,123
+2005,West Virginia                                ,54,3,5,,,Hispanic                           ,0,0,0,0,6,0,6
+2005,West Virginia                                ,54,3,5,,,White (not Hispanic)               ,         N/V ,         N/V ,         N/V ,0,781,66,730
+2005,Wisconsin                                    ,55,2,3,,,Mental retardation                 ,14,9,         N/V ,0,155,20,138
+2005,Wisconsin                                    ,55,2,3,,,Hearing impairments                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Wisconsin                                    ,55,2,3,,,Speech or language impairments     ,         N/V ,         N/V ,         N/V ,0,30,8,23
+2005,Wisconsin                                    ,55,2,3,,,Visual impairments                 ,0,0,0,0,0,0,0
+2005,Wisconsin                                    ,55,2,3,,,Emotional disturbance              ,71,38,38,0,760,151,652
+2005,Wisconsin                                    ,55,2,3,,,Orthopedic impairments             ,0,0,0,0,         N/V ,         N/V ,         N/V 
+2005,Wisconsin                                    ,55,2,3,,,Other health impairments           ,38,17,21,0,366,42,324
+2005,Wisconsin                                    ,55,2,3,,,Specific learning disabilities     ,76,46,32,0,706,201,544
+2005,Wisconsin                                    ,55,2,3,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Wisconsin                                    ,55,2,3,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Wisconsin                                    ,55,2,3,,,Autism                             ,         N/V ,         N/V ,0,0,6,         N/V ,         N/V 
+2005,Wisconsin                                    ,55,2,3,,,Traumatic brain injury             ,0,0,0,0,         N/V ,0,         N/V 
+2005,Wisconsin                                    ,55,2,3,,,Developmental delay                ,0,0,0,0,         N/V ,0,         N/V 
+2005,Wisconsin                                    ,55,2,3,,,All disabilities                   ,202,112,97,0,"2,034",428,"1,693"
+2005,Wisconsin                                    ,55,2,3,,,American Indian/Alaska Native      ,11,10,         N/V ,0,79,16,65
+2005,Wisconsin                                    ,55,2,3,,,Asian/Pacific Islander             ,         N/V ,         N/V ,0,0,15,8,7
+2005,Wisconsin                                    ,55,2,3,,,Black (not Hispanic)               ,73,23,50,0,"1,159",117,"1,061"
+2005,Wisconsin                                    ,55,2,3,,,Hispanic                           ,         N/V ,         N/V ,         N/V ,0,128,21,111
+2005,Wisconsin                                    ,55,2,3,,,White (not Hispanic)               ,106,70,43,0,653,266,449
+2005,Wyoming                                      ,56,4,8,,,Mental retardation                 ,0,0,0,5,         N/V ,         N/V ,0
+2005,Wyoming                                      ,56,4,8,,,Hearing impairments                ,0,0,0,         N/V ,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Speech or language impairments     ,0,0,0,27,         N/V ,0,         N/V 
+2005,Wyoming                                      ,56,4,8,,,Visual impairments                 ,0,0,0,         N/V ,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Emotional disturbance              ,0,0,0,32,8,         N/V ,7
+2005,Wyoming                                      ,56,4,8,,,Orthopedic impairments             ,0,0,0,0,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Other health impairments           ,0,0,0,34,         N/V ,         N/V ,         N/V 
+2005,Wyoming                                      ,56,4,8,,,Specific learning disabilities     ,0,0,0,93,         N/V ,11,         N/V 
+2005,Wyoming                                      ,56,4,8,,,Deaf-blindness                     ,0,0,0,0,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Multiple disabilities              ,0,0,0,0,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Autism                             ,0,0,0,         N/V ,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Traumatic brain injury             ,0,0,0,0,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Developmental delay                ,0,0,0,0,0,0,0
+2005,Wyoming                                      ,56,4,8,,,All disabilities                   ,0,0,0,196,31,15,16
+2005,Wyoming                                      ,56,4,8,,,American Indian/Alaska Native      ,0,0,0,         N/V ,         N/V ,         N/V ,         N/V 
+2005,Wyoming                                      ,56,4,8,,,Asian/Pacific Islander             ,0,0,0,         N/V ,0,0,0
+2005,Wyoming                                      ,56,4,8,,,Black (not Hispanic)               ,0,0,0,7,         N/V ,0,         N/V 
+2005,Wyoming                                      ,56,4,8,,,Hispanic                           ,0,0,0,18,5,         N/V ,         N/V 
+2005,Wyoming                                      ,56,4,8,,,White (not Hispanic)               ,0,0,0,166,23,10,13

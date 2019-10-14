@@ -1,0 +1,33 @@
+Types of crimes,2001,2002,2003,2004,2005,2006,2007,State_ID,Region_ID,Division_ID
+Total Arrests,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Violent Crime Index,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Murder/nonneg. mans.,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Rape,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Robbery,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Aggravated assault,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Property Crime Index,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Burglary,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Larceny-theft,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Motor vehicle theft,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Arson,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Other assaults,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Forgery and counterfeiting,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Fraud,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Embezzlement,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Stolen property,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Vandalism,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Weapons,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Prostitution/<br>commercialized vice,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Sex offenses (other),RS,RS,RS,RS,RS,RS,RS,53,4,9
+Drug abuse violations,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Gambling,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Offenses against family,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Driving under influence,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Liquor laws,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Drunkenness,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Disorderly conduct,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Vagrancy,RS,RS,RS,RS,RS,RS,RS,53,4,9
+All other offenses,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Curfew and loitering,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Runaways,RS,RS,RS,RS,RS,RS,RS,53,4,9
+Population Ages 10 to 17,"704,300","712,400","715,900","717,300","718,800","719,100","716,500",53,4,9

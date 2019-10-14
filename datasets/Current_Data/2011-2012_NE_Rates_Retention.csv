@@ -1,0 +1,40 @@
+Grade by gender,Number of Total Students,Percent of Total Students ,Number of American Indian or Alaska Native ,Percent of American Indian or Alaska Native ,Number of Asians ,Percent of Asians ,Number of Hispanic or Latino of any race ,Percent of Hispanic or Latino of any race,Number of Black or African American ,Percent of Black or African American ,Number of Whites,Percent of Whites,Number of Native Hawaiian or Other Pacific Islander,Percent of Native Hawaiian or Other Pacific Islander,Number of Two or more races,Percent of Two or more races,Number of Students With Disabilities Served Under IDEA,Percent of Students With Disabilities Served Under IDEA,Number of Students With Disabilities Served Only Under Section 504,Percent of Students With Disabilities Served Only Under Section 504,Number of English Language Learners,Percent of English Language Learners,Number of Schools,State_ID,Region_ID,Division_ID
+Kindergarten males,361,63.4,14,2.5,DS,0.4,69,12.1,19,3.3,242,42.5,DS,0.4,13,2.3,107,18.8,0,0,26,4.6,556,31,2,4
+Kindergarten females,208,36.6,10,1.8,DS,0.4,41,7.2,8,1.4,140,24.6,DS,0.4,5,0.9,41,7.2,0,0,23,4,556,31,2,4
+Kindergarten total,569,100,24,4.2,4,0.7,110,19.3,27,4.7,382,67.1,4,0.7,18,3.2,148,26,0,0,49,8.6,556,31,2,4
+1st grade males,114,64.4,5,2.8,DS,1.1,25,14.1,4,2.3,76,42.9,0,0,DS,1.1,22,12.4,0,0,14,7.9,556,31,2,4
+1st grade females,63,35.6,DS,1.1,DS,1.1,17,9.6,DS,1.1,38,21.5,0,0,DS,1.1,9,5.1,0,0,6,3.4,556,31,2,4
+1st grade total,177,100,7,4,4,2.3,42,23.7,6,3.4,114,64.4,0,0,4,2.3,31,17.5,0,0,20,11.3,556,31,2,4
+2nd grade males,29,59.2,0,0,0,0,10,20.4,0,0,19,38.8,0,0,0,0,11,22.4,0,0,DS,4.1,557,31,2,4
+2nd grade females,20,40.8,0,0,0,0,6,12.2,DS,4.1,10,20.4,0,0,DS,4.1,DS,4.1,0,0,DS,4.1,557,31,2,4
+2nd grade total,49,100,0,0,0,0,16,32.7,DS,4.1,29,59.2,0,0,DS,4.1,13,26.5,0,0,4,8.2,557,31,2,4
+3rd grade males,11,45.8,DS,8.3,0,0,DS,8.3,DS,8.3,5,20.8,0,0,0,0,DS,8.3,0,0,DS,8.3,557,31,2,4
+3rd grade females,13,54.2,0,0,0,0,DS,8.3,0,0,11,45.8,0,0,0,0,DS,8.3,DS,8.3,DS,8.3,557,31,2,4
+3rd grade totall,24,100,DS,8.3,0,0,4,16.7,DS,8.3,16,66.7,0,0,0,0,4,16.7,DS,8.3,4,16.7,557,31,2,4
+4th grade males,8,61.5,0,0,0,0,DS,15.4,0,0,6,46.2,0,0,0,0,5,38.5,0,0,DS,15.4,556,31,2,4
+4th grade females,5,38.5,0,0,0,0,0,0,0,0,5,38.5,0,0,0,0,DS,15.4,0,0,0,0,556,31,2,4
+4th grade total,13,100,0,0,0,0,DS,15.4,0,0,11,84.6,0,0,0,0,7,53.8,0,0,DS,15.4,556,31,2,4
+5th grade males,8,80,DS,20,0,0,4,40,0,0,DS,20,0,0,0,0,DS,20,0,0,0,0,551,31,2,4
+5th grade females,DS,20,0,0,0,0,0,0,0,0,DS,20,0,0,0,0,DS,20,0,0,0,0,551,31,2,4
+5th grade total,10,100,DS,20,0,0,4,40,0,0,4,40,0,0,0,0,4,40,0,0,0,0,551,31,2,4
+6th grade males,6,50,0,0,0,0,0,0,DS,16.7,4,33.3,0,0,0,0,DS,16.7,0,0,0,0,438,31,2,4
+6th grade females,6,50,DS,16.7,0,0,DS,16.7,0,0,DS,16.7,0,0,0,0,DS,16.7,0,0,0,0,438,31,2,4
+6th grade total,12,100,DS,16.7,0,0,DS,16.7,DS,16.7,6,50,0,0,0,0,4,33.3,0,0,0,0,438,31,2,4
+7th grade males,41,57.7,DS,2.8,0,0,DS,2.8,DS,2.8,33,46.5,0,0,DS,2.8,6,8.5,DS,2.8,0,0,333,31,2,4
+7th grade females,30,42.3,0,0,0,0,DS,2.8,0,0,28,39.4,0,0,0,0,DS,2.8,0,0,0,0,333,31,2,4
+7th grade total,71,100,DS,2.8,0,0,4,5.6,DS,2.8,61,85.9,0,0,DS,2.8,8,11.3,DS,2.8,0,0,333,31,2,4
+8th grade males,41,67.2,5,8.2,0,0,9,14.8,DS,3.3,25,41,0,0,0,0,10,16.4,0,0,0,0,336,31,2,4
+8th grade females,20,32.8,DS,3.3,0,0,4,6.6,0,0,12,19.7,0,0,DS,3.3,4,6.6,DS,3.3,DS,3.3,336,31,2,4
+8th grade total,61,100,7,11.5,0,0,13,21.3,DS,3.3,37,60.7,0,0,DS,3.3,14,23,DS,3.3,DS,3.3,336,31,2,4
+9th grade males,184,71.9,27,10.5,5,2,44,17.2,10,3.9,93,36.3,0,0,5,2,48,18.8,0,0,13,5.1,315,31,2,4
+9th grade females,72,28.1,17,6.6,0,0,15,5.9,DS,0.8,36,14.1,0,0,DS,0.8,18,7,DS,0.8,4,1.6,315,31,2,4
+9th grade total,256,100,44,17.2,5,2,59,23,12,4.7,129,50.4,0,0,7,2.7,66,25.8,DS,0.8,17,6.6,315,31,2,4
+10th grade males,162,68.1,5,2.1,0,0,28,11.8,15,6.3,107,45,DS,0.8,5,2.1,48,20.2,DS,0.8,7,2.9,318,31,2,4
+10th grade females,76,31.9,DS,0.8,DS,0.8,16,6.7,4,1.7,50,21,0,0,DS,0.8,14,5.9,DS,0.8,4,1.7,318,31,2,4
+10th grade total,238,100,7,2.9,DS,0.8,44,18.5,19,8,157,66,DS,0.8,7,2.9,62,26.1,4,1.7,11,4.6,318,31,2,4
+11th grade males,151,71.6,8,3.8,DS,0.9,25,11.8,12,5.7,97,46,DS,0.9,5,2.4,35,16.6,DS,0.9,5,2.4,319,31,2,4
+11th grade females,60,28.4,DS,0.9,0,0,5,2.4,6,2.8,43,20.4,DS,0.9,DS,0.9,13,6.2,DS,0.9,DS,0.9,319,31,2,4
+11th grade total,211,100,10,4.7,DS,0.9,30,14.2,18,8.5,140,66.4,4,1.9,7,3.3,48,22.7,4,1.9,7,3.3,319,31,2,4
+12th grade males,602,64.9,17,1.8,20,2.2,107,11.5,56,6,377,40.6,0,0,25,2.7,247,26.6,DS,0.2,45,4.8,323,31,2,4
+12th grade females,326,35.1,8,0.9,13,1.4,76,8.2,18,1.9,201,21.7,DS,0.2,8,0.9,126,13.6,4,0.4,38,4.1,323,31,2,4
+12th grade total,928,100,25,2.7,33,3.6,183,19.7,74,8,578,62.3,DS,0.2,33,3.6,373,40.2,6,0.6,83,8.9,323,31,2,4

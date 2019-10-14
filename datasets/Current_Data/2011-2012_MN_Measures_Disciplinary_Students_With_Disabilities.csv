@@ -1,0 +1,34 @@
+Discipline by gender	Number of Students With Disabilities	Percent of Students With Disabilities	Number of Students With Disabilities Served Only Under Section 504	Percent of Students With Disabilities Served Only Under Section 504	Number of Students With Disabilities Served Under IDEA	Percent of Students With Disabilities Served Under IDEA	Number of American Indian or Alaska Native Students With Disabilities Served Under IDEA	Percent of American Indian or Alaska Native Students With Disabilities Served Under IDEA	Number of Asian Students With Disabilities Served Under IDEA	Percent of Asian Students With Disabilities Served Under IDEA	Number of Hispanic or Latino of any race Students With Disabilities Served Under IDEA	Percent of Hispanic or Latino of any race Students With Disabilities Served Under IDEA	Number of Black or African American Students With Disabilities Served Under IDEA	Percent of Black or African American Students With Disabilities Served Under IDEA	Number of White Students With Disabilities Served Under IDEA	Percent of White Students With Disabilities Served Under IDEA	Number of Native Hawaiian or Other Pacific Islander Students With Disabilities Served Under IDEA	Percent of Native Hawaiian or Other Pacific Islander Students With Disabilities Served Under IDEA	Number of Two or more races Students With Disabilities Served Under IDEA	Percent of Two or more races Students With Disabilities Served Under IDEA	Number of English Language Learners With Disabilities 	Percent of English Language Learners With Disabilities 	Number of Schools	State_ID	Region_ID	Division_ID
+Corporal punishment on males	48	77.4	0	0	48	77.4	DS	3.2	0	0	DS	3.2	DS	3.2	42	67.7	0	0	0	0	0	0	"2,077"	27	2	4
+Corporal punishment on females	14	22.6	0	0	14	22.6	DS	3.2	0	0	0	0	0	0	12	19.4	0	0	0	0	0	0	"2,077"	27	2	4
+Corporal punishment total	62	100	0	0	62	100	4	6.5	0	0	DS	3.2	DS	3.2	54	87.1	0	0	0	0	0	0	"2,077"	27	2	4
+One or more in-school suspensions on males	"7,050"	78.8	114	1.3	"6,936"	77.6	359	4.1	103	1.2	543	6.2	"1,642"	18.7	"4,116"	46.8	5	0.1	168	1.9	265	3	"2,077"	27	2	4
+One or more in-school suspensions on females	"1,893"	21.2	31	0.3	"1,862"	20.8	125	1.4	24	0.3	133	1.5	582	6.6	947	10.8	0	0	51	0.6	62	0.7	"2,077"	27	2	4
+One or more in-school suspensions total	"8,943"	100	145	1.6	"8,798"	98.4	484	5.5	127	1.4	676	7.7	"2,224"	25.3	"5,063"	57.5	5	0.1	219	2.5	327	3.7	"2,077"	27	2	4
+Only one out-of-school suspension on males	"4,934"	77.5	70	1.1	"4,864"	76.4	253	4	102	1.6	427	6.8	"1,413"	22.5	"2,525"	40.2	DS	0	142	2.3	211	3.3	"2,077"	27	2	4
+Only one out-of-school suspension on females	"1,434"	22.5	19	0.3	"1,415"	22.2	82	1.3	22	0.4	121	1.9	585	9.3	557	8.9	0	0	48	0.8	65	1	"2,077"	27	2	4
+Only one out-of-school suspension total	"6,368"	100	89	1.4	"6,279"	98.6	335	5.3	124	2	548	8.7	"1,998"	31.8	"3,082"	49.1	DS	0	190	3	276	4.3	"2,077"	27	2	4
+More than one out-of-school suspension on males	"4,158"	80.3	21	0.4	"4,137"	79.9	246	4.8	67	1.3	294	5.7	"1,699"	33	"1,736"	33.7	0	0	95	1.8	156	3	"2,077"	27	2	4
+More than one out-of-school suspension on females	"1,019"	19.7	DS	0	"1,017"	19.6	62	1.2	6	0.1	56	1.1	548	10.6	307	6	DS	0	36	0.7	31	0.6	"2,077"	27	2	4
+More than one out-of-school suspension total	"5,177"	100	23	0.4	"5,154"	99.6	308	6	73	1.4	350	6.8	"2,247"	43.6	"2,043"	39.6	DS	0	131	2.5	187	3.6	"2,077"	27	2	4
+One or more out-of-school suspensions on males	"9,085"	78.7	92	0.8	"8,993"	77.9	501	4.4	170	1.5	718	6.3	"3,114"	27.3	"4,252"	37.2	DS	0	236	2.1	369	3.2	"2,077"	27	2	4
+One or more out-of-school suspensions on females	"2,453"	21.3	21	0.2	"2,432"	21.1	142	1.2	28	0.2	176	1.5	"1,140"	10	860	7.5	DS	0	84	0.7	98	0.8	"2,077"	27	2	4
+One or more out-of-school suspensions total	"11,538"	100	113	1	"11,425"	99	643	5.6	198	1.7	894	7.8	"4,254"	37.2	"5,112"	44.7	4	0	320	2.8	467	4	"2,077"	27	2	4
+Expulsions with educational services on males	209	64.1	8	2.5	201	61.7	7	2.2	DS	0.6	11	3.5	109	34.3	70	22	0	0	DS	0.6	6	1.8	"2,077"	27	2	4
+Expulsions with educational services on females	117	35.9	0	0	117	35.9	8	2.5	0	0	DS	0.6	79	24.8	26	8.2	0	0	DS	0.6	DS	0.6	"2,077"	27	2	4
+Expulsions with educational services total	326	100	8	2.5	318	97.5	15	4.7	DS	0.6	13	4.1	188	59.1	96	30.2	0	0	4	1.3	8	2.5	"2,077"	27	2	4
+Expulsions without educational services on males	39	72.2	0	0	39	72.2	0	0	0	0	DS	3.7	DS	3.7	30	55.6	0	0	5	9.3	DS	3.7	"2,077"	27	2	4
+Expulsions without educational services on females	15	27.8	0	0	15	27.8	0	0	0	0	DS	3.7	DS	3.7	11	20.4	0	0	0	0	DS	3.7	"2,077"	27	2	4
+Expulsions without educational services total	54	100	0	0	54	100	0	0	0	0	4	7.4	4	7.4	41	75.9	0	0	5	9.3	4	7.4	"2,077"	27	2	4
+Expulsions with or without educational services on males	248	65.3	8	2.1	240	63.2	7	1.9	DS	0.5	14	3.8	111	29.8	98	26.3	0	0	8	2.2	8	2.1	"2,077"	27	2	4
+Expulsions with or without educational services on females	132	34.7	0	0	132	34.7	8	2.2	0	0	4	1.1	81	21.8	37	9.9	0	0	DS	0.5	4	1.1	"2,077"	27	2	4
+Expulsions with or without educational services total	380	100	8	2.1	372	97.9	15	4	DS	0.5	18	4.8	192	51.6	135	36.3	0	0	10	2.7	12	3.2	"2,077"	27	2	4
+Expulsions under zero-tolerance policies on males	50	82	DS	3.3	48	78.7	DS	3.4	0	0	0	0	DS	3.4	39	66.1	0	0	5	8.5	0	0	"2,077"	27	2	4
+Expulsions under zero-tolerance policies on females	11	18	0	0	11	18	0	0	0	0	DS	3.4	DS	3.4	7	11.9	0	0	0	0	0	0	"2,077"	27	2	4
+Expulsions under zero-tolerance policies total	61	100	DS	3.3	59	96.7	DS	3.4	0	0	DS	3.4	4	6.8	46	78	0	0	5	8.5	0	0	"2,077"	27	2	4
+Referral to law enforcement on males	"1,528"	76.5	13	0.7	"1,515"	75.8	77	3.9	30	1.5	106	5.4	475	24	805	40.7	0	0	22	1.1	56	2.8	"2,077"	27	2	4
+Referral to law enforcement on females	470	23.5	8	0.4	462	23.1	32	1.6	DS	0.1	32	1.6	180	9.1	205	10.4	0	0	11	0.6	16	0.8	"2,077"	27	2	4
+Referral to law enforcement total	"1,998"	100	21	1.1	"1,977"	98.9	109	5.5	32	1.6	138	7	655	33.1	"1,010"	51.1	0	0	33	1.7	72	3.6	"2,077"	27	2	4
+School-related arrests on males	236	73.1	DS	0.6	234	72.4	15	4.7	4	1.3	14	4.4	98	30.7	99	31	0	0	4	1.3	4	1.2	"2,077"	27	2	4
+School-related arrests on females	87	26.9	DS	0.6	85	26.3	5	1.6	0	0	DS	0.6	44	13.8	30	9.4	DS	0.6	DS	0.6	DS	0.6	"2,077"	27	2	4
+School-related arrests total	323	100	4	1.2	319	98.8	20	6.3	4	1.3	16	5	142	44.5	129	40.4	DS	0.6	6	1.9	6	1.9	"2,077"	27	2	4

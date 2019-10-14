@@ -1,0 +1,53 @@
+State	Nation_ID	State_ID	Region_ID	Division_ID	Total Non-IDEA Female Students	Number of American Indian or Alaska Native	Percent of American Indian or Alaska Native	Number of Asians	Percent of Asians	Number of Hispanic or Latino of any race	Percent of Hispanic or Latino of any race	Number of Black or African American 	Percent of Black or African American 	Number of Whites	Percent of Whites	Number of Native Hawaiian or Other Pacific Islander	Percent of Native Hawaiian or Other Pacific Islander	Number of Two or more races	Percent of Two or more races	Number of Students With Disabilities Served Only Under Section 504	Percent of Students With Disabilities Served Only Under Section 504	Number of English Language Learnersv	Percent of English Language Learners	Number of Schools
+United States	US_National				"3,911"	62	1.6	91	2.3	609	15.6	"1,550"	39.6	"1,450"	37.1	14	0.4	135	3.5	64	1.6	110	2.8	"95,635"
+Alabama		1	3	6	95	0	0	0	0	DS	2.1	61	64.2	30	31.6	0	0	DS	2.1	7	7.4	0	0	"1,432"
+Alaska		2	4	9	4	DS	50	0	0	0	0	0	0	DS	50	0	0	0	0	0	0	0	0	493
+Arizona		4	4	8	32	DS	6.3	0	0	11	34.4	8	25	9	28.1	0	0	DS	6.3	0	0	DS	6.3	"1,920"
+Arkansas		5	3	7	46	0	0	0	0	DS	4.3	24	52.2	18	39.1	0	0	DS	4.3	DS	4.3	0	0	"1,097"
+California		6	4	9	105	0	0	0	0	61	58.1	24	22.9	18	17.1	DS	1.9	0	0	DS	1.9	8	7.6	"9,866"
+Colorado		8	4	8	22	0	0	0	0	9	40.9	DS	9.1	9	40.9	0	0	DS	9.1	0	0	DS	9.1	"1,811"
+Connecticut		9	1	1	50	0	0	0	0	7	14	14	28	29	58	0	0	0	0	DS	4	0	0	"1,122"
+Delaware		10	3	5	DS	0	0	0	0	0	0	0	0	DS	100	0	0	0	0	0	0	0	0	232
+District of Columbia		11	3	5	8	0	0	0	0	0	0	8	100	0	0	0	0	0	0	0	0	0	0	211
+Florida		12	3	5	44	0	0	0	0	28	63.6	DS	4.5	12	27.3	0	0	DS	4.5	0	0	DS	4.5	"3,886"
+Georgia		13	3	5	790	0	0	79	10	244	30.9	403	51	29	3.7	0	0	35	4.4	DS	0.3	67	8.5	"2,422"
+Hawaii		15	4	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	286
+Idaho		16	4	8	18	DS	11.1	0	0	DS	11.1	DS	11.1	10	55.6	0	0	DS	11.1	DS	11.1	0	0	703
+Illinois		17	2	3	93	0	0	0	0	11	11.8	29	31.2	46	49.5	0	0	7	7.5	DS	2.2	0	0	"4,221"
+Indiana		18	2	3	64	0	0	0	0	DS	3.1	27	42.2	26	40.6	0	0	9	14.1	7	10.9	DS	3.1	"1,875"
+Iowa		19	2	4	58	0	0	0	0	DS	3.4	20	34.5	30	51.7	0	0	6	10.3	0	0	0	0	"1,458"
+Kansas		20	2	4	15	0	0	0	0	DS	13.3	5	33.3	4	26.7	0	0	4	26.7	0	0	DS	13.3	"1,389"
+Kentucky		21	3	6	132	0	0	0	0	DS	1.5	12	9.1	116	87.9	0	0	DS	1.5	0	0	0	0	"1,417"
+Louisiana		22	3	7	39	0	0	0	0	0	0	35	89.7	4	10.3	0	0	0	0	DS	5.1	0	0	"1,394"
+Maine		23	1	1	14	0	0	0	0	0	0	DS	14.3	12	85.7	0	0	0	0	DS	14.3	0	0	595
+Maryland		24	3	5	33	0	0	0	0	DS	6.1	13	39.4	14	42.4	0	0	4	12.1	DS	6.1	DS	6.1	"1,444"
+Massachusetts		25	1	1	25	0	0	0	0	7	28	4	16	12	48	0	0	DS	8	DS	8	DS	8	"1,834"
+Michigan		26	2	3	217	DS	0.9	DS	0.9	13	6	32	14.7	164	75.6	0	0	4	1.8	4	1.8	DS	0.9	"3,626"
+Minnesota		27	2	4	395	13	3.3	DS	0.5	17	4.3	311	78.7	36	9.1	10	2.5	6	1.5	5	1.3	6	1.5	"2,077"
+Mississippi		28	3	6	27	0	0	0	0	0	0	25	92.6	DS	7.4	0	0	0	0	0	0	0	0	973
+Missouri		29	2	4	167	0	0	0	0	0	0	41	24.6	124	74.3	0	0	DS	1.2	DS	1.2	0	0	"2,312"
+Montana		30	4	8	6	0	0	0	0	0	0	DS	33.3	4	66.7	0	0	0	0	0	0	0	0	781
+Nebraska		31	2	4	17	0	0	0	0	0	0	DS	11.8	13	76.5	0	0	DS	11.8	0	0	0	0	"1,073"
+Nevada		32	4	8	4	0	0	0	0	DS	50	DS	50	0	0	0	0	0	0	0	0	0	0	649
+New Hampshire		33	1	1	17	0	0	0	0	0	0	0	0	17	100	0	0	0	0	0	0	0	0	478
+New Jersey		34	1	2	39	0	0	DS	5.1	DS	5.1	27	69.2	8	20.5	0	0	0	0	4	10.3	0	0	"2,538"
+New Mexico		35	4	8	11	0	0	0	0	5	45.5	DS	18.2	4	36.4	0	0	0	0	0	0	0	0	853
+New York		36	1	2	76	0	0	DS	2.6	DS	2.6	35	46.1	35	46.1	0	0	DS	2.6	DS	2.6	0	0	"4,864"
+North Carolina		37	3	5	17	0	0	0	0	DS	11.8	10	58.8	5	29.4	0	0	0	0	DS	11.8	0	0	"2,535"
+North Dakota		38	2	4	4	DS	50	0	0	0	0	0	0	0	0	0	0	DS	50	0	0	0	0	468
+Ohio		39	2	3	72	0	0	0	0	DS	2.8	39	54.2	25	34.7	0	0	6	8.3	DS	2.8	0	0	"3,702"
+Oklahoma		40	3	7	84	8	9.5	DS	2.4	8	9.5	33	39.3	23	27.4	DS	2.4	8	9.5	DS	2.4	4	4.8	"1,774"
+Oregon		41	9	4	9	0	0	0	0	DS	22.2	DS	22.2	5	55.6	0	0	0	0	0	0	0	0	"1,312"
+Pennsylvania		42	1	2	148	0	0	0	0	4	2.7	80	54.1	59	39.9	0	0	5	3.4	DS	1.4	0	0	"3,220"
+Rhode Island		44	1	1	30	0	0	0	0	5	16.7	6	20	19	63.3	0	0	0	0	DS	6.7	0	0	291
+South Carolina		45	3	5	101	0	0	0	0	0	0	74	73.3	22	21.8	0	0	5	5	DS	2	0	0	"1,219"
+South Dakota		46	2	4	28	13	46.4	0	0	DS	7.1	DS	7.1	11	39.3	0	0	0	0	0	0	0	0	668
+Tennessee		47	3	6	45	0	0	0	0	DS	4.4	22	48.9	21	46.7	0	0	0	0	DS	4.4	0	0	"1,802"
+Texas		48	3	7	304	DS	0.7	0	0	122	40.1	53	17.4	122	40.1	0	0	5	1.6	DS	0.7	13	4.3	"8,472"
+Utah		49	4	8	DS	0	0	0	0	0	0	0	0	DS	100	0	0	0	0	0	0	0	0	981
+Vermont		50	1	1	22	DS	9.1	0	0	DS	9.1	DS	9.1	16	72.7	0	0	0	0	5	22.7	0	0	295
+Virginia		51	3	5	52	DS	3.8	DS	3.8	DS	3.8	35	67.3	11	21.2	0	0	0	0	DS	3.8	0	0	"1,984"
+Washington		53	4	9	135	6	4.4	0	0	27	20	DS	1.5	96	71.1	DS	1.5	DS	1.5	0	0	0	0	"2,256"
+West Virginia		54	3	5	39	0	0	0	0	0	0	5	12.8	34	87.2	0	0	0	0	0	0	0	0	733
+Wisconsin		55	2	3	177	9	5.1	DS	1.1	4	2.3	15	8.5	141	79.7	0	0	6	3.4	0	0	0	0	"2,242"
+Wyoming		56	4	8	DS	0	0	0	0	0	0	0	0	DS	100	0	0	0	0	0	0	0	0	349

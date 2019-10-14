@@ -1,0 +1,36 @@
+Disciplinary Action,Number of Students With and Without Disabilities,Percent of Students With and Without Disabilities,Number of Students With Disabilities Served Only Under Section 504,Percent of Students With Disabilities Served Only Under Section 504,Number of Students Without Disabilities and With Disabilities Served Under IDEA,Percent of Students Without Disabilities and With Disabilities Served Under IDEA,"Number of American Indian or
+Alaska Native","Percent of American Indian or
+Alaska Native",Number of Asians,Percent of Asians,Number of Hispanic or Latino of any race,Percent of Hispanic or Latino of any race,Number of Black or African American,Percent of Black or African American,Number of Whites,Percent of Whites,Number of Native Hawaiian or Other Pacific Islander,Percent of Native Hawaiian or Other Pacific Islander,Number of Two or more races,Percent of Two or more races,Number of English Language Learners With and Without Disabilities,Percent of English Language Learners With and Without Disabilities,Number of Schools,State_ID,Region_ID,Division_ID
+Corporal punishment for males,821,85.2,137,14.2,684,71,22,2.8,0,0,7,0.9,359,45.2,290,36.5,0,0,6,0.8,0,0,"1,394",22,3,7
+Corporal punishment for females,143,14.8,32,3.3,111,11.5,DS,0.3,0,0,0,0,66,8.3,41,5.2,0,0,DS,0.3,0,0,"1,394",22,3,7
+Corporal punishment total,964,100,169,17.5,795,82.5,24,3,0,0,7,0.9,425,53.5,331,41.6,0,0,8,1,0,0,"1,394",22,3,7
+One or more in-school suspensions for males,"11,195",76.5,"2,599",17.8,"8,596",58.7,51,0.5,13,0.1,145,1.3,"5,406",48.4,"2,911",26.1,DS,0,68,0.6,56,0.4,"1,394",22,3,7
+One or more in-school suspensions for females,"3,445",23.5,880,6,"2,565",17.5,15,0.1,6,0.1,41,0.4,"1,757",15.7,733,6.6,0,0,13,0.1,18,0.1,"1,394",22,3,7
+One or more in-school suspensions total,"14,640",100,"3,479",23.8,"11,161",76.2,66,0.6,19,0.2,186,1.7,"7,163",64.2,"3,644",32.6,DS,0,81,0.7,74,0.5,"1,394",22,3,7
+Only one out-of-school suspension for males,"5,986",74.9,"1,290",16.1,"4,696",58.8,56,0.9,8,0.1,88,1.4,"2,851",46,"1,656",26.7,DS,0,35,0.6,27,0.3,"1,394",22,3,7
+Only one out-of-school suspension for females,"2,004",25.1,500,6.3,"1,504",18.8,17,0.3,DS,0,25,0.4,"1,049",16.9,400,6.5,0,0,11,0.2,12,0.2,"1,394",22,3,7
+Only one out-of-school suspension total,"7,990",100,"1,790",22.4,"6,200",77.6,73,1.2,10,0.2,113,1.8,"3,900",62.9,"2,056",33.2,DS,0,46,0.7,39,0.5,"1,394",22,3,7
+More than one out-of-school suspension for males,"5,894",80.1,"1,194",16.2,"4,700",63.8,47,0.8,8,0.1,56,1,"3,273",56.2,"1,274",21.9,DS,0,40,0.7,22,0.3,"1,394",22,3,7
+More than one out-of-school suspension for females,"1,468",19.9,341,4.6,"1,127",15.3,10,0.2,DS,0,7,0.1,888,15.2,210,3.6,DS,0,8,0.1,5,0.1,"1,394",22,3,7
+More than one out-of-school suspension total,"7,362",100,"1,535",20.9,"5,827",79.1,57,1,10,0.2,63,1.1,"4,161",71.4,"1,484",25.5,4,0.1,48,0.8,27,0.4,"1,394",22,3,7
+One or more out-of-school suspensions for males,"11,889",77.4,"2,491",16.2,"9,398",61.2,100,0.8,16,0.1,143,1.2,"6,135",51,"2,927",24.3,DS,0,75,0.6,49,0.3,"1,394",22,3,7
+One or more out-of-school suspensions for females,"3,466",22.6,835,5.4,"2,631",17.1,28,0.2,6,0,33,0.3,"1,934",16.1,610,5.1,DS,0,18,0.1,17,0.1,"1,394",22,3,7
+One or more out-of-school suspensions total,"15,355",100,"3,326",21.7,"12,029",78.3,128,1.1,22,0.2,176,1.5,"8,069",67.1,"3,537",29.4,4,0,93,0.8,66,0.4,"1,394",22,3,7
+Expulsions with educational services for males,844,82.8,222,21.8,622,61,26,3.5,0,0,4,0.5,407,55,183,24.7,0,0,DS,0.3,DS,0.2,"1,394",22,3,7
+Expulsions with educational services for females,175,17.2,57,5.6,118,11.6,DS,0.3,0,0,0,0,84,11.4,32,4.3,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions with educational services total,"1,019",100,279,27.4,740,72.6,28,3.8,0,0,4,0.5,491,66.4,215,29.1,0,0,DS,0.3,DS,0.2,"1,394",22,3,7
+Expulsions without educational services for males,53,85.5,13,21,40,64.5,0,0,0,0,0,0,25,53.2,15,31.9,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions without educational services for females,9,14.5,DS,3.2,7,11.3,0,0,0,0,0,0,7,14.9,0,0,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions without educational services total,62,100,15,24.2,47,75.8,0,0,0,0,0,0,32,68.1,15,31.9,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions with or without educational services for males,896,82.8,238,22,658,60.8,26,3.3,0,0,4,0.5,432,55.2,194,24.8,0,0,DS,0.3,DS,0.2,"1,394",22,3,7
+Expulsions with or without educational services for females,186,17.2,61,5.6,125,11.6,DS,0.3,0,0,0,0,91,11.6,32,4.1,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions with or without educational services total,"1,082",100,299,27.6,783,72.4,28,3.6,0,0,4,0.5,523,66.8,226,28.9,0,0,DS,0.3,DS,0.2,"1,394",22,3,7
+Expulsions under zero-tolerance policies for males,54,87.1,9,14.5,45,72.6,DS,3.9,0,0,0,0,25,49,18,35.3,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions under zero-tolerance policies for females,8,12.9,DS,3.2,6,9.7,0,0,0,0,DS,3.9,DS,3.9,DS,3.9,0,0,0,0,0,0,"1,394",22,3,7
+Expulsions under zero-tolerance policies total,62,100,11,17.7,51,82.3,DS,3.9,0,0,DS,3.9,27,52.9,20,39.2,0,0,0,0,0,0,"1,394",22,3,7
+Referral to law enforcement for males,707,73.8,76,7.9,631,65.9,10,1.2,5,0.6,33,3.9,431,50.6,150,17.6,0,0,DS,0.2,21,2.2,"1,394",22,3,7
+Referral to law enforcement for females,251,26.2,30,3.1,221,23.1,DS,0.2,0,0,22,2.6,156,18.3,39,4.6,0,0,DS,0.2,11,1.1,"1,394",22,3,7
+Referral to law enforcement total,958,100,106,11.1,852,88.9,12,1.4,5,0.6,55,6.5,587,68.9,189,22.2,0,0,4,0.5,32,3.3,"1,394",22,3,7
+School-related arrests for males,265,81.5,8,2.5,257,79.1,DS,0.6,DS,0.6,9,2.9,180,57.9,62,19.9,0,0,DS,0.6,0,0,"1,394",22,3,7
+School-related arrests for females,60,18.5,6,1.8,54,16.6,0,0,0,0,DS,0.6,41,13.2,11,3.5,0,0,0,0,0,0,"1,394",22,3,7
+School-related arrests total,325,100,14,4.3,311,95.7,DS,0.6,DS,0.6,11,3.5,221,71.1,73,23.5,0,0,DS,0.6,0,0,"1,394",22,3,7

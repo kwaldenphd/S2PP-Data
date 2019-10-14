@@ -1,0 +1,22 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Age on Census Date by Race/Ethnicity forNew Mexico-2015"
+
+,,"Race/Ethnicity",,,,,
+"Age","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"Total","363","51","24","267","15","0","6",
+"12 & younger","0","0","0","0","0","0","0",
+"13","3","0","0","0","0","0","0",
+"14","24","3","0","18","0","0","0",
+"15","30","3","6","18","0","0","0",
+"16","66","12","6","45","0","0","0",
+"17","108","15","3","84","6","0","0",
+"18 & older","129","15","6","99","6","0","3",
+
+"Note: To preserve the privacy of the juvenile residents  cell counts have been rounded to the nearest multiple of three.  New Mexico was the State where the juvenile committed the offense for which they were being held. However  the state of offense is not always reported. These instances are not evenly distributed across states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information.  "
+
+Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories.
+
+"Suggested citation: Sickmund  M.  Sladky  T.J.  Kang  W.  and Puzzanchera  C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's  Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015  [machine-readable data files]."

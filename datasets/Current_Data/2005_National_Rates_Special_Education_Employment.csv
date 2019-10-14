@@ -1,0 +1,1299 @@
+Year,State,Personnel Type,EmployedN/VCertified,EmployedN/Vnot Certified,Total Employed,Nation_ID,State_ID,Region_ID,Division_ID
+2005,Alabama                  ,Special ed teachers for 3-5                  ,652,35,686,,1,3,6
+2005,Alabama                  ,Special ed teachers for 6-21                 ,"5,293.00",265,"5,557.00",,1,3,6
+2005,Alabama                  ,Vocational education teachers                ,138,4,142,,1,3,6
+2005,Alabama                  ,Physical education teachers                  ,198,7,205,,1,3,6
+2005,Alabama                  ,Work-study coordinators                      ,27,3,29,,1,3,6
+2005,Alabama                  ,Psychologists                                ,41,0,41,,1,3,6
+2005,Alabama                  ,School social workers                        ,39,0,40,,1,3,6
+2005,Alabama                  ,Occupational therapists                      ,87,2,89,,1,3,6
+2005,Alabama                  ,Audiologists                                 ,46,0,46,,1,3,6
+2005,Alabama                  ,Teacher aides                                ,"3,191.00","1,002.00","4,194.00",,1,3,6
+2005,Alabama                  ,Recreation specialists                       ,17,5,22,,1,3,6
+2005,Alabama                  ,Diagnostic & evaluation staff                ,227,2,229,,1,3,6
+2005,Alabama                  ,Physical therapists                          ,50,2,53,,1,3,6
+2005,Alabama                  ,Counselors                                   ,183,15,198,,1,3,6
+2005,Alabama                  ,Speech pathologists                          ,686,8,695,,1,3,6
+2005,Alabama                  ,Supervisors/administrators                   ,314,9,323,,1,3,6
+2005,Alabama                  ,Supervisors/administrators (SEA)             ,10,0,10,,1,3,6
+2005,Alabama                  ,Interpreters                                 ,78,4,82,,1,3,6
+2005,Alabama                  ,Rehabilitation counselors                    ,5,0,5,,1,3,6
+2005,Alabama                  ,Other professional staff                     ,550,7,557,,1,3,6
+2005,Alabama                  ,Non-professional staff                       ,679,191,870,,1,3,6
+2005,Alabama                  ,Total                                        ,"6,569.00","1,261.00","7,830.00",,1,3,6
+2005,Alaska                   ,Special ed teachers for 3-5                  ,82,1,83,,2,4,9
+2005,Alaska                   ,Special ed teachers for 6-21                 ,978,5,983,,2,4,9
+2005,Alaska                   ,Vocational education teachers                ,5,0,5,,2,4,9
+2005,Alaska                   ,Physical education teachers                  ,12,0,12,,2,4,9
+2005,Alaska                   ,Work-study coordinators                      ,5,0,5,,2,4,9
+2005,Alaska                   ,Psychologists                                ,77,1,78,,2,4,9
+2005,Alaska                   ,School social workers                        ,          N/V,          N/V,          ,,2,4,9
+2005,Alaska                   ,Occupational therapists                      ,43,1,44,,2,4,9
+2005,Alaska                   ,Audiologists                                 ,2,0,2,,2,4,9
+2005,Alaska                   ,Teacher aides                                ,"1,317.00",0,"1,317.00",,2,4,9
+2005,Alaska                   ,Recreation specialists                       ,0,0,0,,2,4,9
+2005,Alaska                   ,Diagnostic & evaluation staff                ,0,0,0,,2,4,9
+2005,Alaska                   ,Physical therapists                          ,23,0,23,,2,4,9
+2005,Alaska                   ,Counselors                                   ,0,0,0,,2,4,9
+2005,Alaska                   ,Speech pathologists                          ,148,1,149,,2,4,9
+2005,Alaska                   ,Supervisors/administrators                   ,20,0,20,,2,4,9
+2005,Alaska                   ,Supervisors/administrators (SEA)             ,0,0,0,,2,4,9
+2005,Alaska                   ,Interpreters                                 ,0,0,0,,2,4,9
+2005,Alaska                   ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,2,4,9
+2005,Alaska                   ,Other professional staff                     ,6,0,6,,2,4,9
+2005,Alaska                   ,Non-professional staff                       ,0,0,0,,2,4,9
+2005,Alaska                   ,Total                                        ,"1,658.00",3,"1,661.00",,2,4,9
+2005,American Samoa           ,Special ed teachers for 3-5                  ,0,5,5,,60,,
+2005,American Samoa           ,Special ed teachers for 6-21                 ,38,107,145,,60,,
+2005,American Samoa           ,Vocational education teachers                ,0,0,0,,60,,
+2005,American Samoa           ,Physical education teachers                  ,0,0,0,,60,,
+2005,American Samoa           ,Work-study coordinators                      ,1,0,1,,60,,
+2005,American Samoa           ,Psychologists                                ,1,0,1,,60,,
+2005,American Samoa           ,School social workers                        ,1,0,1,,60,,
+2005,American Samoa           ,Occupational therapists                      ,0,0,0,,60,,
+2005,American Samoa           ,Audiologists                                 ,0,0,0,,60,,
+2005,American Samoa           ,Teacher aides                                ,0,15,15,,60,,
+2005,American Samoa           ,Recreation specialists                       ,0,0,0,,60,,
+2005,American Samoa           ,Diagnostic & evaluation staff                ,5,2,7,,60,,
+2005,American Samoa           ,Physical therapists                          ,1,0,1,,60,,
+2005,American Samoa           ,Counselors                                   ,1,1,2,,60,,
+2005,American Samoa           ,Speech pathologists                          ,1,0,1,,60,,
+2005,American Samoa           ,Supervisors/administrators                   ,24,0,24,,60,,
+2005,American Samoa           ,Supervisors/administrators (SEA)             ,5,0,5,,60,,
+2005,American Samoa           ,Interpreters                                 ,0,0,0,,60,,
+2005,American Samoa           ,Rehabilitation counselors                    ,0,0,0,,60,,
+2005,American Samoa           ,Other professional staff                     ,4,1,5,,60,,
+2005,American Samoa           ,Non-professional staff                       ,24,1,25,,60,,
+2005,American Samoa           ,Total                                        ,68,20,88,,60,,
+2005,Arizona                  ,Special ed teachers for 3-5                  ,"1,505.00",315,"1,820.00",,4,4,8
+2005,Arizona                  ,Special ed teachers for 6-21                 ,"5,751.00",801,"6,552.00",,4,4,8
+2005,Arizona                  ,Vocational education teachers                ,151,16,168,,4,4,8
+2005,Arizona                  ,Physical education teachers                  ,191,21,212,,4,4,8
+2005,Arizona                  ,Work-study coordinators                      ,52,17,70,,4,4,8
+2005,Arizona                  ,Psychologists                                ,831,41,872,,4,4,8
+2005,Arizona                  ,School social workers                        ,166,29,195,,4,4,8
+2005,Arizona                  ,Occupational therapists                      ,333,0,333,,4,4,8
+2005,Arizona                  ,Audiologists                                 ,53,8,61,,4,4,8
+2005,Arizona                  ,Teacher aides                                ,"7,537.00",0,"7,537.00",,4,4,8
+2005,Arizona                  ,Recreation specialists                       ,23,4,27,,4,4,8
+2005,Arizona                  ,Diagnostic & evaluation staff                ,92,13,105,,4,4,8
+2005,Arizona                  ,Physical therapists                          ,158,0,158,,4,4,8
+2005,Arizona                  ,Counselors                                   ,616,40,656,,4,4,8
+2005,Arizona                  ,Speech pathologists                          ,"1,220.00",44,"1,264.00",,4,4,8
+2005,Arizona                  ,Supervisors/administrators                   ,586,62,648,,4,4,8
+2005,Arizona                  ,Supervisors/administrators (SEA)             ,79,0,79,,4,4,8
+2005,Arizona                  ,Interpreters                                 ,200,95,296,,4,4,8
+2005,Arizona                  ,Rehabilitation counselors                    ,11,0,11,,4,4,8
+2005,Arizona                  ,Other professional staff                     ,707,65,772,,4,4,8
+2005,Arizona                  ,Non-professional staff                       ,"1,272.00",483,"1,755.00",,4,4,8
+2005,Arizona                  ,Total                                        ,"14,278.00",941,"15,219.00",,4,4,8
+2005,Arkansas                 ,Special ed teachers for 3-5                  ,531,100,631,,5,3,7
+2005,Arkansas                 ,Special ed teachers for 6-21                 ,"3,493.00",322,"3,814.00",,5,3,7
+2005,Arkansas                 ,Vocational education teachers                ,7,1,8,,5,3,7
+2005,Arkansas                 ,Physical education teachers                  ,3,0,3,,5,3,7
+2005,Arkansas                 ,Work-study coordinators                      ,1,0,1,,5,3,7
+2005,Arkansas                 ,Psychologists                                ,5,0,5,,5,3,7
+2005,Arkansas                 ,School social workers                        ,31,1,32,,5,3,7
+2005,Arkansas                 ,Occupational therapists                      ,245,1,245,,5,3,7
+2005,Arkansas                 ,Audiologists                                 ,4,0,4,,5,3,7
+2005,Arkansas                 ,Teacher aides                                ,"1,775.00","1,147.00","2,922.00",,5,3,7
+2005,Arkansas                 ,Recreation specialists                       ,0,0,0,,5,3,7
+2005,Arkansas                 ,Diagnostic & evaluation staff                ,176,2,178,,5,3,7
+2005,Arkansas                 ,Physical therapists                          ,160,1,161,,5,3,7
+2005,Arkansas                 ,Counselors                                   ,34,0,34,,5,3,7
+2005,Arkansas                 ,Speech pathologists                          ,          N/V,          N/V,          N/V,,5,3,7
+2005,Arkansas                 ,Supervisors/administrators                   ,216,57,273,,5,3,7
+2005,Arkansas                 ,Supervisors/administrators (SEA)             ,25,0,25,,5,3,7
+2005,Arkansas                 ,Interpreters                                 ,42,12,54,,5,3,7
+2005,Arkansas                 ,Rehabilitation counselors                    ,0,0,0,,5,3,7
+2005,Arkansas                 ,Other professional staff                     ,120,43,163,,5,3,7
+2005,Arkansas                 ,Non-professional staff                       ,530,0,530,,5,3,7
+2005,Arkansas                 ,Total                                        ,"3,372.00","1,265.00","4,637.00",,5,3,7
+2005,Bur. of Indian Affairs   ,Special ed teachers for 3-5                  ,23,0,23,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Special ed teachers for 6-21                 ,461,59,520,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Vocational education teachers                ,4,1,5,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Physical education teachers                  ,4,0,4,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Work-study coordinators                      ,7,1,8,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Psychologists                                ,61,1,62,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,School social workers                        ,25,0,25,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Occupational therapists                      ,34,1,35,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Audiologists                                 ,4,0,4,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Teacher aides                                ,530,82,612,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Recreation specialists                       ,0,0,0,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Diagnostic & evaluation staff                ,8,0,8,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Physical therapists                          ,19,0,19,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Counselors                                   ,38,1,39,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Speech pathologists                          ,105,3,108,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Supervisors/administrators                   ,36,1,36,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Supervisors/administrators (SEA)             ,17,1,18,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Interpreters                                 ,1,2,3,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Rehabilitation counselors                    ,0,0,0,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Other professional staff                     ,20,2,22,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Non-professional staff                       ,15,11,26,AI_Territory_National,,,
+2005,Bur. of Indian Affairs   ,Total                                        ,927,107,"1,034.00",AI_Territory_National,,,
+2005,California               ,Special ed teachers for 3-5                  ,"1,908.00",234,"2,142.00",,6,4,9
+2005,California               ,Special ed teachers for 6-21                 ,"27,495.00","4,032.00","31,527.00",,6,4,9
+2005,California               ,Vocational education teachers                ,342,53,395,,6,4,9
+2005,California               ,Physical education teachers                  ,935,84,"1,019.00",,6,4,9
+2005,California               ,Work-study coordinators                      ,58,8,66,,6,4,9
+2005,California               ,Psychologists                                ,"3,884.00",85,"3,968.00",,6,4,9
+2005,California               ,School social workers                        ,128,10,138,,6,4,9
+2005,California               ,Occupational therapists                      ,833,47,880,,6,4,9
+2005,California               ,Audiologists                                 ,160,6,166,,6,4,9
+2005,California               ,Teacher aides                                ,"36,156.00","12,881.00","49,037.00",,6,4,9
+2005,California               ,Recreation specialists                       ,5,3,8,,6,4,9
+2005,California               ,Diagnostic & evaluation staff                ,139,1,140,,6,4,9
+2005,California               ,Physical therapists                          ,111,3,114,,6,4,9
+2005,California               ,Counselors                                   ,622,14,635,,6,4,9
+2005,California               ,Speech pathologists                          ,"5,160.00",275,"5,435.00",,6,4,9
+2005,California               ,Supervisors/administrators                   ,"1,833.00",18,"1,851.00",,6,4,9
+2005,California               ,Supervisors/administrators (SEA)             ,122,0,122,,6,4,9
+2005,California               ,Interpreters                                 ,686,129,815,,6,4,9
+2005,California               ,Rehabilitation counselors                    ,8,2,10,,6,4,9
+2005,California               ,Other professional staff                     ,"2,334.00",83,"2,417.00",,6,4,9
+2005,California               ,Non-professional staff                       ,"2,216.00",727,"2,943.00",,6,4,9
+2005,California               ,Total                                        ,"55,731.00","14,427.00","70,157.00",,6,4,9
+2005,Colorado                 ,Special ed teachers for 3-5                  ,215,71,286,,8,4,8
+2005,Colorado                 ,Special ed teachers for 6-21                 ,"3,767.00",808,"4,575.00",,8,4,8
+2005,Colorado                 ,Vocational education teachers                ,22,8,30,,8,4,8
+2005,Colorado                 ,Physical education teachers                  ,38,2,40,,8,4,8
+2005,Colorado                 ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Psychologists                                ,537,33,570,,8,4,8
+2005,Colorado                 ,School social workers                        ,294,17,311,,8,4,8
+2005,Colorado                 ,Occupational therapists                      ,297,17,314,,8,4,8
+2005,Colorado                 ,Audiologists                                 ,47,4,51,,8,4,8
+2005,Colorado                 ,Teacher aides                                ,"5,911.00",          N/V,"5,911.00",,8,4,8
+2005,Colorado                 ,Recreation specialists                       ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Diagnostic & evaluation staff                ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Physical therapists                          ,86,4,90,,8,4,8
+2005,Colorado                 ,Counselors                                   ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Speech pathologists                          ,864,74,938,,8,4,8
+2005,Colorado                 ,Supervisors/administrators                   ,215,35,250,,8,4,8
+2005,Colorado                 ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Interpreters                                 ,64,92,155,,8,4,8
+2005,Colorado                 ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,8,4,8
+2005,Colorado                 ,Other professional staff                     ,489,145,634,,8,4,8
+2005,Colorado                 ,Non-professional staff                       ,713,          N/V,713,,8,4,8
+2005,Colorado                 ,Total                                        ,"9,576.00",430,"10,006.00",,8,4,8
+2005,Connecticut              ,Special ed teachers for 3-5                  ,24,0,24,,9,1,1
+2005,Connecticut              ,Special ed teachers for 6-21                 ,"4,913.00",0,"4,913.00",,9,1,1
+2005,Connecticut              ,Vocational education teachers                ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Physical education teachers                  ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Psychologists                                ,885,          N/V,885,,9,1,1
+2005,Connecticut              ,School social workers                        ,723,          N/V,723,,9,1,1
+2005,Connecticut              ,Occupational therapists                      ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Audiologists                                 ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Teacher aides                                ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Recreation specialists                       ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Diagnostic & evaluation staff                ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Physical therapists                          ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Counselors                                   ,"1,351.00",          N/V,"1,351.00",,9,1,1
+2005,Connecticut              ,Speech pathologists                          ,947,          N/V,947,,9,1,1
+2005,Connecticut              ,Supervisors/administrators                   ,110,          N/V,110,,9,1,1
+2005,Connecticut              ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Interpreters                                 ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Other professional staff                     ,          N/V,          N/V,          N/V,,9,1,1
+2005,Connecticut              ,Non-professional staff                       ,"8,095.00",          N/V,"8,095.00",,9,1,1
+2005,Connecticut              ,Total                                        ,"12,111.00",          N/V,"12,111.00",,9,1,1
+2005,Delaware                 ,Special ed teachers for 3-5                  ,98,2,100,,10,3,5
+2005,Delaware                 ,Special ed teachers for 6-21                 ,"1,294.00",141,"1,435.00",,10,3,5
+2005,Delaware                 ,Vocational education teachers                ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Physical education teachers                  ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Psychologists                                ,108,2,110,,10,3,5
+2005,Delaware                 ,School social workers                        ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Occupational therapists                      ,5,23,28,,10,3,5
+2005,Delaware                 ,Audiologists                                 ,7,9,16,,10,3,5
+2005,Delaware                 ,Teacher aides                                ,787,277,"1,064.00",,10,3,5
+2005,Delaware                 ,Recreation specialists                       ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Diagnostic & evaluation staff                ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Physical therapists                          ,6,4,10,,10,3,5
+2005,Delaware                 ,Counselors                                   ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Speech pathologists                          ,76,39,115,,10,3,5
+2005,Delaware                 ,Supervisors/administrators                   ,5,3,8,,10,3,5
+2005,Delaware                 ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Interpreters                                 ,7,6,13,,10,3,5
+2005,Delaware                 ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Other professional staff                     ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Non-professional staff                       ,          N/V,          N/V,          N/V,,10,3,5
+2005,Delaware                 ,Total                                        ,"1,001.00",363,"1,364.00",,10,3,5
+2005,District of Columbia     ,Special ed teachers for 3-5                  ,5,0,5,,11,3,5
+2005,District of Columbia     ,Special ed teachers for 6-21                 ,483,188,671,,11,3,5
+2005,District of Columbia     ,Vocational education teachers                ,2,6,8,,11,3,5
+2005,District of Columbia     ,Physical education teachers                  ,5,6,11,,11,3,5
+2005,District of Columbia     ,Work-study coordinators                      ,0,0,0,,11,3,5
+2005,District of Columbia     ,Psychologists                                ,50,2,52,,11,3,5
+2005,District of Columbia     ,School social workers                        ,92,6,98,,11,3,5
+2005,District of Columbia     ,Occupational therapists                      ,3,0,3,,11,3,5
+2005,District of Columbia     ,Audiologists                                 ,0,0,0,,11,3,5
+2005,District of Columbia     ,Teacher aides                                ,20,74,94,,11,3,5
+2005,District of Columbia     ,Recreation specialists                       ,25,7,32,,11,3,5
+2005,District of Columbia     ,Diagnostic & evaluation staff                ,0,0,0,,11,3,5
+2005,District of Columbia     ,Physical therapists                          ,1,0,1,,11,3,5
+2005,District of Columbia     ,Counselors                                   ,134,7,141,,11,3,5
+2005,District of Columbia     ,Speech pathologists                          ,44,4,48,,11,3,5
+2005,District of Columbia     ,Supervisors/administrators                   ,0,0,0,,11,3,5
+2005,District of Columbia     ,Supervisors/administrators (SEA)             ,0,0,0,,11,3,5
+2005,District of Columbia     ,Interpreters                                 ,0,0,0,,11,3,5
+2005,District of Columbia     ,Rehabilitation counselors                    ,0,0,0,,11,3,5
+2005,District of Columbia     ,Other professional staff                     ,0,0,0,,11,3,5
+2005,District of Columbia     ,Non-professional staff                       ,20,21,41,,11,3,5
+2005,District of Columbia     ,Total                                        ,396,133,529,,11,3,5
+2005,Florida                  ,Special ed teachers for 3-5                  ,"1,945.00",52,"1,996.00",,12,3,5
+2005,Florida                  ,Special ed teachers for 6-21                 ,"21,078.00","1,175.00","22,254.00",,12,3,5
+2005,Florida                  ,Vocational education teachers                ,233,1,234,,12,3,5
+2005,Florida                  ,Physical education teachers                  ,218,1,219,,12,3,5
+2005,Florida                  ,Work-study coordinators                      ,238,0,238,,12,3,5
+2005,Florida                  ,Psychologists                                ,"1,340.00",1,"1,341.00",,12,3,5
+2005,Florida                  ,School social workers                        ,826,1,827,,12,3,5
+2005,Florida                  ,Occupational therapists                      ,551,0,551,,12,3,5
+2005,Florida                  ,Audiologists                                 ,55,0,55,,12,3,5
+2005,Florida                  ,Teacher aides                                ,"15,846.00",3,"15,849.00",,12,3,5
+2005,Florida                  ,Recreation specialists                       ,32,0,32,,12,3,5
+2005,Florida                  ,Diagnostic & evaluation staff                ,406,0,406,,12,3,5
+2005,Florida                  ,Physical therapists                          ,232,0,232,,12,3,5
+2005,Florida                  ,Counselors                                   ,"2,490.00",16,"2,506.00",,12,3,5
+2005,Florida                  ,Speech pathologists                          ,          N/V,          N/V,          N/V,,12,3,5
+2005,Florida                  ,Supervisors/administrators                   ,551,0,551,,12,3,5
+2005,Florida                  ,Supervisors/administrators (SEA)             ,37,0,37,,12,3,5
+2005,Florida                  ,Interpreters                                 ,455,6,461,,12,3,5
+2005,Florida                  ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,12,3,5
+2005,Florida                  ,Other professional staff                     ,"4,491.00",3,"4,494.00",,12,3,5
+2005,Florida                  ,Non-professional staff                       ,"4,520.00",0,"4,520.00",,12,3,5
+2005,Florida                  ,Total                                        ,"32,521.00",33,"32,553.00",,12,3,5
+2005,Georgia                  ,Special ed teachers for 3-5                  ,605,109,714,,13,3,5
+2005,Georgia                  ,Special ed teachers for 6-21                 ,"11,470.00","2,917.00","14,388.00",,13,3,5
+2005,Georgia                  ,Vocational education teachers                ,159,8,166,,13,3,5
+2005,Georgia                  ,Physical education teachers                  ,65,4,69,,13,3,5
+2005,Georgia                  ,Work-study coordinators                      ,11,1,12,,13,3,5
+2005,Georgia                  ,Psychologists                                ,696,10,706,,13,3,5
+2005,Georgia                  ,School social workers                        ,92,21,113,,13,3,5
+2005,Georgia                  ,Occupational therapists                      ,256,0,256,,13,3,5
+2005,Georgia                  ,Audiologists                                 ,30,0,30,,13,3,5
+2005,Georgia                  ,Teacher aides                                ,"11,199.00",0,"11,199.00",,13,3,5
+2005,Georgia                  ,Recreation specialists                       ,18,0,18,,13,3,5
+2005,Georgia                  ,Diagnostic & evaluation staff                ,502,0,502,,13,3,5
+2005,Georgia                  ,Physical therapists                          ,102,0,102,,13,3,5
+2005,Georgia                  ,Counselors                                   ,11,0,11,,13,3,5
+2005,Georgia                  ,Speech pathologists                          ,"1,810.00",20,"1,830.00",,13,3,5
+2005,Georgia                  ,Supervisors/administrators                   ,643,8,651,,13,3,5
+2005,Georgia                  ,Supervisors/administrators (SEA)             ,28,0,28,,13,3,5
+2005,Georgia                  ,Interpreters                                 ,51,183,234,,13,3,5
+2005,Georgia                  ,Rehabilitation counselors                    ,8,0,8,,13,3,5
+2005,Georgia                  ,Other professional staff                     ,81,0,81,,13,3,5
+2005,Georgia                  ,Non-professional staff                       ,"1,804.00",0,"1,804.00",,13,3,5
+2005,Georgia                  ,Total                                        ,"17,565.00",253,"17,818.00",,13,3,5
+2005,Guam                     ,Special ed teachers for 3-5                  ,16,0,16,,66,,
+2005,Guam                     ,Special ed teachers for 6-21                 ,193,0,193,,66,,
+2005,Guam                     ,Vocational education teachers                ,0,0,0,,66,,
+2005,Guam                     ,Physical education teachers                  ,0,0,0,,66,,
+2005,Guam                     ,Work-study coordinators                      ,1,0,1,,66,,
+2005,Guam                     ,Psychologists                                ,7,0,7,,66,,
+2005,Guam                     ,School social workers                        ,8,0,8,,66,,
+2005,Guam                     ,Occupational therapists                      ,3,0,3,,66,,
+2005,Guam                     ,Audiologists                                 ,1,0,1,,66,,
+2005,Guam                     ,Teacher aides                                ,303,0,303,,66,,
+2005,Guam                     ,Recreation specialists                       ,4,0,4,,66,,
+2005,Guam                     ,Diagnostic & evaluation staff                ,12,0,12,,66,,
+2005,Guam                     ,Physical therapists                          ,3,0,3,,66,,
+2005,Guam                     ,Counselors                                   ,0,0,0,,66,,
+2005,Guam                     ,Speech pathologists                          ,18,0,18,,66,,
+2005,Guam                     ,Supervisors/administrators                   ,0,0,0,,66,,
+2005,Guam                     ,Supervisors/administrators (SEA)             ,1,0,1,,66,,
+2005,Guam                     ,Interpreters                                 ,6,0,6,,66,,
+2005,Guam                     ,Rehabilitation counselors                    ,0,0,0,,66,,
+2005,Guam                     ,Other professional staff                     ,16,0,16,,66,,
+2005,Guam                     ,Non-professional staff                       ,46,0,46,,66,,
+2005,Guam                     ,Total                                        ,429,0,429,,66,,
+2005,Hawaii                   ,Special ed teachers for 3-5                  ,238,15,253,,15,4,9
+2005,Hawaii                   ,Special ed teachers for 6-21                 ,"1,469.00",567,"2,036.00",,15,4,9
+2005,Hawaii                   ,Vocational education teachers                ,0,0,0,,15,4,9
+2005,Hawaii                   ,Physical education teachers                  ,3,0,3,,15,4,9
+2005,Hawaii                   ,Work-study coordinators                      ,18,0,18,,15,4,9
+2005,Hawaii                   ,Psychologists                                ,62,0,62,,15,4,9
+2005,Hawaii                   ,School social workers                        ,76,0,76,,15,4,9
+2005,Hawaii                   ,Occupational therapists                      ,43,0,43,,15,4,9
+2005,Hawaii                   ,Audiologists                                 ,1,0,1,,15,4,9
+2005,Hawaii                   ,Teacher aides                                ,"2,187.00",8,"2,194.00",,15,4,9
+2005,Hawaii                   ,Recreation specialists                       ,0,0,0,,15,4,9
+2005,Hawaii                   ,Diagnostic & evaluation staff                ,368,7,375,,15,4,9
+2005,Hawaii                   ,Physical therapists                          ,16,0,16,,15,4,9
+2005,Hawaii                   ,Counselors                                   ,493,37,530,,15,4,9
+2005,Hawaii                   ,Speech pathologists                          ,201,0,201,,15,4,9
+2005,Hawaii                   ,Supervisors/administrators                   ,0,0,0,,15,4,9
+2005,Hawaii                   ,Supervisors/administrators (SEA)             ,0,0,0,,15,4,9
+2005,Hawaii                   ,Interpreters                                 ,0,0,0,,15,4,9
+2005,Hawaii                   ,Rehabilitation counselors                    ,0,0,0,,15,4,9
+2005,Hawaii                   ,Other professional staff                     ,579,447,"1,026.00",,15,4,9
+2005,Hawaii                   ,Non-professional staff                       ,27,0,27,,15,4,9
+2005,Hawaii                   ,Total                                        ,"4,072.00",499,"4,570.00",,15,4,9
+2005,Idaho                    ,Special ed teachers for 3-5                  ,139,35,174,,16,4,8
+2005,Idaho                    ,Special ed teachers for 6-21                 ,"1,166.00",117,"1,283.00",,16,4,8
+2005,Idaho                    ,Vocational education teachers                ,0,0,0,,16,4,8
+2005,Idaho                    ,Physical education teachers                  ,3,0,3,,16,4,8
+2005,Idaho                    ,Work-study coordinators                      ,1,0,1,,16,4,8
+2005,Idaho                    ,Psychologists                                ,143,10,153,,16,4,8
+2005,Idaho                    ,School social workers                        ,0,0,0,,16,4,8
+2005,Idaho                    ,Occupational therapists                      ,32,0,32,,16,4,8
+2005,Idaho                    ,Audiologists                                 ,4,0,4,,16,4,8
+2005,Idaho                    ,Teacher aides                                ,"1,694.00",0,"1,694.00",,16,4,8
+2005,Idaho                    ,Recreation specialists                       ,0,0,0,,16,4,8
+2005,Idaho                    ,Diagnostic & evaluation staff                ,7,0,7,,16,4,8
+2005,Idaho                    ,Physical therapists                          ,4,0,4,,16,4,8
+2005,Idaho                    ,Counselors                                   ,0,0,0,,16,4,8
+2005,Idaho                    ,Speech pathologists                          ,195,14,209,,16,4,8
+2005,Idaho                    ,Supervisors/administrators                   ,55,7,62,,16,4,8
+2005,Idaho                    ,Supervisors/administrators (SEA)             ,6,0,6,,16,4,8
+2005,Idaho                    ,Interpreters                                 ,62,0,62,,16,4,8
+2005,Idaho                    ,Rehabilitation counselors                    ,0,0,0,,16,4,8
+2005,Idaho                    ,Other professional staff                     ,7,0,7,,16,4,8
+2005,Idaho                    ,Non-professional staff                       ,11,0,11,,16,4,8
+2005,Idaho                    ,Total                                        ,"2,224.00",31,"2,255.00",,16,4,8
+2005,Illinois                 ,Special ed teachers for 3-5                  ,"1,249.00",27,"1,276.00",,17,2,3
+2005,Illinois                 ,Special ed teachers for 6-21                 ,"22,491.00",702,"23,193.00",,17,2,3
+2005,Illinois                 ,Vocational education teachers                ,129,1,130,,17,2,3
+2005,Illinois                 ,Physical education teachers                  ,202,0,202,,17,2,3
+2005,Illinois                 ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,17,2,3
+2005,Illinois                 ,Psychologists                                ,"1,970.00",42,"2,012.00",,17,2,3
+2005,Illinois                 ,School social workers                        ,"3,178.00",65,"3,243.00",,17,2,3
+2005,Illinois                 ,Occupational therapists                      ,868,0,868,,17,2,3
+2005,Illinois                 ,Audiologists                                 ,35,0,35,,17,2,3
+2005,Illinois                 ,Teacher aides                                ,"28,645.00",0,"28,645.00",,17,2,3
+2005,Illinois                 ,Recreation specialists                       ,1,0,1,,17,2,3
+2005,Illinois                 ,Diagnostic & evaluation staff                ,19,0,19,,17,2,3
+2005,Illinois                 ,Physical therapists                          ,362,0,362,,17,2,3
+2005,Illinois                 ,Counselors                                   ,721,222,943,,17,2,3
+2005,Illinois                 ,Speech pathologists                          ,          N/V,          N/V,          N/V,,17,2,3
+2005,Illinois                 ,Supervisors/administrators                   ,948,3,951,,17,2,3
+2005,Illinois                 ,Supervisors/administrators (SEA)             ,62,          N/V,62,,17,2,3
+2005,Illinois                 ,Interpreters                                 ,273,0,273,,17,2,3
+2005,Illinois                 ,Rehabilitation counselors                    ,12,0,12,,17,2,3
+2005,Illinois                 ,Other professional staff                     ,981,101,"1,081.00",,17,2,3
+2005,Illinois                 ,Non-professional staff                       ,"4,783.00",0,"4,783.00",,17,2,3
+2005,Illinois                 ,Total                                        ,"43,192.00",433,"43,625.00",,17,2,3
+2005,Indiana                  ,Special ed teachers for 3-5                  ,"1,176.00",31,"1,207.00",,18,2,3
+2005,Indiana                  ,Special ed teachers for 6-21                 ,"6,023.00","1,016.00","7,039.00",,18,2,3
+2005,Indiana                  ,Vocational education teachers                ,25,5,30,,18,2,3
+2005,Indiana                  ,Physical education teachers                  ,24,1,25,,18,2,3
+2005,Indiana                  ,Work-study coordinators                      ,13,0,13,,18,2,3
+2005,Indiana                  ,Psychologists                                ,491,3,494,,18,2,3
+2005,Indiana                  ,School social workers                        ,83,2,85,,18,2,3
+2005,Indiana                  ,Occupational therapists                      ,211,5,216,,18,2,3
+2005,Indiana                  ,Audiologists                                 ,11,0,11,,18,2,3
+2005,Indiana                  ,Teacher aides                                ,"8,155.00",0,"8,155.00",,18,2,3
+2005,Indiana                  ,Recreation specialists                       ,3,0,3,,18,2,3
+2005,Indiana                  ,Diagnostic & evaluation staff                ,57,0,57,,18,2,3
+2005,Indiana                  ,Physical therapists                          ,122,1,123,,18,2,3
+2005,Indiana                  ,Counselors                                   ,24,2,26,,18,2,3
+2005,Indiana                  ,Speech pathologists                          ,"1,184.00",51,"1,235.00",,18,2,3
+2005,Indiana                  ,Supervisors/administrators                   ,274,7,281,,18,2,3
+2005,Indiana                  ,Supervisors/administrators (SEA)             ,0,0,0,,18,2,3
+2005,Indiana                  ,Interpreters                                 ,114,6,120,,18,2,3
+2005,Indiana                  ,Rehabilitation counselors                    ,0,0,0,,18,2,3
+2005,Indiana                  ,Other professional staff                     ,"1,500.00",0,"1,500.00",,18,2,3
+2005,Indiana                  ,Non-professional staff                       ,0,0,0,,18,2,3
+2005,Indiana                  ,Total                                        ,"12,291.00",83,"12,374.00",,18,2,3
+2005,Iowa                     ,Special ed teachers for 3-5                  ,435,0,435,,19,2,4
+2005,Iowa                     ,Special ed teachers for 6-21                 ,"5,604.00",0,"5,604.00",,19,2,4
+2005,Iowa                     ,Vocational education teachers                ,20,0,20,,19,2,4
+2005,Iowa                     ,Physical education teachers                  ,10,0,10,,19,2,4
+2005,Iowa                     ,Work-study coordinators                      ,54,0,54,,19,2,4
+2005,Iowa                     ,Psychologists                                ,334,0,334,,19,2,4
+2005,Iowa                     ,School social workers                        ,238,0,238,,19,2,4
+2005,Iowa                     ,Occupational therapists                      ,75,0,75,,19,2,4
+2005,Iowa                     ,Audiologists                                 ,48,0,48,,19,2,4
+2005,Iowa                     ,Teacher aides                                ,"6,881.00",0,"6,881.00",,19,2,4
+2005,Iowa                     ,Recreation specialists                       ,4,0,4,,19,2,4
+2005,Iowa                     ,Diagnostic & evaluation staff                ,0,0,0,,19,2,4
+2005,Iowa                     ,Physical therapists                          ,49,0,49,,19,2,4
+2005,Iowa                     ,Counselors                                   ,6,0,6,,19,2,4
+2005,Iowa                     ,Speech pathologists                          ,506,0,506,,19,2,4
+2005,Iowa                     ,Supervisors/administrators                   ,184,0,184,,19,2,4
+2005,Iowa                     ,Supervisors/administrators (SEA)             ,35,0,35,,19,2,4
+2005,Iowa                     ,Interpreters                                 ,132,0,132,,19,2,4
+2005,Iowa                     ,Rehabilitation counselors                    ,4,0,4,,19,2,4
+2005,Iowa                     ,Other professional staff                     ,494,0,494,,19,2,4
+2005,Iowa                     ,Non-professional staff                       ,580,0,580,,19,2,4
+2005,Iowa                     ,Total                                        ,"9,655.00",0,"9,655.00",,19,2,4
+2005,Kansas                   ,Special ed teachers for 3-5                  ,437,19,456,,20,2,4
+2005,Kansas                   ,Special ed teachers for 6-21                 ,"3,570.00",240,"3,810.00",,20,2,4
+2005,Kansas                   ,Vocational education teachers                ,59,0,59,,20,2,4
+2005,Kansas                   ,Physical education teachers                  ,50,0,50,,20,2,4
+2005,Kansas                   ,Work-study coordinators                      ,14,0,14,,20,2,4
+2005,Kansas                   ,Psychologists                                ,484,0,484,,20,2,4
+2005,Kansas                   ,School social workers                        ,243,0,243,,20,2,4
+2005,Kansas                   ,Occupational therapists                      ,198,0,198,,20,2,4
+2005,Kansas                   ,Audiologists                                 ,23,0,23,,20,2,4
+2005,Kansas                   ,Teacher aides                                ,"9,972.00",0,"9,972.00",,20,2,4
+2005,Kansas                   ,Recreation specialists                       ,1,0,1,,20,2,4
+2005,Kansas                   ,Diagnostic & evaluation staff                ,2,0,2,,20,2,4
+2005,Kansas                   ,Physical therapists                          ,85,0,85,,20,2,4
+2005,Kansas                   ,Counselors                                   ,41,0,41,,20,2,4
+2005,Kansas                   ,Speech pathologists                          ,755,0,755,,20,2,4
+2005,Kansas                   ,Supervisors/administrators                   ,170,0,170,,20,2,4
+2005,Kansas                   ,Supervisors/administrators (SEA)             ,18,0,18,,20,2,4
+2005,Kansas                   ,Interpreters                                 ,45,0,45,,20,2,4
+2005,Kansas                   ,Rehabilitation counselors                    ,1,0,1,,20,2,4
+2005,Kansas                   ,Other professional staff                     ,          N/V,          N/V,          N/V,,20,2,4
+2005,Kansas                   ,Non-professional staff                       ,198,0,198,,20,2,4
+2005,Kansas                   ,Total                                        ,"12,358.00",0,"12,358.00",,20,2,4
+2005,Kentucky                 ,Special ed teachers for 3-5                  ,299,27,326,,21,3,6
+2005,Kentucky                 ,Special ed teachers for 6-21                 ,"5,801.00",587,"6,388.00",,21,3,6
+2005,Kentucky                 ,Vocational education teachers                ,41,0,41,,21,3,6
+2005,Kentucky                 ,Physical education teachers                  ,16,0,16,,21,3,6
+2005,Kentucky                 ,Work-study coordinators                      ,48,4,52,,21,3,6
+2005,Kentucky                 ,Psychologists                                ,332,14,346,,21,3,6
+2005,Kentucky                 ,School social workers                        ,22,1,23,,21,3,6
+2005,Kentucky                 ,Occupational therapists                      ,199,5,203,,21,3,6
+2005,Kentucky                 ,Audiologists                                 ,15,0,15,,21,3,6
+2005,Kentucky                 ,Teacher aides                                ,"5,132.00",77,"5,209.00",,21,3,6
+2005,Kentucky                 ,Recreation specialists                       ,5,0,5,,21,3,6
+2005,Kentucky                 ,Diagnostic & evaluation staff                ,103,1,103,,21,3,6
+2005,Kentucky                 ,Physical therapists                          ,103,6,109,,21,3,6
+2005,Kentucky                 ,Counselors                                   ,237,1,238,,21,3,6
+2005,Kentucky                 ,Speech pathologists                          ,984,70,"1,053.00",,21,3,6
+2005,Kentucky                 ,Supervisors/administrators                   ,212,0,212,,21,3,6
+2005,Kentucky                 ,Supervisors/administrators (SEA)             ,0,0,0,,21,3,6
+2005,Kentucky                 ,Interpreters                                 ,90,12,102,,21,3,6
+2005,Kentucky                 ,Rehabilitation counselors                    ,11,0,11,,21,3,6
+2005,Kentucky                 ,Other professional staff                     ,264,2,266,,21,3,6
+2005,Kentucky                 ,Non-professional staff                       ,547,3,551,,21,3,6
+2005,Kentucky                 ,Total                                        ,"8,358.00",196,"8,554.00",,21,3,6
+2005,Louisiana                ,Special ed teachers for 3-5                  ,776,169,945,,22,3,7
+2005,Louisiana                ,Special ed teachers for 6-21                 ,"5,100.00","1,065.00","6,166.00",,22,3,7
+2005,Louisiana                ,Vocational education teachers                ,43,2,45,,22,3,7
+2005,Louisiana                ,Physical education teachers                  ,341,18,359,,22,3,7
+2005,Louisiana                ,Work-study coordinators                      ,13,1,14,,22,3,7
+2005,Louisiana                ,Psychologists                                ,307,1,308,,22,3,7
+2005,Louisiana                ,School social workers                        ,266,4,270,,22,3,7
+2005,Louisiana                ,Occupational therapists                      ,144,1,145,,22,3,7
+2005,Louisiana                ,Audiologists                                 ,22,0,22,,22,3,7
+2005,Louisiana                ,Teacher aides                                ,"5,649.00",267,"5,916.00",,22,3,7
+2005,Louisiana                ,Recreation specialists                       ,5,0,5,,22,3,7
+2005,Louisiana                ,Diagnostic & evaluation staff                ,344,0,344,,22,3,7
+2005,Louisiana                ,Physical therapists                          ,70,0,70,,22,3,7
+2005,Louisiana                ,Counselors                                   ,57,0,57,,22,3,7
+2005,Louisiana                ,Speech pathologists                          ,"1,007.00",7,"1,014.00",,22,3,7
+2005,Louisiana                ,Supervisors/administrators                   ,227,3,230,,22,3,7
+2005,Louisiana                ,Supervisors/administrators (SEA)             ,57,0,57,,22,3,7
+2005,Louisiana                ,Interpreters                                 ,120,17,137,,22,3,7
+2005,Louisiana                ,Rehabilitation counselors                    ,0,0,0,,22,3,7
+2005,Louisiana                ,Other professional staff                     ,547,30,577,,22,3,7
+2005,Louisiana                ,Non-professional staff                       ,"1,117.00",31,"1,148.00",,22,3,7
+2005,Louisiana                ,Total                                        ,"10,333.00",382,"10,715.00",,22,3,7
+2005,Maine                    ,Special ed teachers for 3-5                  ,272,          N/V,272,,23,1,1
+2005,Maine                    ,Special ed teachers for 6-21                 ,"2,503.00",173,"2,677.00",,23,1,1
+2005,Maine                    ,Vocational education teachers                ,6,0,6,,23,1,1
+2005,Maine                    ,Physical education teachers                  ,13,1,13,,23,1,1
+2005,Maine                    ,Work-study coordinators                      ,3,0,3,,23,1,1
+2005,Maine                    ,Psychologists                                ,143,0,143,,23,1,1
+2005,Maine                    ,School social workers                        ,177,0,177,,23,1,1
+2005,Maine                    ,Occupational therapists                      ,204,1,205,,23,1,1
+2005,Maine                    ,Audiologists                                 ,19,1,20,,23,1,1
+2005,Maine                    ,Teacher aides                                ,"3,871.00",21,"3,892.00",,23,1,1
+2005,Maine                    ,Recreation specialists                       ,9,0,9,,23,1,1
+2005,Maine                    ,Diagnostic & evaluation staff                ,74,1,75,,23,1,1
+2005,Maine                    ,Physical therapists                          ,76,0,76,,23,1,1
+2005,Maine                    ,Counselors                                   ,34,0,34,,23,1,1
+2005,Maine                    ,Speech pathologists                          ,0,0,0,,23,1,1
+2005,Maine                    ,Supervisors/administrators                   ,147,7,154,,23,1,1
+2005,Maine                    ,Supervisors/administrators (SEA)             ,16,0,16,,23,1,1
+2005,Maine                    ,Interpreters                                 ,37,0,37,,23,1,1
+2005,Maine                    ,Rehabilitation counselors                    ,3,0,3,,23,1,1
+2005,Maine                    ,Other professional staff                     ,178,3,181,,23,1,1
+2005,Maine                    ,Non-professional staff                       ,144,0,145,,23,1,1
+2005,Maine                    ,Total                                        ,"5,155.00",35,"5,190.00",,23,1,1
+2005,Maryland                 ,Special ed teachers for 3-5                  ,444,42,486,,24,3,5
+2005,Maryland                 ,Special ed teachers for 6-21                 ,"6,063.00","1,388.00","7,450.00",,24,3,5
+2005,Maryland                 ,Vocational education teachers                ,99,18,117,,24,3,5
+2005,Maryland                 ,Physical education teachers                  ,567,26,593,,24,3,5
+2005,Maryland                 ,Work-study coordinators                      ,31,9,40,,24,3,5
+2005,Maryland                 ,Psychologists                                ,402,28,430,,24,3,5
+2005,Maryland                 ,School social workers                        ,438,2,439,,24,3,5
+2005,Maryland                 ,Occupational therapists                      ,289,11,300,,24,3,5
+2005,Maryland                 ,Audiologists                                 ,32,0,32,,24,3,5
+2005,Maryland                 ,Teacher aides                                ,"6,691.00",0,"6,691.00",,24,3,5
+2005,Maryland                 ,Recreation specialists                       ,5,0,5,,24,3,5
+2005,Maryland                 ,Diagnostic & evaluation staff                ,402,32,434,,24,3,5
+2005,Maryland                 ,Physical therapists                          ,147,4,151,,24,3,5
+2005,Maryland                 ,Counselors                                   ,310,11,321,,24,3,5
+2005,Maryland                 ,Speech pathologists                          ,"1,165.00",95,"1,260.00",,24,3,5
+2005,Maryland                 ,Supervisors/administrators                   ,359,22,381,,24,3,5
+2005,Maryland                 ,Supervisors/administrators (SEA)             ,0,0,0,,24,3,5
+2005,Maryland                 ,Interpreters                                 ,105,35,140,,24,3,5
+2005,Maryland                 ,Rehabilitation counselors                    ,1,0,1,,24,3,5
+2005,Maryland                 ,Other professional staff                     ,719,68,787,,24,3,5
+2005,Maryland                 ,Non-professional staff                       ,745,31,776,,24,3,5
+2005,Maryland                 ,Total                                        ,"12,507.00",391,"12,898.00",,24,3,5
+2005,Massachusetts            ,Special ed teachers for 3-5                  ,"10,351.00",965,"11,317.00",,25,1,1
+2005,Massachusetts            ,Special ed teachers for 6-21                 ,"9,521.00",958,"10,478.00",,25,1,1
+2005,Massachusetts            ,Vocational education teachers                ,96,6,102,,25,1,1
+2005,Massachusetts            ,Physical education teachers                  ,145,10,155,,25,1,1
+2005,Massachusetts            ,Work-study coordinators                      ,0,11,11,,25,1,1
+2005,Massachusetts            ,Psychologists                                ,244,4,248,,25,1,1
+2005,Massachusetts            ,School social workers                        ,70,3,72,,25,1,1
+2005,Massachusetts            ,Occupational therapists                      ,0,502,502,,25,1,1
+2005,Massachusetts            ,Audiologists                                 ,0,11,11,,25,1,1
+2005,Massachusetts            ,Teacher aides                                ,0,"14,440.00","14,440.00",,25,1,1
+2005,Massachusetts            ,Recreation specialists                       ,0,11,11,,25,1,1
+2005,Massachusetts            ,Diagnostic & evaluation staff                ,0,412,412,,25,1,1
+2005,Massachusetts            ,Physical therapists                          ,0,194,194,,25,1,1
+2005,Massachusetts            ,Counselors                                   ,207,2,209,,25,1,1
+2005,Massachusetts            ,Speech pathologists                          ,0,545,545,,25,1,1
+2005,Massachusetts            ,Supervisors/administrators                   ,426,46,472,,25,1,1
+2005,Massachusetts            ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,25,1,1
+2005,Massachusetts            ,Interpreters                                 ,0,28,28,,25,1,1
+2005,Massachusetts            ,Rehabilitation counselors                    ,0,6,6,,25,1,1
+2005,Massachusetts            ,Other professional staff                     ,948,"1,165.00","2,113.00",,25,1,1
+2005,Massachusetts            ,Non-professional staff                       ,0,827,827,,25,1,1
+2005,Massachusetts            ,Total                                        ,"2,135.00","18,223.00","20,359.00",,25,1,1
+2005,Michigan                 ,Special ed teachers for 3-5                  ,693,120,813,,26,2,3
+2005,Michigan                 ,Special ed teachers for 6-21                 ,"11,968.00","1,827.00","13,795.00",,26,2,3
+2005,Michigan                 ,Vocational education teachers                ,0,0,0,,26,2,3
+2005,Michigan                 ,Physical education teachers                  ,74,8,82,,26,2,3
+2005,Michigan                 ,Work-study coordinators                      ,36,11,46,,26,2,3
+2005,Michigan                 ,Psychologists                                ,987,52,"1,039.00",,26,2,3
+2005,Michigan                 ,School social workers                        ,"1,563.00",180,"1,742.00",,26,2,3
+2005,Michigan                 ,Occupational therapists                      ,557,37,594,,26,2,3
+2005,Michigan                 ,Audiologists                                 ,36,4,40,,26,2,3
+2005,Michigan                 ,Teacher aides                                ,"3,698.00",0,"3,698.00",,26,2,3
+2005,Michigan                 ,Recreation specialists                       ,0,0,0,,26,2,3
+2005,Michigan                 ,Diagnostic & evaluation staff                ,0,0,0,,26,2,3
+2005,Michigan                 ,Physical therapists                          ,297,28,325,,26,2,3
+2005,Michigan                 ,Counselors                                   ,0,0,0,,26,2,3
+2005,Michigan                 ,Speech pathologists                          ,"1,885.00",173,"2,058.00",,26,2,3
+2005,Michigan                 ,Supervisors/administrators                   ,363,103,467,,26,2,3
+2005,Michigan                 ,Supervisors/administrators (SEA)             ,28,0,28,,26,2,3
+2005,Michigan                 ,Interpreters                                 ,28,42,70,,26,2,3
+2005,Michigan                 ,Rehabilitation counselors                    ,0,0,0,,26,2,3
+2005,Michigan                 ,Other professional staff                     ,391,12,403,,26,2,3
+2005,Michigan                 ,Non-professional staff                       ,66,0,66,,26,2,3
+2005,Michigan                 ,Total                                        ,"10,010.00",650,"10,660.00",,26,2,3
+2005,Minnesota                ,Special ed teachers for 3-5                  ,279,12,291,,27,2,4
+2005,Minnesota                ,Special ed teachers for 6-21                 ,"8,048.00",347,"8,395.00",,27,2,4
+2005,Minnesota                ,Vocational education teachers                ,25,0,25,,27,2,4
+2005,Minnesota                ,Physical education teachers                  ,357,9,365,,27,2,4
+2005,Minnesota                ,Work-study coordinators                      ,159,0,159,,27,2,4
+2005,Minnesota                ,Psychologists                                ,620,1,621,,27,2,4
+2005,Minnesota                ,School social workers                        ,0,791,791,,27,2,4
+2005,Minnesota                ,Occupational therapists                      ,0,517,517,,27,2,4
+2005,Minnesota                ,Audiologists                                 ,0,55,55,,27,2,4
+2005,Minnesota                ,Teacher aides                                ,0,"11,987.00","11,987.00",,27,2,4
+2005,Minnesota                ,Recreation specialists                       ,0,0,0,,27,2,4
+2005,Minnesota                ,Diagnostic & evaluation staff                ,0,0,0,,27,2,4
+2005,Minnesota                ,Physical therapists                          ,0,159,159,,27,2,4
+2005,Minnesota                ,Counselors                                   ,42,0,42,,27,2,4
+2005,Minnesota                ,Speech pathologists                          ,"1,647.00",1,"1,647.00",,27,2,4
+2005,Minnesota                ,Supervisors/administrators                   ,188,0,188,,27,2,4
+2005,Minnesota                ,Supervisors/administrators (SEA)             ,86,0,86,,27,2,4
+2005,Minnesota                ,Interpreters                                 ,0,206,206,,27,2,4
+2005,Minnesota                ,Rehabilitation counselors                    ,0,0,0,,27,2,4
+2005,Minnesota                ,Other professional staff                     ,0,627,627,,27,2,4
+2005,Minnesota                ,Non-professional staff                       ,0,535,535,,27,2,4
+2005,Minnesota                ,Total                                        ,"3,122.00","14,888.00","18,009.00",,27,2,4
+2005,Mississippi              ,Special ed teachers for 3-5                  ,595,38,633,,28,3,6
+2005,Mississippi              ,Special ed teachers for 6-21                 ,"3,735.00",35,"3,770.00",,28,3,6
+2005,Mississippi              ,Vocational education teachers                ,2,10,12,,28,3,6
+2005,Mississippi              ,Physical education teachers                  ,721,55,776,,28,3,6
+2005,Mississippi              ,Work-study coordinators                      ,18,2,20,,28,3,6
+2005,Mississippi              ,Psychologists                                ,24,0,24,,28,3,6
+2005,Mississippi              ,School social workers                        ,4,0,4,,28,3,6
+2005,Mississippi              ,Occupational therapists                      ,24,0,24,,28,3,6
+2005,Mississippi              ,Audiologists                                 ,2,0,2,,28,3,6
+2005,Mississippi              ,Teacher aides                                ,"1,357.00",0,"1,357.00",,28,3,6
+2005,Mississippi              ,Recreation specialists                       ,38,1,40,,28,3,6
+2005,Mississippi              ,Diagnostic & evaluation staff                ,138,0,138,,28,3,6
+2005,Mississippi              ,Physical therapists                          ,0,17,17,,28,3,6
+2005,Mississippi              ,Counselors                                   ,13,0,13,,28,3,6
+2005,Mississippi              ,Speech pathologists                          ,402,48,449,,28,3,6
+2005,Mississippi              ,Supervisors/administrators                   ,153,1,154,,28,3,6
+2005,Mississippi              ,Supervisors/administrators (SEA)             ,0,0,0,,28,3,6
+2005,Mississippi              ,Interpreters                                 ,49,0,49,,28,3,6
+2005,Mississippi              ,Rehabilitation counselors                    ,0,0,0,,28,3,6
+2005,Mississippi              ,Other professional staff                     ,30,0,30,,28,3,6
+2005,Mississippi              ,Non-professional staff                       ,531,0,531,,28,3,6
+2005,Mississippi              ,Total                                        ,"3,506.00",134,"3,640.00",,28,3,6
+2005,Missouri                 ,Special ed teachers for 3-5                  ,814,13,827,,29,2,4
+2005,Missouri                 ,Special ed teachers for 6-21                 ,"8,924.00",186,"9,110.00",,29,2,4
+2005,Missouri                 ,Vocational education teachers                ,57,0,57,,29,2,4
+2005,Missouri                 ,Physical education teachers                  ,30,0,30,,29,2,4
+2005,Missouri                 ,Work-study coordinators                      ,45,0,45,,29,2,4
+2005,Missouri                 ,Psychologists                                ,139,0,139,,29,2,4
+2005,Missouri                 ,School social workers                        ,114,0,114,,29,2,4
+2005,Missouri                 ,Occupational therapists                      ,263,0,263,,29,2,4
+2005,Missouri                 ,Audiologists                                 ,17,0,17,,29,2,4
+2005,Missouri                 ,Teacher aides                                ,"8,287.00",0,"8,287.00",,29,2,4
+2005,Missouri                 ,Recreation specialists                       ,          N/V,          N/V,          N/V,,29,2,4
+2005,Missouri                 ,Diagnostic & evaluation staff                ,141,0,141,,29,2,4
+2005,Missouri                 ,Physical therapists                          ,78,0,78,,29,2,4
+2005,Missouri                 ,Counselors                                   ,3,0,3,,29,2,4
+2005,Missouri                 ,Speech pathologists                          ,78,0,78,,29,2,4
+2005,Missouri                 ,Supervisors/administrators                   ,383,0,383,,29,2,4
+2005,Missouri                 ,Supervisors/administrators (SEA)             ,26,0,26,,29,2,4
+2005,Missouri                 ,Interpreters                                 ,172,0,172,,29,2,4
+2005,Missouri                 ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,29,2,4
+2005,Missouri                 ,Other professional staff                     ,211,0,211,,29,2,4
+2005,Missouri                 ,Non-professional staff                       ,          N/V,          N/V,          N/V,,29,2,4
+2005,Missouri                 ,Total                                        ,"10,043.00",0,"10,043.00",,29,2,4
+2005,Montana                  ,Special ed teachers for 3-5                  ,90,3,93,,30,4,8
+2005,Montana                  ,Special ed teachers for 6-21                 ,809,24,834,,30,4,8
+2005,Montana                  ,Vocational education teachers                ,5,0,5,,30,4,8
+2005,Montana                  ,Physical education teachers                  ,7,0,7,,30,4,8
+2005,Montana                  ,Work-study coordinators                      ,0,0,0,,30,4,8
+2005,Montana                  ,Psychologists                                ,125,0,125,,30,4,8
+2005,Montana                  ,School social workers                        ,33,0,33,,30,4,8
+2005,Montana                  ,Occupational therapists                      ,28,0,28,,30,4,8
+2005,Montana                  ,Audiologists                                 ,4,0,4,,30,4,8
+2005,Montana                  ,Teacher aides                                ,"1,153.00",0,"1,153.00",,30,4,8
+2005,Montana                  ,Recreation specialists                       ,2,0,2,,30,4,8
+2005,Montana                  ,Diagnostic & evaluation staff                ,1,0,1,,30,4,8
+2005,Montana                  ,Physical therapists                          ,20,0,20,,30,4,8
+2005,Montana                  ,Counselors                                   ,1,0,1,,30,4,8
+2005,Montana                  ,Speech pathologists                          ,168,0,168,,30,4,8
+2005,Montana                  ,Supervisors/administrators                   ,39,0,39,,30,4,8
+2005,Montana                  ,Supervisors/administrators (SEA)             ,21,0,21,,30,4,8
+2005,Montana                  ,Interpreters                                 ,32,0,32,,30,4,8
+2005,Montana                  ,Rehabilitation counselors                    ,0,0,0,,30,4,8
+2005,Montana                  ,Other professional staff                     ,60,0,60,,30,4,8
+2005,Montana                  ,Non-professional staff                       ,208,0,208,,30,4,8
+2005,Montana                  ,Total                                        ,"1,906.00",0,"1,906.00",,30,4,8
+2005,Nebraska                 ,Special ed teachers for 3-5                  ,262,5,267,,31,2,4
+2005,Nebraska                 ,Special ed teachers for 6-21                 ,"2,265.00",35,"2,301.00",,31,2,4
+2005,Nebraska                 ,Vocational education teachers                ,          N/V,          N/V,          N/V,,31,2,4
+2005,Nebraska                 ,Physical education teachers                  ,          N/V,          N/V,          N/V,,31,2,4
+2005,Nebraska                 ,Work-study coordinators                      ,3,1,4,,31,2,4
+2005,Nebraska                 ,Psychologists                                ,125,1,126,,31,2,4
+2005,Nebraska                 ,School social workers                        ,0,0,0,,31,2,4
+2005,Nebraska                 ,Occupational therapists                      ,31,8,39,,31,2,4
+2005,Nebraska                 ,Audiologists                                 ,7,0,7,,31,2,4
+2005,Nebraska                 ,Teacher aides                                ,"2,728.00",0,"2,728.00",,31,2,4
+2005,Nebraska                 ,Recreation specialists                       ,          N/V,          N/V,          N/V,,31,2,4
+2005,Nebraska                 ,Diagnostic & evaluation staff                ,84,13,97,,31,2,4
+2005,Nebraska                 ,Physical therapists                          ,17,0,17,,31,2,4
+2005,Nebraska                 ,Counselors                                   ,5,1,6,,31,2,4
+2005,Nebraska                 ,Speech pathologists                          ,525,10,535,,31,2,4
+2005,Nebraska                 ,Supervisors/administrators                   ,14,14,28,,31,2,4
+2005,Nebraska                 ,Supervisors/administrators (SEA)             ,17,0,17,,31,2,4
+2005,Nebraska                 ,Interpreters                                 ,0,72,72,,31,2,4
+2005,Nebraska                 ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,31,2,4
+2005,Nebraska                 ,Other professional staff                     ,1,0,1,,31,2,4
+2005,Nebraska                 ,Non-professional staff                       ,          N/V,          N/V,          N/V,,31,2,4
+2005,Nebraska                 ,Total                                        ,"3,557.00",119,"3,676.00",,31,2,4
+2005,Nevada                   ,Special ed teachers for 3-5                  ,222,126,348,,32,4,8
+2005,Nevada                   ,Special ed teachers for 6-21                 ,"1,972.00",495,"2,467.00",,32,4,8
+2005,Nevada                   ,Vocational education teachers                ,14,1,15,,32,4,8
+2005,Nevada                   ,Physical education teachers                  ,68,9,77,,32,4,8
+2005,Nevada                   ,Work-study coordinators                      ,1,0,1,,32,4,8
+2005,Nevada                   ,Psychologists                                ,212,0,212,,32,4,8
+2005,Nevada                   ,School social workers                        ,11,0,11,,32,4,8
+2005,Nevada                   ,Occupational therapists                      ,91,0,91,,32,4,8
+2005,Nevada                   ,Audiologists                                 ,5,0,5,,32,4,8
+2005,Nevada                   ,Teacher aides                                ,"1,769.00",187,"1,957.00",,32,4,8
+2005,Nevada                   ,Recreation specialists                       ,0,0,0,,32,4,8
+2005,Nevada                   ,Diagnostic & evaluation staff                ,4,3,7,,32,4,8
+2005,Nevada                   ,Physical therapists                          ,39,0,39,,32,4,8
+2005,Nevada                   ,Counselors                                   ,244,2,246,,32,4,8
+2005,Nevada                   ,Speech pathologists                          ,387,0,387,,32,4,8
+2005,Nevada                   ,Supervisors/administrators                   ,134,1,135,,32,4,8
+2005,Nevada                   ,Supervisors/administrators (SEA)             ,0,0,0,,32,4,8
+2005,Nevada                   ,Interpreters                                 ,40,20,60,,32,4,8
+2005,Nevada                   ,Rehabilitation counselors                    ,0,0,0,,32,4,8
+2005,Nevada                   ,Other professional staff                     ,391,10,401,,32,4,8
+2005,Nevada                   ,Non-professional staff                       ,52,10,62,,32,4,8
+2005,Nevada                   ,Total                                        ,"3,462.00",243,"3,705.00",,32,4,8
+2005,New Hampshire            ,Special ed teachers for 3-5                  ,114,32,146,,33,1,1
+2005,New Hampshire            ,Special ed teachers for 6-21                 ,"1,726.00",405,"2,131.00",,33,1,1
+2005,New Hampshire            ,Vocational education teachers                ,10,6,16,,33,1,1
+2005,New Hampshire            ,Physical education teachers                  ,49,5,54,,33,1,1
+2005,New Hampshire            ,Work-study coordinators                      ,29,7,36,,33,1,1
+2005,New Hampshire            ,Psychologists                                ,96,1,97,,33,1,1
+2005,New Hampshire            ,School social workers                        ,47,11,58,,33,1,1
+2005,New Hampshire            ,Occupational therapists                      ,208,0,208,,33,1,1
+2005,New Hampshire            ,Audiologists                                 ,2,0,2,,33,1,1
+2005,New Hampshire            ,Teacher aides                                ,"4,857.00",672,"5,529.00",,33,1,1
+2005,New Hampshire            ,Recreation specialists                       ,10,0,10,,33,1,1
+2005,New Hampshire            ,Diagnostic & evaluation staff                ,192,3,195,,33,1,1
+2005,New Hampshire            ,Physical therapists                          ,62,0,62,,33,1,1
+2005,New Hampshire            ,Counselors                                   ,188,9,197,,33,1,1
+2005,New Hampshire            ,Speech pathologists                          ,365,4,369,,33,1,1
+2005,New Hampshire            ,Supervisors/administrators                   ,306,31,336,,33,1,1
+2005,New Hampshire            ,Supervisors/administrators (SEA)             ,13,3,16,,33,1,1
+2005,New Hampshire            ,Interpreters                                 ,29,15,44,,33,1,1
+2005,New Hampshire            ,Rehabilitation counselors                    ,13,0,13,,33,1,1
+2005,New Hampshire            ,Other professional staff                     ,528,65,593,,33,1,1
+2005,New Hampshire            ,Non-professional staff                       ,626,3,629,,33,1,1
+2005,New Hampshire            ,Total                                        ,"7,630.00",833,"8,463.00",,33,1,1
+2005,New Jersey               ,Special ed teachers for 3-5                  ,"1,071.00",19,"1,090.00",,34,1,2
+2005,New Jersey               ,Special ed teachers for 6-21                 ,"19,310.00","1,137.00","20,447.00",,34,1,2
+2005,New Jersey               ,Vocational education teachers                ,489,17,506,,34,1,2
+2005,New Jersey               ,Physical education teachers                  ,298,12,310,,34,1,2
+2005,New Jersey               ,Work-study coordinators                      ,95,3,98,,34,1,2
+2005,New Jersey               ,Psychologists                                ,"1,619.00",49,"1,668.00",,34,1,2
+2005,New Jersey               ,School social workers                        ,"2,111.00",42,"2,153.00",,34,1,2
+2005,New Jersey               ,Occupational therapists                      ,"1,004.00",5,"1,009.00",,34,1,2
+2005,New Jersey               ,Audiologists                                 ,21,6,27,,34,1,2
+2005,New Jersey               ,Teacher aides                                ,"20,033.00",0,"20,033.00",,34,1,2
+2005,New Jersey               ,Recreation specialists                       ,11,0,11,,34,1,2
+2005,New Jersey               ,Diagnostic & evaluation staff                ,64,8,72,,34,1,2
+2005,New Jersey               ,Physical therapists                          ,491,4,495,,34,1,2
+2005,New Jersey               ,Counselors                                   ,"2,001.00",16,"2,017.00",,34,1,2
+2005,New Jersey               ,Speech pathologists                          ,"2,663.00",118,"2,781.00",,34,1,2
+2005,New Jersey               ,Supervisors/administrators                   ,"1,049.00",18,"1,067.00",,34,1,2
+2005,New Jersey               ,Supervisors/administrators (SEA)             ,111,0,111,,34,1,2
+2005,New Jersey               ,Interpreters                                 ,92,14,106,,34,1,2
+2005,New Jersey               ,Rehabilitation counselors                    ,41,1,42,,34,1,2
+2005,New Jersey               ,Other professional staff                     ,923,58,981,,34,1,2
+2005,New Jersey               ,Non-professional staff                       ,"1,195.00",0,"1,195.00",,34,1,2
+2005,New Jersey               ,Total                                        ,"34,311.00",371,"34,682.00",,34,1,2
+2005,New Mexico               ,Special ed teachers for 3-5                  ,307,19,326,,35,4,8
+2005,New Mexico               ,Special ed teachers for 6-21                 ,"3,965.00",220,"4,186.00",,35,4,8
+2005,New Mexico               ,Vocational education teachers                ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Physical education teachers                  ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Psychologists                                ,136,5,141,,35,4,8
+2005,New Mexico               ,School social workers                        ,371,10,381,,35,4,8
+2005,New Mexico               ,Occupational therapists                      ,224,18,242,,35,4,8
+2005,New Mexico               ,Audiologists                                 ,28,2,30,,35,4,8
+2005,New Mexico               ,Teacher aides                                ,"2,769.00",79,"2,848.00",,35,4,8
+2005,New Mexico               ,Recreation specialists                       ,17,0,17,,35,4,8
+2005,New Mexico               ,Diagnostic & evaluation staff                ,322,3,325,,35,4,8
+2005,New Mexico               ,Physical therapists                          ,102,3,105,,35,4,8
+2005,New Mexico               ,Counselors                                   ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Speech pathologists                          ,557,31,588,,35,4,8
+2005,New Mexico               ,Supervisors/administrators                   ,66,19,85,,35,4,8
+2005,New Mexico               ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Interpreters                                 ,38,4,42,,35,4,8
+2005,New Mexico               ,Rehabilitation counselors                    ,28,0,28,,35,4,8
+2005,New Mexico               ,Other professional staff                     ,112,44,156,,35,4,8
+2005,New Mexico               ,Non-professional staff                       ,          N/V,          N/V,          N/V,,35,4,8
+2005,New Mexico               ,Total                                        ,"4,770.00",217,"4,987.00",,35,4,8
+2005,New York                 ,Special ed teachers for 3-5                  ,"3,564.00","1,778.00","5,342.00",,36,1,2
+2005,New York                 ,Special ed teachers for 6-21                 ,"38,226.00","5,686.00","43,912.00",,36,1,2
+2005,New York                 ,Vocational education teachers                ,262,122,383,,36,1,2
+2005,New York                 ,Physical education teachers                  ,"1,294.00",216,"1,510.00",,36,1,2
+2005,New York                 ,Work-study coordinators                      ,68,13,81,,36,1,2
+2005,New York                 ,Psychologists                                ,"4,294.00",434,"4,727.00",,36,1,2
+2005,New York                 ,School social workers                        ,"3,767.00",314,"4,082.00",,36,1,2
+2005,New York                 ,Occupational therapists                      ,"3,320.00",11,"3,331.00",,36,1,2
+2005,New York                 ,Audiologists                                 ,93,0,93,,36,1,2
+2005,New York                 ,Teacher aides                                ,"24,083.00",0,"24,083.00",,36,1,2
+2005,New York                 ,Recreation specialists                       ,0,0,0,,36,1,2
+2005,New York                 ,Diagnostic & evaluation staff                ,0,0,0,,36,1,2
+2005,New York                 ,Physical therapists                          ,"1,879.00",10,"1,889.00",,36,1,2
+2005,New York                 ,Counselors                                   ,"2,336.00",233,"2,569.00",,36,1,2
+2005,New York                 ,Speech pathologists                          ,"4,514.00",403,"4,917.00",,36,1,2
+2005,New York                 ,Supervisors/administrators                   ,"3,333.00",192,"3,525.00",,36,1,2
+2005,New York                 ,Supervisors/administrators (SEA)             ,1,0,1,,36,1,2
+2005,New York                 ,Interpreters                                 ,267,19,286,,36,1,2
+2005,New York                 ,Rehabilitation counselors                    ,20,6,26,,36,1,2
+2005,New York                 ,Other professional staff                     ,"31,694.00","1,905.00","33,600.00",,36,1,2
+2005,New York                 ,Non-professional staff                       ,"4,425.00",663,"5,087.00",,36,1,2
+2005,New York                 ,Total                                        ,"85,649.00","4,541.00","90,190.00",,36,1,2
+2005,North Carolina           ,Special ed teachers for 3-5                  ,947,174,"1,122.00",,37,3,5
+2005,North Carolina           ,Special ed teachers for 6-21                 ,"9,600.00","1,402.00","11,003.00",,37,3,5
+2005,North Carolina           ,Vocational education teachers                ,635,222,857,,37,3,5
+2005,North Carolina           ,Physical education teachers                  ,214,115,329,,37,3,5
+2005,North Carolina           ,Work-study coordinators                      ,41,27,68,,37,3,5
+2005,North Carolina           ,Psychologists                                ,676,23,699,,37,3,5
+2005,North Carolina           ,School social workers                        ,229,38,267,,37,3,5
+2005,North Carolina           ,Occupational therapists                      ,441,58,500,,37,3,5
+2005,North Carolina           ,Audiologists                                 ,139,14,153,,37,3,5
+2005,North Carolina           ,Teacher aides                                ,"7,320.00","1,685.00","9,005.00",,37,3,5
+2005,North Carolina           ,Recreation specialists                       ,11,12,23,,37,3,5
+2005,North Carolina           ,Diagnostic & evaluation staff                ,160,19,179,,37,3,5
+2005,North Carolina           ,Physical therapists                          ,244,27,272,,37,3,5
+2005,North Carolina           ,Counselors                                   ,568,19,587,,37,3,5
+2005,North Carolina           ,Speech pathologists                          ,"1,660.00",40,"1,700.00",,37,3,5
+2005,North Carolina           ,Supervisors/administrators                   ,729,88,817,,37,3,5
+2005,North Carolina           ,Supervisors/administrators (SEA)             ,62,0,62,,37,3,5
+2005,North Carolina           ,Interpreters                                 ,273,88,361,,37,3,5
+2005,North Carolina           ,Rehabilitation counselors                    ,18,2,20,,37,3,5
+2005,North Carolina           ,Other professional staff                     ,557,91,648,,37,3,5
+2005,North Carolina           ,Non-professional staff                       ,458,289,747,,37,3,5
+2005,North Carolina           ,Total                                        ,"14,436.00","2,856.00","17,293.00",,37,3,5
+2005,North Dakota             ,Special ed teachers for 3-5                  ,74,10,84,,38,2,4
+2005,North Dakota             ,Special ed teachers for 6-21                 ,792,32,825,,38,2,4
+2005,North Dakota             ,Vocational education teachers                ,7,1,8,,38,2,4
+2005,North Dakota             ,Physical education teachers                  ,7,          N/V,7,,38,2,4
+2005,North Dakota             ,Work-study coordinators                      ,4,2,6,,38,2,4
+2005,North Dakota             ,Psychologists                                ,44,2,46,,38,2,4
+2005,North Dakota             ,School social workers                        ,40,          N/V,40,,38,2,4
+2005,North Dakota             ,Occupational therapists                      ,41,1,42,,38,2,4
+2005,North Dakota             ,Audiologists                                 ,4,          N/V,4,,38,2,4
+2005,North Dakota             ,Teacher aides                                ,"1,307.00",101,"1,407.00",,38,2,4
+2005,North Dakota             ,Recreation specialists                       ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Diagnostic & evaluation staff                ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Physical therapists                          ,18,0,18,,38,2,4
+2005,North Dakota             ,Counselors                                   ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Speech pathologists                          ,254,7,261,,38,2,4
+2005,North Dakota             ,Supervisors/administrators                   ,70,          N/V,70,,38,2,4
+2005,North Dakota             ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Interpreters                                 ,11,2,13,,38,2,4
+2005,North Dakota             ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Other professional staff                     ,16,0,16,,38,2,4
+2005,North Dakota             ,Non-professional staff                       ,          N/V,          N/V,          N/V,,38,2,4
+2005,North Dakota             ,Total                                        ,"1,823.00",114,"1,937.00",,38,2,4
+2005,Northern Marianas        ,Special ed teachers for 3-5                  ,4,0,4,,69,,
+2005,Northern Marianas        ,Special ed teachers for 6-21                 ,36,0,36,,69,,
+2005,Northern Marianas        ,Vocational education teachers                ,0,0,0,,69,,
+2005,Northern Marianas        ,Physical education teachers                  ,1,0,1,,69,,
+2005,Northern Marianas        ,Work-study coordinators                      ,0,0,0,,69,,
+2005,Northern Marianas        ,Psychologists                                ,4,0,4,,69,,
+2005,Northern Marianas        ,School social workers                        ,0,0,0,,69,,
+2005,Northern Marianas        ,Occupational therapists                      ,6,0,6,,69,,
+2005,Northern Marianas        ,Audiologists                                 ,1,0,1,,69,,
+2005,Northern Marianas        ,Teacher aides                                ,0,118,118,,69,,
+2005,Northern Marianas        ,Recreation specialists                       ,0,0,0,,69,,
+2005,Northern Marianas        ,Diagnostic & evaluation staff                ,0,0,0,,69,,
+2005,Northern Marianas        ,Physical therapists                          ,1,0,1,,69,,
+2005,Northern Marianas        ,Counselors                                   ,1,0,1,,69,,
+2005,Northern Marianas        ,Speech pathologists                          ,5,0,5,,69,,
+2005,Northern Marianas        ,Supervisors/administrators                   ,3,0,3,,69,,
+2005,Northern Marianas        ,Supervisors/administrators (SEA)             ,2,0,2,,69,,
+2005,Northern Marianas        ,Interpreters                                 ,0,0,0,,69,,
+2005,Northern Marianas        ,Rehabilitation counselors                    ,0,0,0,,69,,
+2005,Northern Marianas        ,Other professional staff                     ,0,12,12,,69,,
+2005,Northern Marianas        ,Non-professional staff                       ,5,2,7,,69,,
+2005,Northern Marianas        ,Total                                        ,29,132,161,,69,,
+2005,Ohio                     ,Special ed teachers for 3-5                  ,"1,294.00",29,"1,323.00",,39,2,3
+2005,Ohio                     ,Special ed teachers for 6-21                 ,"16,752.00",351,"17,103.00",,39,2,3
+2005,Ohio                     ,Vocational education teachers                ,5,19,24,,39,2,3
+2005,Ohio                     ,Physical education teachers                  ,17,8,25,,39,2,3
+2005,Ohio                     ,Work-study coordinators                      ,821,52,873,,39,2,3
+2005,Ohio                     ,Psychologists                                ,619,3,622,,39,2,3
+2005,Ohio                     ,School social workers                        ,390,52,442,,39,2,3
+2005,Ohio                     ,Occupational therapists                      ,693,13,706,,39,2,3
+2005,Ohio                     ,Audiologists                                 ,47,4,51,,39,2,3
+2005,Ohio                     ,Teacher aides                                ,"8,087.00",0,"8,087.00",,39,2,3
+2005,Ohio                     ,Recreation specialists                       ,0,0,0,,39,2,3
+2005,Ohio                     ,Diagnostic & evaluation staff                ,112,0,112,,39,2,3
+2005,Ohio                     ,Physical therapists                          ,313,3,317,,39,2,3
+2005,Ohio                     ,Counselors                                   ,515,13,528,,39,2,3
+2005,Ohio                     ,Speech pathologists                          ,"2,230.00",14,"2,244.00",,39,2,3
+2005,Ohio                     ,Supervisors/administrators                   ,945,12,957,,39,2,3
+2005,Ohio                     ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,39,2,3
+2005,Ohio                     ,Interpreters                                 ,          N/V,          N/V,          N/V,,39,2,3
+2005,Ohio                     ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,39,2,3
+2005,Ohio                     ,Other professional staff                     ,          N/V,          N/V,          N/V,,39,2,3
+2005,Ohio                     ,Non-professional staff                       ,          N/V,          N/V,          N/V,,39,2,3
+2005,Ohio                     ,Total                                        ,"14,795.00",193,"14,988.00",,39,2,3
+2005,Oklahoma                 ,Special ed teachers for 3-5                  ,419,9,427,,40,3,7
+2005,Oklahoma                 ,Special ed teachers for 6-21                 ,"4,465.00",67,"4,532.00",,40,3,7
+2005,Oklahoma                 ,Vocational education teachers                ,38,0,38,,40,3,7
+2005,Oklahoma                 ,Physical education teachers                  ,66,0,66,,40,3,7
+2005,Oklahoma                 ,Work-study coordinators                      ,46,0,46,,40,3,7
+2005,Oklahoma                 ,Psychologists                                ,220,1,221,,40,3,7
+2005,Oklahoma                 ,School social workers                        ,20,1,21,,40,3,7
+2005,Oklahoma                 ,Occupational therapists                      ,149,1,150,,40,3,7
+2005,Oklahoma                 ,Audiologists                                 ,25,0,25,,40,3,7
+2005,Oklahoma                 ,Teacher aides                                ,"3,625.00",71,"3,696.00",,40,3,7
+2005,Oklahoma                 ,Recreation specialists                       ,2,0,2,,40,3,7
+2005,Oklahoma                 ,Diagnostic & evaluation staff                ,103,0,103,,40,3,7
+2005,Oklahoma                 ,Physical therapists                          ,122,1,122,,40,3,7
+2005,Oklahoma                 ,Counselors                                   ,89,0,89,,40,3,7
+2005,Oklahoma                 ,Speech pathologists                          ,594,1,595,,40,3,7
+2005,Oklahoma                 ,Supervisors/administrators                   ,190,1,192,,40,3,7
+2005,Oklahoma                 ,Supervisors/administrators (SEA)             ,37,0,37,,40,3,7
+2005,Oklahoma                 ,Interpreters                                 ,98,10,108,,40,3,7
+2005,Oklahoma                 ,Rehabilitation counselors                    ,4,0,4,,40,3,7
+2005,Oklahoma                 ,Other professional staff                     ,252,0,252,,40,3,7
+2005,Oklahoma                 ,Non-professional staff                       ,436,23,458,,40,3,7
+2005,Oklahoma                 ,Total                                        ,"6,117.00",108,"6,226.00",,40,3,7
+2005,Oregon                   ,Special ed teachers for 3-5                  ,160,10,170,,41,4,9
+2005,Oregon                   ,Special ed teachers for 6-21                 ,"3,216.00",163,"3,378.00",,41,4,9
+2005,Oregon                   ,Vocational education teachers                ,141,2,142,,41,4,9
+2005,Oregon                   ,Physical education teachers                  ,52,0,52,,41,4,9
+2005,Oregon                   ,Work-study coordinators                      ,6,7,14,,41,4,9
+2005,Oregon                   ,Psychologists                                ,306,8,314,,41,4,9
+2005,Oregon                   ,School social workers                        ,28,4,31,,41,4,9
+2005,Oregon                   ,Occupational therapists                      ,137,5,142,,41,4,9
+2005,Oregon                   ,Audiologists                                 ,25,0,25,,41,4,9
+2005,Oregon                   ,Teacher aides                                ,"5,910.00",0,"5,910.00",,41,4,9
+2005,Oregon                   ,Recreation specialists                       ,2,2,3,,41,4,9
+2005,Oregon                   ,Diagnostic & evaluation staff                ,69,1,70,,41,4,9
+2005,Oregon                   ,Physical therapists                          ,75,3,78,,41,4,9
+2005,Oregon                   ,Counselors                                   ,221,13,234,,41,4,9
+2005,Oregon                   ,Speech pathologists                          ,555,14,569,,41,4,9
+2005,Oregon                   ,Supervisors/administrators                   ,218,7,225,,41,4,9
+2005,Oregon                   ,Supervisors/administrators (SEA)             ,8,0,8,,41,4,9
+2005,Oregon                   ,Interpreters                                 ,108,11,119,,41,4,9
+2005,Oregon                   ,Rehabilitation counselors                    ,7,0,7,,41,4,9
+2005,Oregon                   ,Other professional staff                     ,357,61,417,,41,4,9
+2005,Oregon                   ,Non-professional staff                       ,366,0,366,,41,4,9
+2005,Oregon                   ,Total                                        ,"8,588.00",138,"8,726.00",,41,4,9
+2005,Pennsylvania             ,Special ed teachers for 3-5                  ,"1,503.00",32,"1,535.00",,42,1,2
+2005,Pennsylvania             ,Special ed teachers for 6-21                 ,"20,665.00",231,"20,896.00",,42,1,2
+2005,Pennsylvania             ,Vocational education teachers                ,189,13,202,,42,1,2
+2005,Pennsylvania             ,Physical education teachers                  ,693,32,725,,42,1,2
+2005,Pennsylvania             ,Work-study coordinators                      ,76,2,78,,42,1,2
+2005,Pennsylvania             ,Psychologists                                ,"1,213.00",21,"1,234.00",,42,1,2
+2005,Pennsylvania             ,School social workers                        ,330,5,335,,42,1,2
+2005,Pennsylvania             ,Occupational therapists                      ,695,4,699,,42,1,2
+2005,Pennsylvania             ,Audiologists                                 ,28,0,28,,42,1,2
+2005,Pennsylvania             ,Teacher aides                                ,"15,666.00",0,"15,666.00",,42,1,2
+2005,Pennsylvania             ,Recreation specialists                       ,54,2,56,,42,1,2
+2005,Pennsylvania             ,Diagnostic & evaluation staff                ,92,0,92,,42,1,2
+2005,Pennsylvania             ,Physical therapists                          ,293,0,293,,42,1,2
+2005,Pennsylvania             ,Counselors                                   ,"1,087.00",20,"1,107.00",,42,1,2
+2005,Pennsylvania             ,Speech pathologists                          ,385,6,391,,42,1,2
+2005,Pennsylvania             ,Supervisors/administrators                   ,"1,170.00",19,"1,189.00",,42,1,2
+2005,Pennsylvania             ,Supervisors/administrators (SEA)             ,64,0,64,,42,1,2
+2005,Pennsylvania             ,Interpreters                                 ,247,4,251,,42,1,2
+2005,Pennsylvania             ,Rehabilitation counselors                    ,27,0,27,,42,1,2
+2005,Pennsylvania             ,Other professional staff                     ,"1,787.00",103,"1,890.00",,42,1,2
+2005,Pennsylvania             ,Non-professional staff                       ,"1,967.00",110,"2,076.00",,42,1,2
+2005,Pennsylvania             ,Total                                        ,"26,062.00",342,"26,404.00",,42,1,2
+2005,Puerto Rico              ,Special ed teachers for 3-5                  ,98,0,98,,72,,
+2005,Puerto Rico              ,Special ed teachers for 6-21                 ,"4,579.00",55,"4,634.00",,72,,
+2005,Puerto Rico              ,Vocational education teachers                ,186,7,193,,72,,
+2005,Puerto Rico              ,Physical education teachers                  ,141,3,144,,72,,
+2005,Puerto Rico              ,Work-study coordinators                      ,2,0,2,,72,,
+2005,Puerto Rico              ,Psychologists                                ,6,0,6,,72,,
+2005,Puerto Rico              ,School social workers                        ,126,0,126,,72,,
+2005,Puerto Rico              ,Occupational therapists                      ,14,0,14,,72,,
+2005,Puerto Rico              ,Audiologists                                 ,0,0,0,,72,,
+2005,Puerto Rico              ,Teacher aides                                ,"3,014.00",0,"3,014.00",,72,,
+2005,Puerto Rico              ,Recreation specialists                       ,0,0,0,,72,,
+2005,Puerto Rico              ,Diagnostic & evaluation staff                ,30,0,30,,72,,
+2005,Puerto Rico              ,Physical therapists                          ,3,0,3,,72,,
+2005,Puerto Rico              ,Counselors                                   ,14,0,14,,72,,
+2005,Puerto Rico              ,Speech pathologists                          ,21,0,21,,72,,
+2005,Puerto Rico              ,Supervisors/administrators                   ,145,0,145,,72,,
+2005,Puerto Rico              ,Supervisors/administrators (SEA)             ,98,0,98,,72,,
+2005,Puerto Rico              ,Interpreters                                 ,0,0,0,,72,,
+2005,Puerto Rico              ,Rehabilitation counselors                    ,0,0,0,,72,,
+2005,Puerto Rico              ,Other professional staff                     ,50,0,50,,72,,
+2005,Puerto Rico              ,Non-professional staff                       ,355,0,355,,72,,
+2005,Puerto Rico              ,Total                                        ,"4,205.00",10,"4,215.00",,72,,
+2005,Rhode Island             ,Special ed teachers for 3-5                  ,99,0,99,,44,1,1
+2005,Rhode Island             ,Special ed teachers for 6-21                 ,"2,001.00",81,"2,082.00",,44,1,1
+2005,Rhode Island             ,Vocational education teachers                ,113,11,124,,44,1,1
+2005,Rhode Island             ,Physical education teachers                  ,71,0,71,,44,1,1
+2005,Rhode Island             ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,44,1,1
+2005,Rhode Island             ,Psychologists                                ,175,0,175,,44,1,1
+2005,Rhode Island             ,School social workers                        ,191,2,193,,44,1,1
+2005,Rhode Island             ,Occupational therapists                      ,82,5,87,,44,1,1
+2005,Rhode Island             ,Audiologists                                 ,          N/V,          N/V,          N/V,,44,1,1
+2005,Rhode Island             ,Teacher aides                                ,"2,063.00",0,"2,063.00",,44,1,1
+2005,Rhode Island             ,Recreation specialists                       ,          N/V,          N/V,          N/V,,44,1,1
+2005,Rhode Island             ,Diagnostic & evaluation staff                ,          N/V,          N/V,          N/V,,44,1,1
+2005,Rhode Island             ,Physical therapists                          ,28,1,29,,44,1,1
+2005,Rhode Island             ,Counselors                                   ,409,0,409,,44,1,1
+2005,Rhode Island             ,Speech pathologists                          ,189,0,189,,44,1,1
+2005,Rhode Island             ,Supervisors/administrators                   ,60,0,60,,44,1,1
+2005,Rhode Island             ,Supervisors/administrators (SEA)             ,9,0,9,,44,1,1
+2005,Rhode Island             ,Interpreters                                 ,2,0,2,,44,1,1
+2005,Rhode Island             ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,44,1,1
+2005,Rhode Island             ,Other professional staff                     ,138,0,138,,44,1,1
+2005,Rhode Island             ,Non-professional staff                       ,173,3,176,,44,1,1
+2005,Rhode Island             ,Total                                        ,"3,703.00",22,"3,725.00",,44,1,1
+2005,South Carolina           ,Special ed teachers for 3-5                  ,705,19,724,,45,3,5
+2005,South Carolina           ,Special ed teachers for 6-21                 ,"5,460.00",282,"5,743.00",,45,3,5
+2005,South Carolina           ,Vocational education teachers                ,73,2,75,,45,3,5
+2005,South Carolina           ,Physical education teachers                  ,42,0,42,,45,3,5
+2005,South Carolina           ,Work-study coordinators                      ,19,2,21,,45,3,5
+2005,South Carolina           ,Psychologists                                ,391,4,395,,45,3,5
+2005,South Carolina           ,School social workers                        ,60,3,63,,45,3,5
+2005,South Carolina           ,Occupational therapists                      ,126,4,130,,45,3,5
+2005,South Carolina           ,Audiologists                                 ,8,0,8,,45,3,5
+2005,South Carolina           ,Teacher aides                                ,"3,427.00",615,"4,042.00",,45,3,5
+2005,South Carolina           ,Recreation specialists                       ,8,0,8,,45,3,5
+2005,South Carolina           ,Diagnostic & evaluation staff                ,9,2,11,,45,3,5
+2005,South Carolina           ,Physical therapists                          ,65,0,65,,45,3,5
+2005,South Carolina           ,Counselors                                   ,160,0,160,,45,3,5
+2005,South Carolina           ,Speech pathologists                          ,          N/V,          N/V,          N/V,,45,3,5
+2005,South Carolina           ,Supervisors/administrators                   ,          N/V,          N/V,          N/V,,45,3,5
+2005,South Carolina           ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,45,3,5
+2005,South Carolina           ,Interpreters                                 ,94,6,100,,45,3,5
+2005,South Carolina           ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,45,3,5
+2005,South Carolina           ,Other professional staff                     ,          N/V,          N/V,          N/V,,45,3,5
+2005,South Carolina           ,Non-professional staff                       ,63,17,79,,45,3,5
+2005,South Carolina           ,Total                                        ,"4,546.00",653,"5,199.00",,45,3,5
+2005,South Dakota             ,Special ed teachers for 3-5                  ,104,6,110,,46,2,4
+2005,South Dakota             ,Special ed teachers for 6-21                 ,743,142,886,,46,2,4
+2005,South Dakota             ,Vocational education teachers                ,4,6,10,,46,2,4
+2005,South Dakota             ,Physical education teachers                  ,12,1,13,,46,2,4
+2005,South Dakota             ,Work-study coordinators                      ,4,18,22,,46,2,4
+2005,South Dakota             ,Psychologists                                ,54,4,58,,46,2,4
+2005,South Dakota             ,School social workers                        ,15,1,16,,46,2,4
+2005,South Dakota             ,Occupational therapists                      ,13,42,55,,46,2,4
+2005,South Dakota             ,Audiologists                                 ,0,2,2,,46,2,4
+2005,South Dakota             ,Teacher aides                                ,"1,415.00",0,"1,415.00",,46,2,4
+2005,South Dakota             ,Recreation specialists                       ,1,0,1,,46,2,4
+2005,South Dakota             ,Diagnostic & evaluation staff                ,15,0,15,,46,2,4
+2005,South Dakota             ,Physical therapists                          ,11,20,31,,46,2,4
+2005,South Dakota             ,Counselors                                   ,40,0,40,,46,2,4
+2005,South Dakota             ,Speech pathologists                          ,189,1,190,,46,2,4
+2005,South Dakota             ,Supervisors/administrators                   ,58,29,87,,46,2,4
+2005,South Dakota             ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,46,2,4
+2005,South Dakota             ,Interpreters                                 ,3,26,29,,46,2,4
+2005,South Dakota             ,Rehabilitation counselors                    ,0,0,0,,46,2,4
+2005,South Dakota             ,Other professional staff                     ,41,97,138,,46,2,4
+2005,South Dakota             ,Non-professional staff                       ,17,123,140,,46,2,4
+2005,South Dakota             ,Total                                        ,"1,891.00",371,"2,261.00",,46,2,4
+2005,Tennessee                ,Special ed teachers for 3-5                  ,875,19,894,,47,3,6
+2005,Tennessee                ,Special ed teachers for 6-21                 ,"5,030.00",272,"5,302.00",,47,3,6
+2005,Tennessee                ,Vocational education teachers                ,11,0,11,,47,3,6
+2005,Tennessee                ,Physical education teachers                  ,5,0,5,,47,3,6
+2005,Tennessee                ,Work-study coordinators                      ,7,1,8,,47,3,6
+2005,Tennessee                ,Psychologists                                ,438,0,438,,47,3,6
+2005,Tennessee                ,School social workers                        ,74,0,74,,47,3,6
+2005,Tennessee                ,Occupational therapists                      ,168,0,168,,47,3,6
+2005,Tennessee                ,Audiologists                                 ,36,2,38,,47,3,6
+2005,Tennessee                ,Teacher aides                                ,"4,396.00",111,"4,507.00",,47,3,6
+2005,Tennessee                ,Recreation specialists                       ,0,0,0,,47,3,6
+2005,Tennessee                ,Diagnostic & evaluation staff                ,60,0,60,,47,3,6
+2005,Tennessee                ,Physical therapists                          ,89,0,89,,47,3,6
+2005,Tennessee                ,Counselors                                   ,60,0,60,,47,3,6
+2005,Tennessee                ,Speech pathologists                          ,683,45,728,,47,3,6
+2005,Tennessee                ,Supervisors/administrators                   ,295,0,295,,47,3,6
+2005,Tennessee                ,Supervisors/administrators (SEA)             ,55,0,55,,47,3,6
+2005,Tennessee                ,Interpreters                                 ,122,0,122,,47,3,6
+2005,Tennessee                ,Rehabilitation counselors                    ,3,0,3,,47,3,6
+2005,Tennessee                ,Other professional staff                     ,500,14,513,,47,3,6
+2005,Tennessee                ,Non-professional staff                       ,395,34,429,,47,3,6
+2005,Tennessee                ,Total                                        ,"7,396.00",206,"7,602.00",,47,3,6
+2005,Texas                    ,Special ed teachers for 3-5                  ,816,219,"1,035.00",,48,3,7
+2005,Texas                    ,Special ed teachers for 6-21                 ,"22,787.00","7,851.00","30,639.00",,48,3,7
+2005,Texas                    ,Vocational education teachers                ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Physical education teachers                  ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Psychologists                                ,895,0,895,,48,3,7
+2005,Texas                    ,School social workers                        ,88,0,88,,48,3,7
+2005,Texas                    ,Occupational therapists                      ,491,0,491,,48,3,7
+2005,Texas                    ,Audiologists                                 ,47,0,47,,48,3,7
+2005,Texas                    ,Teacher aides                                ,"27,589.00",0,"27,589.00",,48,3,7
+2005,Texas                    ,Recreation specialists                       ,18,0,18,,48,3,7
+2005,Texas                    ,Diagnostic & evaluation staff                ,"3,185.00",420,"3,605.00",,48,3,7
+2005,Texas                    ,Physical therapists                          ,239,0,239,,48,3,7
+2005,Texas                    ,Counselors                                   ,446,0,446,,48,3,7
+2005,Texas                    ,Speech pathologists                          ,"3,672.00",0,"3,672.00",,48,3,7
+2005,Texas                    ,Supervisors/administrators                   ,506,229,735,,48,3,7
+2005,Texas                    ,Supervisors/administrators (SEA)             ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Interpreters                                 ,352,116,468,,48,3,7
+2005,Texas                    ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Other professional staff                     ,"1,221.00",22,"1,243.00",,48,3,7
+2005,Texas                    ,Non-professional staff                       ,          N/V,          N/V,          N/V,,48,3,7
+2005,Texas                    ,Total                                        ,"38,749.00",787,"39,537.00",,48,3,7
+2005,Utah                     ,Special ed teachers for 3-5                  ,161,26,186,,49,4,8
+2005,Utah                     ,Special ed teachers for 6-21                 ,"2,430.00",227,"2,656.00",,49,4,8
+2005,Utah                     ,Vocational education teachers                ,11,0,11,,49,4,8
+2005,Utah                     ,Physical education teachers                  ,28,2,30,,49,4,8
+2005,Utah                     ,Work-study coordinators                      ,4,0,4,,49,4,8
+2005,Utah                     ,Psychologists                                ,192,32,224,,49,4,8
+2005,Utah                     ,School social workers                        ,39,1,40,,49,4,8
+2005,Utah                     ,Occupational therapists                      ,55,7,62,,49,4,8
+2005,Utah                     ,Audiologists                                 ,24,8,32,,49,4,8
+2005,Utah                     ,Teacher aides                                ,42,"3,250.00","3,292.00",,49,4,8
+2005,Utah                     ,Recreation specialists                       ,3,0,3,,49,4,8
+2005,Utah                     ,Diagnostic & evaluation staff                ,11,1,12,,49,4,8
+2005,Utah                     ,Physical therapists                          ,26,5,32,,49,4,8
+2005,Utah                     ,Counselors                                   ,28,0,28,,49,4,8
+2005,Utah                     ,Speech pathologists                          ,414,46,460,,49,4,8
+2005,Utah                     ,Supervisors/administrators                   ,151,1,152,,49,4,8
+2005,Utah                     ,Supervisors/administrators (SEA)             ,7,0,7,,49,4,8
+2005,Utah                     ,Interpreters                                 ,76,18,94,,49,4,8
+2005,Utah                     ,Rehabilitation counselors                    ,0,0,0,,49,4,8
+2005,Utah                     ,Other professional staff                     ,454,4,458,,49,4,8
+2005,Utah                     ,Non-professional staff                       ,21,6,27,,49,4,8
+2005,Utah                     ,Total                                        ,"1,586.00","3,380.00","4,967.00",,49,4,8
+2005,Vermont                  ,Special ed teachers for 3-5                  ,102,9,111,,50,1,1
+2005,Vermont                  ,Special ed teachers for 6-21                 ,984,47,"1,031.00",,50,1,1
+2005,Vermont                  ,Vocational education teachers                ,6,0,6,,50,1,1
+2005,Vermont                  ,Physical education teachers                  ,7,0,7,,50,1,1
+2005,Vermont                  ,Work-study coordinators                      ,8,0,8,,50,1,1
+2005,Vermont                  ,Psychologists                                ,50,1,51,,50,1,1
+2005,Vermont                  ,School social workers                        ,46,1,47,,50,1,1
+2005,Vermont                  ,Occupational therapists                      ,39,2,41,,50,1,1
+2005,Vermont                  ,Audiologists                                 ,3,0,3,,50,1,1
+2005,Vermont                  ,Teacher aides                                ,"3,279.00",0,"3,279.00",,50,1,1
+2005,Vermont                  ,Recreation specialists                       ,0,0,0,,50,1,1
+2005,Vermont                  ,Diagnostic & evaluation staff                ,27,0,27,,50,1,1
+2005,Vermont                  ,Physical therapists                          ,15,0,15,,50,1,1
+2005,Vermont                  ,Counselors                                   ,33,1,34,,50,1,1
+2005,Vermont                  ,Speech pathologists                          ,228,11,238,,50,1,1
+2005,Vermont                  ,Supervisors/administrators                   ,85,6,91,,50,1,1
+2005,Vermont                  ,Supervisors/administrators (SEA)             ,0,0,0,,50,1,1
+2005,Vermont                  ,Interpreters                                 ,12,4,16,,50,1,1
+2005,Vermont                  ,Rehabilitation counselors                    ,0,0,0,,50,1,1
+2005,Vermont                  ,Other professional staff                     ,49,4,53,,50,1,1
+2005,Vermont                  ,Non-professional staff                       ,47,3,50,,50,1,1
+2005,Vermont                  ,Total                                        ,"3,935.00",32,"3,967.00",,50,1,1
+2005,Virgin Islands           ,Special ed teachers for 3-5                  ,80,72,152,,78,,
+2005,Virgin Islands           ,Special ed teachers for 6-21                 ,80,72,152,,78,,
+2005,Virgin Islands           ,Vocational education teachers                ,5,1,6,,78,,
+2005,Virgin Islands           ,Physical education teachers                  ,2,1,3,,78,,
+2005,Virgin Islands           ,Work-study coordinators                      ,0,0,0,,78,,
+2005,Virgin Islands           ,Psychologists                                ,9,1,10,,78,,
+2005,Virgin Islands           ,School social workers                        ,0,10,10,,78,,
+2005,Virgin Islands           ,Occupational therapists                      ,          N/V,          N/V,          N/V,,78,,
+2005,Virgin Islands           ,Audiologists                                 ,0,0,0,,78,,
+2005,Virgin Islands           ,Teacher aides                                ,48,76,124,,78,,
+2005,Virgin Islands           ,Recreation specialists                       ,0,0,0,,78,,
+2005,Virgin Islands           ,Diagnostic & evaluation staff                ,0,2,2,,78,,
+2005,Virgin Islands           ,Physical therapists                          ,2,0,2,,78,,
+2005,Virgin Islands           ,Counselors                                   ,0,0,0,,78,,
+2005,Virgin Islands           ,Speech pathologists                          ,10,4,14,,78,,
+2005,Virgin Islands           ,Supervisors/administrators                   ,9,4,13,,78,,
+2005,Virgin Islands           ,Supervisors/administrators (SEA)             ,4,0,4,,78,,
+2005,Virgin Islands           ,Interpreters                                 ,1,1,2,,78,,
+2005,Virgin Islands           ,Rehabilitation counselors                    ,0,0,0,,78,,
+2005,Virgin Islands           ,Other professional staff                     ,3,11,14,,78,,
+2005,Virgin Islands           ,Non-professional staff                       ,6,9,15,,78,,
+2005,Virgin Islands           ,Total                                        ,99,120,219,,78,,
+2005,Virginia                 ,Special ed teachers for 3-5                  ,"1,329.00",53,"1,382.00",,51,3,5
+2005,Virginia                 ,Special ed teachers for 6-21                 ,"13,267.00",661,"13,928.00",,51,3,5
+2005,Virginia                 ,Vocational education teachers                ,365,7,372,,51,3,5
+2005,Virginia                 ,Physical education teachers                  ,281,5,286,,51,3,5
+2005,Virginia                 ,Work-study coordinators                      ,51,2,53,,51,3,5
+2005,Virginia                 ,Psychologists                                ,656,7,663,,51,3,5
+2005,Virginia                 ,School social workers                        ,477,9,486,,51,3,5
+2005,Virginia                 ,Occupational therapists                      ,191,121,312,,51,3,5
+2005,Virginia                 ,Audiologists                                 ,26,18,44,,51,3,5
+2005,Virginia                 ,Teacher aides                                ,"1,611.00","8,682.00","10,293.00",,51,3,5
+2005,Virginia                 ,Recreation specialists                       ,3,0,3,,51,3,5
+2005,Virginia                 ,Diagnostic & evaluation staff                ,146,61,207,,51,3,5
+2005,Virginia                 ,Physical therapists                          ,79,56,135,,51,3,5
+2005,Virginia                 ,Counselors                                   ,372,65,437,,51,3,5
+2005,Virginia                 ,Speech pathologists                          ,0,0,0,,51,3,5
+2005,Virginia                 ,Supervisors/administrators                   ,582,19,601,,51,3,5
+2005,Virginia                 ,Supervisors/administrators (SEA)             ,0,0,0,,51,3,5
+2005,Virginia                 ,Interpreters                                 ,135,168,303,,51,3,5
+2005,Virginia                 ,Rehabilitation counselors                    ,2,0,2,,51,3,5
+2005,Virginia                 ,Other professional staff                     ,"3,247.00",90,"3,337.00",,51,3,5
+2005,Virginia                 ,Non-professional staff                       ,62,642,704,,51,3,5
+2005,Virginia                 ,Total                                        ,"8,286.00","9,952.00","18,238.00",,51,3,5
+2005,Washington               ,Special ed teachers for 3-5                  ,548,12,561,,53,4,9
+2005,Washington               ,Special ed teachers for 6-21                 ,"5,096.00",164,"5,260.00",,53,4,9
+2005,Washington               ,Vocational education teachers                ,143,7,150,,53,4,9
+2005,Washington               ,Physical education teachers                  ,44,1,45,,53,4,9
+2005,Washington               ,Work-study coordinators                      ,46,2,48,,53,4,9
+2005,Washington               ,Psychologists                                ,"1,008.00",10,"1,018.00",,53,4,9
+2005,Washington               ,School social workers                        ,86,0,86,,53,4,9
+2005,Washington               ,Occupational therapists                      ,422,3,425,,53,4,9
+2005,Washington               ,Audiologists                                 ,28,0,28,,53,4,9
+2005,Washington               ,Teacher aides                                ,"6,672.00",0,"6,672.00",,53,4,9
+2005,Washington               ,Recreation specialists                       ,0,0,0,,53,4,9
+2005,Washington               ,Diagnostic & evaluation staff                ,0,0,0,,53,4,9
+2005,Washington               ,Physical therapists                          ,172,0,172,,53,4,9
+2005,Washington               ,Counselors                                   ,245,4,248,,53,4,9
+2005,Washington               ,Speech pathologists                          ,"1,072.00",17,"1,089.00",,53,4,9
+2005,Washington               ,Supervisors/administrators                   ,651,5,656,,53,4,9
+2005,Washington               ,Supervisors/administrators (SEA)             ,17,0,17,,53,4,9
+2005,Washington               ,Interpreters                                 ,210,0,210,,53,4,9
+2005,Washington               ,Rehabilitation counselors                    ,          N/V,          N/V,0,,53,4,9
+2005,Washington               ,Other professional staff                     ,255,5,260,,53,4,9
+2005,Washington               ,Non-professional staff                       ,128,2,130,,53,4,9
+2005,Washington               ,Total                                        ,"11,199.00",55,"11,254.00",,53,4,9
+2005,West Virginia            ,Special ed teachers for 3-5                  ,212,32,244,,54,3,5
+2005,West Virginia            ,Special ed teachers for 6-21                 ,"2,421.00",436,"2,856.00",,54,3,5
+2005,West Virginia            ,Vocational education teachers                ,31,5,36,,54,3,5
+2005,West Virginia            ,Physical education teachers                  ,14,0,14,,54,3,5
+2005,West Virginia            ,Work-study coordinators                      ,14,0,14,,54,3,5
+2005,West Virginia            ,Psychologists                                ,126,4,131,,54,3,5
+2005,West Virginia            ,School social workers                        ,3,0,3,,54,3,5
+2005,West Virginia            ,Occupational therapists                      ,61,0,61,,54,3,5
+2005,West Virginia            ,Audiologists                                 ,9,0,9,,54,3,5
+2005,West Virginia            ,Teacher aides                                ,"1,635.00",4,"1,639.00",,54,3,5
+2005,West Virginia            ,Recreation specialists                       ,0,0,0,,54,3,5
+2005,West Virginia            ,Diagnostic & evaluation staff                ,105,0,105,,54,3,5
+2005,West Virginia            ,Physical therapists                          ,42,0,42,,54,3,5
+2005,West Virginia            ,Counselors                                   ,12,0,12,,54,3,5
+2005,West Virginia            ,Speech pathologists                          ,494,21,514,,54,3,5
+2005,West Virginia            ,Supervisors/administrators                   ,77,3,80,,54,3,5
+2005,West Virginia            ,Supervisors/administrators (SEA)             ,3,0,3,,54,3,5
+2005,West Virginia            ,Interpreters                                 ,84,4,88,,54,3,5
+2005,West Virginia            ,Rehabilitation counselors                    ,0,0,0,,54,3,5
+2005,West Virginia            ,Other professional staff                     ,140,0,140,,54,3,5
+2005,West Virginia            ,Non-professional staff                       ,671,2,673,,54,3,5
+2005,West Virginia            ,Total                                        ,"3,519.00",43,"3,562.00",,54,3,5
+2005,Wisconsin                ,Special ed teachers for 3-5                  ,694,5,699,,55,2,3
+2005,Wisconsin                ,Special ed teachers for 6-21                 ,"7,660.00",95,"7,755.00",,55,2,3
+2005,Wisconsin                ,Vocational education teachers                ,22,0,22,,55,2,3
+2005,Wisconsin                ,Physical education teachers                  ,129,1,130,,55,2,3
+2005,Wisconsin                ,Work-study coordinators                      ,          N/V,          N/V,          N/V,,55,2,3
+2005,Wisconsin                ,Psychologists                                ,661,2,663,,55,2,3
+2005,Wisconsin                ,School social workers                        ,306,2,309,,55,2,3
+2005,Wisconsin                ,Occupational therapists                      ,437,0,437,,55,2,3
+2005,Wisconsin                ,Audiologists                                 ,17,0,17,,55,2,3
+2005,Wisconsin                ,Teacher aides                                ,"5,813.00",71,"5,884.00",,55,2,3
+2005,Wisconsin                ,Recreation specialists                       ,          N/V,          N/V,          N/V,,55,2,3
+2005,Wisconsin                ,Diagnostic & evaluation staff                ,324,3,327,,55,2,3
+2005,Wisconsin                ,Physical therapists                          ,214,1,215,,55,2,3
+2005,Wisconsin                ,Counselors                                   ,176,1,177,,55,2,3
+2005,Wisconsin                ,Speech pathologists                          ,"1,698.00",5,"1,703.00",,55,2,3
+2005,Wisconsin                ,Supervisors/administrators                   ,306,9,315,,55,2,3
+2005,Wisconsin                ,Supervisors/administrators (SEA)             ,33,0,33,,55,2,3
+2005,Wisconsin                ,Interpreters                                 ,211,3,214,,55,2,3
+2005,Wisconsin                ,Rehabilitation counselors                    ,          N/V,          N/V,          N/V,,55,2,3
+2005,Wisconsin                ,Other professional staff                     ,90,0,90,,55,2,3
+2005,Wisconsin                ,Non-professional staff                       ,          N/V,          N/V,          N/V,,55,2,3
+2005,Wisconsin                ,Total                                        ,"10,436.00",98,"10,535.00",,55,2,3
+2005,Wyoming                  ,Special ed teachers for 3-5                  ,51,21,72,,56,4,8
+2005,Wyoming                  ,Special ed teachers for 6-21                 ,729,72,801,,56,4,8
+2005,Wyoming                  ,Vocational education teachers                ,0,0,0,,56,4,8
+2005,Wyoming                  ,Physical education teachers                  ,15,7,22,,56,4,8
+2005,Wyoming                  ,Work-study coordinators                      ,0,0,0,,56,4,8
+2005,Wyoming                  ,Psychologists                                ,59,11,70,,56,4,8
+2005,Wyoming                  ,School social workers                        ,2,7,9,,56,4,8
+2005,Wyoming                  ,Occupational therapists                      ,46,14,60,,56,4,8
+2005,Wyoming                  ,Audiologists                                 ,5,1,5,,56,4,8
+2005,Wyoming                  ,Teacher aides                                ,993,27,"1,020.00",,56,4,8
+2005,Wyoming                  ,Recreation specialists                       ,0,0,0,,56,4,8
+2005,Wyoming                  ,Diagnostic & evaluation staff                ,15,4,19,,56,4,8
+2005,Wyoming                  ,Physical therapists                          ,16,0,16,,56,4,8
+2005,Wyoming                  ,Counselors                                   ,0,0,0,,56,4,8
+2005,Wyoming                  ,Speech pathologists                          ,169,6,175,,56,4,8
+2005,Wyoming                  ,Supervisors/administrators                   ,60,7,66,,56,4,8
+2005,Wyoming                  ,Supervisors/administrators (SEA)             ,8,0,8,,56,4,8
+2005,Wyoming                  ,Interpreters                                 ,13,2,15,,56,4,8
+2005,Wyoming                  ,Rehabilitation counselors                    ,1,0,1,,56,4,8
+2005,Wyoming                  ,Other professional staff                     ,52,18,70,,56,4,8
+2005,Wyoming                  ,Non-professional staff                       ,52,4,56,,56,4,8
+2005,Wyoming                  ,Total                                        ,"1,506.00",107,"1,612.00",,56,4,8
+2005,"50 states, D.C. (including BIE schools)",Special ed teachers for 3-5,41513,5099,46611,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Special ed teachers for 6-21,380833,40499,421337,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Vocational education teachers,4239,581,4818,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Physical education teachers,7638,667,8303,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Work-study coordinators,2195,207,2402,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Psychologists,29587,954,30540,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",School social workers,17652,1636,19287,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Occupational therapists,14987,1493,16479,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Audiologists,1304,155,1458,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Teacher aides,334730,57821,392551,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Recreation specialists,333,47,380,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Diagnostic & evaluation staff,8305,1012,9316,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Physical therapists,7028,557,7588,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Counselors,16903,765,17666,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Speech pathologists,44734,2272,47002,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Supervisors/administrators,19712,1102,20813,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Supervisors/administrators (SEA),1118,4,1122,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Interpreters,5360,1481,6841,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Rehabilitation counselors,228,17,245,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Other professional staff,58512,5394,63904,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Non-professional staff,39975,4794,44767,US_National,,,
+2005,"50 states, D.C. (including BIE schools)",Total,614524,80942,695466,US_National,,,
+2005,U.S. and Outlying Areas,Special ed teachers for 3-5,"41,711.00","5,176.00","46,886.00",US_OT,,,
+2005,U.S. and Outlying Areas,Special ed teachers for 6-21,"385,759.00","40,733.00","426,497.00",US_OT,,,
+2005,U.S. and Outlying Areas,Vocational education teachers,"4,430.00",589,"5,017.00",US_OT,,,
+2005,U.S. and Outlying Areas,Physical education teachers,"7,782.00",671,"8,451.00",US_OT,,,
+2005,U.S. and Outlying Areas,Work-study coordinators,"2,199.00",207,"2,406.00",US_OT,,,
+2005,U.S. and Outlying Areas,Psychologists,"29,614.00",955,"30,568.00",US_OT,,,
+2005,U.S. and Outlying Areas,School social workers,"17,787.00","1,646.00","19,432.00",US_OT,,,
+2005,U.S. and Outlying Areas,Occupational therapists,"15,010.00","1,493.00","16,502.00",US_OT,,,
+2005,U.S. and Outlying Areas,Audiologists,"1,306.00",155,"1,460.00",US_OT,,,
+2005,U.S. and Outlying Areas,Teacher aides,"338,095.00","58,030.00","396,125.00",US_OT,,,
+2005,U.S. and Outlying Areas,Recreation specialists,337,47,384,US_OT,,,
+2005,U.S. and Outlying Areas,Diagnostic & evaluation staff,"8,352.00","1,016.00","9,367.00",US_OT,,,
+2005,U.S. and Outlying Areas,Physical therapists,"7,038.00",557,"7,598.00",US_OT,,,
+2005,U.S. and Outlying Areas,Counselors,"16,919.00",766,"17,683.00",US_OT,,,
+2005,U.S. and Outlying Areas,Speech pathologists,"44,789.00","2,276.00","47,061.00",US_OT,,,
+2005,U.S. and Outlying Areas,Supervisors/administrators,"19,893.00","1,106.00","20,998.00",US_OT,,,
+2005,U.S. and Outlying Areas,Supervisors/administrators (SEA),"1,228.00",4,"1,232.00",US_OT,,,
+2005,U.S. and Outlying Areas,Interpreters,"5,367.00","1,482.00","6,849.00",US_OT,,,
+2005,U.S. and Outlying Areas,Rehabilitation counselors,228,17,245,US_OT,,,
+2005,U.S. and Outlying Areas,Other professional staff,"58,585.00","5,418.00","64,001.00",US_OT,,,
+2005,U.S. and Outlying Areas,Non-professional staff,"40,411.00","4,806.00","45,215.00",US_OT,,,
+2005,U.S. and Outlying Areas,Total,"619,354.00","81,224.00","700,578.00",US_OT,,,

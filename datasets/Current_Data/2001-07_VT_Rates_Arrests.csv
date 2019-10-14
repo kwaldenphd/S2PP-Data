@@ -1,0 +1,33 @@
+Types of crimes,2001,2002,2003,2004,2005,2006,2007,State_ID,Region_ID,Division_ID
+Total Arrests,"2,242","2,159","2,016","1,832","1,905","2,078","1,852",50,1,1
+Violent Crime Index,44,35,51,44,44,65,42,50,1,1
+Murder/nonneg. mans.,0,0,1,0,1,0,3,50,1,1
+Rape,8,11,9,13,6,22,4,50,1,1
+Robbery,2,1,1,0,1,1,3,50,1,1
+Aggravated assault,34,23,40,31,36,42,32,50,1,1
+Property Crime Index,603,558,465,395,441,419,374,50,1,1
+Burglary,120,149,111,92,99,80,103,50,1,1
+Larceny-theft,414,349,316,256,290,292,228,50,1,1
+Motor vehicle theft,48,56,27,42,46,42,37,50,1,1
+Arson,21,4,11,5,6,5,6,50,1,1
+Other assaults,286,300,265,252,277,315,295,50,1,1
+Forgery and counterfeiting,10,17,8,9,8,3,4,50,1,1
+Fraud,18,35,26,18,22,16,9,50,1,1
+Embezzlement,2,3,6,0,0,0,0,50,1,1
+Stolen property,48,31,27,41,24,30,30,50,1,1
+Vandalism,180,180,141,150,158,144,125,50,1,1
+Weapons,15,9,8,12,11,14,23,50,1,1
+Prostitution/<br>commercialized vice,0,0,1,0,1,0,0,50,1,1
+Sex offenses (other),5,4,2,8,16,13,12,50,1,1
+Drug abuse violations,239,230,210,184,188,219,188,50,1,1
+Gambling,0,0,0,0,0,0,0,50,1,1
+Offenses against family,5,10,7,8,2,13,6,50,1,1
+Driving under influence,25,41,28,44,59,51,41,50,1,1
+Liquor laws,272,251,274,216,244,256,237,50,1,1
+Drunkenness,0,0,0,0,4,2,4,50,1,1
+Disorderly conduct,215,176,215,190,180,215,174,50,1,1
+Vagrancy,0,0,0,0,0,0,0,50,1,1
+All other offenses,270,279,281,258,216,294,282,50,1,1
+Curfew and loitering,1,0,1,0,0,2,0,50,1,1
+Runaways,4,0,0,3,10,7,6,50,1,1
+Population Ages 10 to 17,"73,100","73,100","72,500","71,800","70,800","69,300","67,100",50,1,1

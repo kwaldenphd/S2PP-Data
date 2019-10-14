@@ -1,0 +1,1575 @@
+State Name,Nation_ID,State_ID,Region_ID,Division_ID,Categories,Children Unilaterally Removed to an IAES,Unilateral Removals for Drugs,Unilateral Removals for Weapons,Unilateral Removals for Serious Bodily Injury,Children Removed by Hearing Officer (likely injury),Children Suspended/Expelled 10 Days or Less N/A OSS,Children Suspended/Expelled more than 10 Days N/A OSS,Children Suspended 10 Days or Less N/A ISS,Children Suspended more than 10 Days N/A ISS,Total Disciplinary Removals,Children with Disciplinary Removals Totaling 1 Day,Children with Disciplinary Removals Totaling 2 to 10 Days,Children with Disciplinary Removals Totaling greater than 10 Days,Children with Disability Received Educational Services during Expulsion,Children with Disability Did not Receive Educational Services during Expulsion,Children without Disability Received Educational Services during Expulsion,Children without Disability Did not Receive Educational Services during Expulsion
+ALABAMA,,1,3,6,All Disabilities,160,114,51,38,0,9553,804,5159,621,34690,2508,9033,2001,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,American Indian or Alaska Native,0,0,0,0,0,51,3,40,2,172,26,48,5,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Asian,0,0,0,0,0,22,5,18,1,85,13,19,8,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Autism,2,1,3,0,0,248,5,119,10,661,81,227,22,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Black or African American,84,60,29,19,0,5734,637,2632,400,21676,1124,5271,1384,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Developmental delay (valid only for children ages 3-9 when defined by state),2,0,0,2,0,108,2,39,1,252,49,85,4,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Emotional disturbance,5,5,1,0,0,500,55,212,25,1982,81,420,125,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,82,0,0,764
+ALABAMA,,1,3,6,Female,22,9,15,3,0,2115,132,1227,100,6955,671,2062,330,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Hearing impairment,1,0,1,0,0,61,2,34,6,195,21,55,11,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Hispanic/Latino,2,0,1,1,0,136,3,118,3,460,66,148,14,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Intellectual disability,8,5,4,3,0,650,48,262,47,2095,149,580,131,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Limited English proficient (LEP) Student,2,0,1,1,0,77,5,86,2,298,46,92,13,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Male,138,105,36,35,0,7438,672,3932,521,27735,1837,6971,1671,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Multiple disabilities,0,0,0,0,0,29,1,9,1,73,9,25,2,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,1,0,2,0,2,0,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Non-limited English proficient (non-LEP) Student,158,114,50,37,0,9476,799,5073,619,34392,2462,8941,1988,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Orthopedic impairment,1,1,0,0,0,20,0,12,0,52,6,23,1,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Other health impairment,24,17,8,5,0,1473,112,751,107,5667,362,1369,307,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Specific learning disability,112,83,34,25,0,5889,552,3441,406,22144,1518,5735,1336,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Speech or language impairment,5,2,0,3,0,535,24,262,16,1454,219,475,57,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Traumatic brain injury,0,0,0,0,0,23,2,8,1,66,7,21,3,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Two or more races,0,0,0,0,0,46,3,25,5,148,14,44,9,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,Visual impairment,0,0,0,0,0,17,1,10,1,49,6,18,2,N/A,N/A,N/A,N/A
+ALABAMA,,1,3,6,White,74,54,21,18,0,3563,153,2325,210,12147,1265,3501,581,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,All Disabilities,3,0,3,0,1,1491,222,1328,31,5606,742,1460,326,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,American Indian or Alaska Native,1,0,1,0,1,558,67,329,12,1871,229,485,92,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Asian,0,0,0,0,0,20,3,18,0,68,10,21,4,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Autism,0,0,0,0,0,48,7,26,3,186,22,37,11,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Black or African American,0,0,0,0,0,116,20,121,0,424,51,129,30,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,49,4,25,0,149,38,28,4,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Emotional disturbance,1,0,1,0,0,184,37,118,5,722,42,178,49,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12,0,9,20
+ALASKA,,2,4,9,Female,0,0,0,0,0,265,32,282,5,948,170,283,47,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Hearing impairment,0,0,0,0,0,8,0,6,0,18,3,9,0,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Hispanic/Latino,1,0,1,0,0,104,17,95,1,372,48,103,27,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Intellectual disability,0,0,0,0,0,39,4,21,0,116,11,39,5,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Limited English proficient (LEP) Student,1,0,1,0,0,318,51,136,3,1052,115,261,61,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Male,3,0,3,0,1,1226,190,1046,26,4658,572,1177,279,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Multiple disabilities,0,0,0,0,0,11,6,8,0,63,3,8,8,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,28,9,30,1,118,16,30,12,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Non-limited English proficient (non-LEP) Student,2,0,2,0,1,1173,171,1192,28,4554,627,1199,265,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Orthopedic impairment,0,0,0,0,0,2,0,2,0,6,2,1,0,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Other health impairment,1,0,1,0,0,293,42,322,8,1199,156,318,69,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Specific learning disability,1,0,1,0,1,760,115,693,12,2781,378,754,165,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Speech or language impairment,0,0,0,0,0,88,4,99,3,324,84,80,11,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Traumatic brain injury,0,0,0,0,0,5,3,6,0,33,2,5,4,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Two or more races,0,0,0,0,0,125,20,137,2,517,71,133,29,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,Visual impairment,0,0,0,0,0,4,0,2,0,9,1,3,0,N/A,N/A,N/A,N/A
+ALASKA,,2,4,9,White,1,0,1,0,0,540,86,598,15,2236,317,559,132,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,All Disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Autism,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Emotional disturbance,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+AMERICAN SAMOA,,60,,,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Intellectual disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Limited English proficient (LEP) Student,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Non-limited English proficient (non-LEP) Student,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Other health impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Specific learning disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Speech or language impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Two or more races,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+AMERICAN SAMOA,,60,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,All Disabilities,121,62,17,43,0,9180,1049,8091,425,33865,3395,10020,1935,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,American Indian or Alaska Native,29,21,4,4,0,874,152,581,32,2881,246,891,225,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Asian,0,0,0,0,0,49,3,50,2,150,32,57,5,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Autism,5,0,3,2,0,295,14,183,7,750,131,265,27,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Black or African American,11,6,1,4,0,1165,141,1044,67,4715,366,1271,261,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),4,0,0,4,0,131,2,73,0,322,81,98,5,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Emotional disturbance,29,14,3,13,0,1821,217,1219,76,6613,476,1782,410,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,39,1,48,159
+ARIZONA,,4,4,8,Female,11,4,2,5,0,1591,135,1664,52,5706,773,1892,259,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Hearing impairment,0,0,0,0,0,66,2,41,2,154,21,71,5,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Hispanic/Latino,50,25,4,22,0,3869,463,3608,189,14952,1444,4325,861,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Intellectual disability,3,3,0,0,0,363,24,304,3,1158,164,376,36,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Limited English proficient (LEP) Student,8,1,0,7,0,741,64,541,30,2457,254,782,116,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Male,110,58,15,38,0,7589,914,6427,373,28159,2622,8128,1676,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Multiple disabilities,1,1,0,0,0,57,2,43,2,166,25,61,5,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,19,5,17,2,67,8,23,7,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Non-limited English proficient (non-LEP) Student,113,61,17,36,0,8439,985,7550,395,31408,3141,9238,1819,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Orthopedic impairment,0,0,0,0,0,14,0,11,0,42,7,14,1,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Other health impairment,15,8,5,2,0,974,114,939,57,3883,333,1104,242,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Specific learning disability,58,35,5,18,0,4926,643,4820,271,19292,1846,5710,1154,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Speech or language impairment,5,0,1,4,0,481,28,426,4,1352,292,490,43,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Traumatic brain injury,1,1,0,0,0,27,2,23,1,85,10,30,5,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Two or more races,1,0,0,1,0,151,15,106,7,500,55,141,31,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,Visual impairment,0,0,0,0,0,25,1,9,2,48,9,19,2,N/A,N/A,N/A,N/A
+ARIZONA,,4,4,8,White,30,10,8,12,0,3053,270,2685,126,10600,1244,3312,545,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,All Disabilities,7,2,2,3,0,4813,499,5393,465,21821,1644,6150,1317,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,American Indian or Alaska Native,0,0,0,0,0,33,6,42,7,246,13,46,12,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Asian,0,0,0,0,0,13,2,17,1,67,8,10,6,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Autism,2,0,0,2,0,134,5,112,5,402,57,151,14,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Black or African American,2,0,2,0,0,2244,327,1906,232,9976,431,2586,733,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Deaf-blindness,0,0,0,0,0,1,0,0,0,2,0,1,0,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Emotional disturbance,0,0,0,0,0,187,23,167,14,807,51,199,55,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,26,9,2,340
+ARKANSAS,,5,3,7,Female,0,0,0,0,0,944,77,1142,85,4114,392,1265,230,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Hearing impairment,0,0,0,0,0,20,4,35,2,136,13,34,7,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Hispanic/Latino,2,0,0,2,0,212,10,347,34,1379,120,335,54,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Intellectual disability,1,1,0,0,0,500,71,600,55,2349,158,663,166,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Limited English proficient (LEP) Student,0,0,0,0,0,116,8,219,29,1011,72,200,42,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Male,7,2,2,3,0,3869,422,4251,380,17707,1252,4885,1087,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Multiple disabilities,0,0,0,0,0,44,4,29,2,150,16,44,8,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,4,0,9,0,19,1,8,1,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Non-limited English proficient (non-LEP) Student,7,2,2,3,0,4697,491,5174,436,20810,1572,5950,1275,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Orthopedic impairment,0,0,0,0,0,5,0,6,0,17,5,6,0,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Other health impairment,3,0,2,1,0,1260,122,1293,120,5596,379,1539,340,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Specific learning disability,1,1,0,0,0,2109,226,2606,227,10025,711,2825,627,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Speech or language impairment,0,0,0,0,0,530,43,520,38,2231,242,658,95,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Traumatic brain injury,0,0,0,0,0,12,1,11,1,46,7,14,3,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Two or more races,0,0,0,0,0,69,7,99,12,386,37,91,24,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,Visual impairment,0,0,0,0,0,11,0,14,1,60,5,16,2,N/A,N/A,N/A,N/A
+ARKANSAS,,5,3,7,White,3,2,0,1,0,2238,147,2973,179,9748,1034,3074,487,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,All Disabilities,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,4032,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,American Indian or Alaska Native,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,4032,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Asian,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Autism,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,43,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Black or African American,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,53,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Emotional disturbance,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,677,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,106,2330,556,12265
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Female,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,917,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Hearing impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Hispanic/Latino,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Intellectual disability,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,201,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Limited English proficient (LEP) Student,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1218,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Male,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,3115,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Multiple disabilities,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,48,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Non-limited English proficient (non-LEP) Student,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2814,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Other health impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,517,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Specific learning disability,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2089,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Speech or language impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,369,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Traumatic brain injury,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Two or more races,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+BUREAU OF INDIAN AFFAIRS,AI_Territory_National,,,,White,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,All Disabilities,N/A,41,11,91,N/A,N/A,N/A,N/A,N/A,139358,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,American Indian or Alaska Native,N/A,0,0,2,N/A,N/A,N/A,N/A,N/A,1512,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Asian,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,7770,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Autism,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,8210,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Black or African American,N/A,6,2,14,N/A,N/A,N/A,N/A,N/A,26863,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Emotional disturbance,N/A,3,1,8,N/A,N/A,N/A,N/A,N/A,18294,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,621,0,0,0
+CALIFORNIA,,6,4,9,Female,N/A,4,1,15,N/A,N/A,N/A,N/A,N/A,27609,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Hearing impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1358,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Hispanic/Latino,N/A,26,7,54,N/A,N/A,N/A,N/A,N/A,67836,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Intellectual disability,N/A,1,1,1,N/A,N/A,N/A,N/A,N/A,6068,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Limited English proficient (LEP) Student,N/A,18,2,24,N/A,N/A,N/A,N/A,N/A,37374,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Male,N/A,37,10,76,N/A,N/A,N/A,N/A,N/A,111749,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Multiple disabilities,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,374,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,657,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Non-limited English proficient (non-LEP) Student,N/A,23,9,67,N/A,N/A,N/A,N/A,N/A,101984,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,910,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Other health impairment,N/A,5,3,28,N/A,N/A,N/A,N/A,N/A,20750,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Specific learning disability,N/A,32,5,53,N/A,N/A,N/A,N/A,N/A,71752,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Speech or language impairment,N/A,0,1,0,N/A,N/A,N/A,N/A,N/A,10990,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Traumatic brain injury,N/A,0,0,1,N/A,N/A,N/A,N/A,N/A,251,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Two or more races,N/A,4,0,12,N/A,N/A,N/A,N/A,N/A,3491,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,397,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+CALIFORNIA,,6,4,9,White,N/A,5,2,9,N/A,N/A,N/A,N/A,N/A,31229,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,All Disabilities,62,47,15,0,0,7593,809,4096,49,23141,2548,6839,1092,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,American Indian or Alaska Native,0,0,0,0,0,105,16,38,0,301,37,88,18,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Asian,0,0,0,0,0,61,5,26,0,160,28,49,5,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Autism,0,0,0,0,0,240,5,98,1,588,84,204,10,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Black or African American,3,2,1,0,0,944,130,409,2,2949,258,825,160,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,16,0,2,0,26,7,9,0,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Emotional disturbance,15,13,2,0,0,2028,321,925,11,7252,448,1838,394,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,277,16,713,560
+COLORADO,,8,4,8,Female,10,10,0,0,0,1394,108,787,3,3699,514,1309,147,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Hearing impairment,0,0,0,0,0,73,5,54,0,229,37,66,7,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Hispanic/Latino,26,21,5,0,0,2827,316,1601,22,8856,933,2576,438,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Intellectual disability,0,0,0,0,0,188,11,68,1,438,66,160,13,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Limited English proficient (LEP) Student,4,4,0,0,0,920,94,566,4,2794,354,837,130,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Male,52,37,15,0,0,6199,701,3309,46,19442,2034,5530,945,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Multiple disabilities,0,0,0,0,0,113,7,40,0,284,43,94,9,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,13,0,2,0,24,3,11,0,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Non-limited English proficient (non-LEP) Student,58,43,15,0,0,6673,715,3530,45,20347,2194,6002,962,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Orthopedic impairment,10,4,6,0,0,1223,113,699,11,3739,427,1095,161,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Specific learning disability,32,25,7,0,0,3234,322,1973,22,9420,1196,2998,466,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Speech or language impairment,4,4,0,0,0,410,19,203,1,956,207,320,24,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Traumatic brain injury,1,1,0,0,0,57,3,25,2,171,25,47,5,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Two or more races,1,1,0,0,0,235,26,120,1,730,77,210,32,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,Visual impairment,0,0,0,0,0,10,3,9,0,37,7,8,3,N/A,N/A,N/A,N/A
+COLORADO,,8,4,8,White,32,23,9,0,0,3408,316,1900,24,10121,1212,3080,439,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,All Disabilities,9,2,2,5,15,4611,1023,6862,286,28801,2467,5731,1756,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,American Indian or Alaska Native,0,0,0,0,0,21,4,30,2,118,10,26,8,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Asian,0,0,0,0,0,20,5,36,0,112,13,33,5,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Autism,1,0,0,1,0,124,5,184,2,510,108,154,9,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Black or African American,1,0,0,1,7,1416,374,1655,81,8500,521,1541,582,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Deaf-blindness,0,0,0,0,0,0,0,1,0,1,1,0,0,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,34,0,16,0,79,15,28,1,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Emotional disturbance,0,0,0,0,1,999,260,1213,52,6083,330,1113,421,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,145,6,833,25
+CONNECTICUT,,9,1,1,Female,2,1,0,1,2,1017,179,1485,58,5697,553,1296,320,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Hearing impairment,0,0,0,0,0,21,1,34,0,87,16,25,3,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Hispanic/Latino,4,0,1,3,6,1642,411,2150,88,10049,728,1897,655,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Intellectual disability,0,0,0,0,0,97,18,148,5,551,71,116,33,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Limited English proficient (LEP) Student,0,0,0,0,1,528,107,659,32,2965,244,588,187,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Male,7,1,2,4,13,3594,844,5377,228,23104,1914,4435,1436,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Multiple disabilities,0,0,0,0,0,62,12,101,5,392,46,80,20,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,3,6,0,26,0,5,4,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Non-limited English proficient (non-LEP) Student,9,2,2,5,14,4083,916,6203,254,25836,2223,5143,1569,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Orthopedic impairment,0,0,0,0,0,1,0,1,0,5,0,0,1,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Other health impairment,3,1,2,0,4,1325,293,2003,99,8722,689,1653,534,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Specific learning disability,5,1,0,4,10,1601,378,2595,107,10329,930,2120,635,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Speech or language impairment,0,0,0,0,0,336,54,545,16,1958,253,429,94,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Traumatic brain injury,0,0,0,0,0,6,2,12,0,61,2,9,3,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Two or more races,0,0,0,0,0,97,16,124,6,533,52,110,30,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,Visual impairment,0,0,0,0,0,5,0,9,0,23,6,4,2,N/A,N/A,N/A,N/A
+CONNECTICUT,,9,1,1,White,4,2,1,1,2,1412,210,2861,109,9463,1143,2119,472,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,All Disabilities,30,21,8,2,N/A,3251,46,2635,44,4525,4210,84,231,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,American Indian or Alaska Native,0,0,0,0,N/A,12,0,10,0,17,17,0,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Asian,0,0,0,0,N/A,13,0,8,0,16,15,0,1,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Autism,0,0,0,0,N/A,40,0,27,0,54,53,0,1,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Black or African American,14,10,2,2,N/A,1983,34,1526,28,2625,2409,64,152,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Deaf-blindness,0,0,0,0,N/A,3,0,3,0,6,6,0,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,N/A,45,0,29,0,63,62,1,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Emotional disturbance,8,3,4,1,N/A,419,10,286,9,502,424,16,62,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16,6,N/A,N/A
+DELAWARE,,10,3,5,Female,3,1,1,1,N/A,746,12,650,5,1095,1037,19,39,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Hearing impairment,0,0,0,0,N/A,24,0,37,0,46,44,2,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Hispanic/Latino,4,2,2,0,N/A,332,3,217,1,444,424,4,16,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Intellectual disability,0,0,0,0,N/A,203,5,162,1,282,264,3,15,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Limited English proficient (LEP) Student,2,2,0,0,N/A,120,1,84,1,164,153,2,9,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Male,27,20,7,1,N/A,2505,34,1985,39,3430,3173,65,192,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,N/A,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Non-limited English proficient (non-LEP) Student,28,19,8,2,N/A,3131,45,2551,43,4361,4057,82,222,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Orthopedic impairment,1,1,0,0,N/A,7,0,5,0,11,11,0,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Other health impairment,7,7,1,0,N/A,583,15,463,11,803,738,17,48,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Specific learning disability,14,10,3,1,N/A,1836,15,1556,21,2626,2480,44,102,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Speech or language impairment,0,0,0,0,N/A,78,0,58,0,113,111,1,1,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Traumatic brain injury,0,0,0,0,N/A,9,0,5,0,10,10,0,0,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Two or more races,0,0,0,0,N/A,35,0,44,1,58,55,1,2,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,Visual impairment,0,0,0,0,N/A,4,1,4,2,9,7,0,2,N/A,N/A,N/A,N/A
+DELAWARE,,10,3,5,White,12,9,4,0,N/A,875,9,830,14,1364,1289,15,60,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,All Disabilities,10,0,5,5,0,1497,56,144,0,1707,306,1336,65,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,American Indian or Alaska Native,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Asian,0,0,0,0,0,1,0,1,0,2,1,1,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Autism,0,0,0,0,0,22,0,3,0,25,8,17,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Black or African American,8,0,3,5,0,1439,53,134,0,1634,275,1298,61,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,14,0,0,0,14,4,10,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Emotional disturbance,3,0,1,2,0,335,18,26,0,382,56,305,21,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,0,1,0
+DISTRICT OF COLUMBIA,,11,3,5,Female,0,0,0,0,0,313,13,22,0,348,46,289,13,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Hearing impairment,0,0,0,0,0,4,0,0,0,4,1,3,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Hispanic/Latino,1,0,1,0,0,45,3,7,0,56,25,27,4,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Intellectual disability,1,0,0,1,0,72,3,15,0,91,15,72,4,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Limited English proficient (LEP) Student,1,0,1,0,0,38,1,7,0,47,18,27,2,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Male,10,0,5,5,0,1184,43,122,0,1359,260,1047,52,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Multiple disabilities,0,0,0,0,0,175,7,12,0,194,31,156,7,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Non-limited English proficient (non-LEP) Student,9,0,4,5,0,1459,55,137,0,1660,288,1309,63,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Other health impairment,1,0,1,0,0,269,5,21,0,296,72,219,5,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Specific learning disability,5,0,3,2,0,533,22,62,0,622,101,494,27,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Speech or language impairment,0,0,0,0,0,68,1,4,0,73,16,56,1,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Two or more races,0,0,0,0,0,2,0,0,0,2,0,2,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,Visual impairment,0,0,0,0,0,5,0,1,0,6,2,4,0,N/A,N/A,N/A,N/A
+DISTRICT OF COLUMBIA,,11,3,5,White,1,0,1,0,0,9,0,2,0,12,5,7,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,All Disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Autism,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Emotional disturbance,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+FEDERATED STATES OF MICRONESIA,,62,,,Female,0,0,0,0,0,0,N/A,0,N/A,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Intellectual disability,0,0,0,0,0,0,0,0,0,N/A,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Limited English proficient (LEP) Student,0,0,0,0,0,N/A,N/A,N/A,N/A,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Male,0,0,0,0,0,N/A,0,N/A,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,N/A,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Non-limited English proficient (non-LEP) Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Other health impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Specific learning disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Speech or language impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Two or more races,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FEDERATED STATES OF MICRONESIA,,62,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,All Disabilities,71,31,41,1,0,39163,4401,38974,3940,209875,14749,41418,11486,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,American Indian or Alaska Native,1,1,0,0,0,140,13,170,11,787,55,163,37,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Asian,0,0,0,0,0,130,7,152,9,535,76,152,21,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Autism,0,0,0,0,0,990,24,610,19,3044,465,883,70,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Black or African American,26,10,17,0,0,16129,2248,14207,1899,92001,4858,16220,5480,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,186,6,46,0,414,84,123,8,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Emotional disturbance,16,9,7,0,0,7502,1354,5720,979,51233,1632,6848,2988,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,116,17,365,480
+FLORIDA,,12,3,5,Female,8,2,6,0,0,8152,690,9281,719,40442,3759,9393,2008,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Hearing impairment,0,0,0,0,0,249,14,262,19,1099,113,277,50,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Hispanic/Latino,19,6,13,0,0,8213,882,9358,794,42437,3435,9447,2359,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Intellectual disability,3,1,2,0,0,2622,235,2159,201,11757,908,2617,613,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Limited English proficient (LEP) Student,7,4,3,0,0,1701,139,1580,184,7931,740,1776,436,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Male,63,29,35,1,0,31011,3711,29693,3221,169433,10990,32025,9478,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,17,2,16,2,103,6,17,5,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Non-limited English proficient (non-LEP) Student,64,27,38,1,0,37462,4262,37394,3756,201944,14009,39642,11050,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Orthopedic impairment,0,0,0,0,0,76,6,89,5,327,39,95,14,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Other health impairment,8,4,5,0,0,3685,345,3925,371,19476,1506,4022,1014,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Specific learning disability,40,15,25,1,0,19502,2130,22087,2073,104241,7714,22226,5917,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Speech or language impairment,3,1,2,0,0,4227,276,3959,258,17654,2227,4206,773,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Traumatic brain injury,0,0,0,0,0,71,9,64,11,361,34,65,26,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Two or more races,2,1,2,0,0,1158,121,1089,137,6908,445,1189,339,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,Visual impairment,1,1,0,0,0,52,2,53,4,268,27,55,13,N/A,N/A,N/A,N/A
+FLORIDA,,12,3,5,White,23,13,9,1,0,13376,1128,13982,1088,67104,5874,14230,3245,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,All Disabilities,103,75,29,0,6,20215,1050,24963,2449,106882,8462,23740,5440,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,American Indian or Alaska Native,1,1,0,0,0,31,1,63,2,214,16,62,5,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Asian,1,1,0,0,0,77,1,108,5,318,47,104,8,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Autism,1,1,0,0,0,617,8,640,19,2175,403,661,46,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Black or African American,43,30,13,0,4,12502,751,12623,1419,62206,4081,13043,3343,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Deaf-blindness,0,0,0,0,0,0,0,1,0,2,0,1,0,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,649,7,295,8,1692,395,453,22,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Emotional disturbance,16,10,6,0,0,4654,316,4232,588,24679,1219,4574,1390,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13,0,0,149
+GEORGIA,,13,3,5,Female,10,7,3,0,0,3915,155,5692,409,20445,2051,5135,914,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Hearing impairment,0,0,0,0,0,93,3,166,10,512,62,142,18,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Hispanic/Latino,14,11,4,0,0,1468,47,2195,157,8148,806,1892,348,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Intellectual disability,4,2,2,0,1,1682,85,1888,156,7966,678,1872,403,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Limited English proficient (LEP) Student,2,0,2,0,0,441,8,565,36,1999,252,521,81,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Male,93,68,26,0,6,16300,895,19271,2040,86437,6411,18605,4526,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Native Hawaiian or Other Pacific Islander,1,1,0,0,0,16,3,19,4,97,4,16,8,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Non-limited English proficient (non-LEP) Student,101,75,27,0,6,19774,1042,24398,2413,104883,8210,23219,5359,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Orthopedic impairment,1,0,1,0,0,17,0,32,1,94,13,26,4,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Other health impairment,28,25,3,0,1,4094,259,5556,630,24061,1648,5122,1299,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Specific learning disability,50,35,16,0,4,7372,339,10824,950,41075,3384,9661,2077,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Speech or language impairment,2,1,1,0,0,974,30,1220,84,4288,625,1126,167,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Traumatic brain injury,1,1,0,0,0,33,1,53,1,176,13,51,7,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Two or more races,4,2,2,0,0,627,28,711,81,3219,264,684,175,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,Visual impairment,0,0,0,0,0,30,2,56,2,162,22,51,7,N/A,N/A,N/A,N/A
+GEORGIA,,13,3,5,White,39,29,10,0,2,5494,219,9244,781,32680,3244,7939,1553,N/A,N/A,N/A,N/A
+GUAM,,66,,,All Disabilities,0,0,0,0,0,261,45,27,0,506,37,240,46,N/A,N/A,N/A,N/A
+GUAM,,66,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Asian,0,0,0,0,0,16,1,3,0,24,5,12,2,N/A,N/A,N/A,N/A
+GUAM,,66,,,Autism,0,0,0,0,0,1,0,0,0,2,0,1,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Black or African American,0,0,0,0,0,1,0,0,0,3,0,1,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Deaf-blindness,0,0,0,0,0,x,0,0,0,x,0,x,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Emotional disturbance,0,0,0,0,0,35,12,14,0,107,2,42,12,N/A,N/A,N/A,N/A
+GUAM,,66,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+GUAM,,66,,,Female,0,0,0,0,0,34,1,3,0,45,5,32,1,N/A,N/A,N/A,N/A
+GUAM,,66,,,Hearing impairment,0,0,0,0,0,4,0,1,0,5,1,4,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Intellectual disability,0,0,0,0,0,11,2,1,0,21,2,9,2,N/A,N/A,N/A,N/A
+GUAM,,66,,,Limited English proficient (LEP) Student,0,0,0,0,0,8,2,0,0,17,1,7,2,N/A,N/A,N/A,N/A
+GUAM,,66,,,Male,0,0,0,0,0,227,44,24,0,461,32,208,45,N/A,N/A,N/A,N/A
+GUAM,,66,,,Multiple disabilities,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,242,44,24,0,477,32,225,44,N/A,N/A,N/A,N/A
+GUAM,,66,,,Non-limited English proficient (non-LEP) Student,0,0,0,0,0,253,43,27,0,489,36,233,44,N/A,N/A,N/A,N/A
+GUAM,,66,,,Orthopedic impairment,0,0,0,0,0,x,0,0,0,x,1,x,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Other health impairment,0,0,0,0,0,24,6,1,0,54,4,20,6,N/A,N/A,N/A,N/A
+GUAM,,66,,,Specific learning disability,0,0,0,0,0,175,23,10,0,300,26,155,24,N/A,N/A,N/A,N/A
+GUAM,,66,,,Speech or language impairment,0,0,0,0,0,6,2,0,0,11,1,5,2,N/A,N/A,N/A,N/A
+GUAM,,66,,,Traumatic brain injury,0,0,0,0,0,x,0,0,0,x,0,x,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Two or more races,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,Visual impairment,0,0,0,0,0,2,0,0,0,3,0,2,0,N/A,N/A,N/A,N/A
+GUAM,,66,,,White,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,All Disabilities,3,3,0,0,0,1850,291,520,6,4623,600,1474,328,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,American Indian or Alaska Native,0,0,0,0,0,14,2,8,0,40,8,10,2,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Asian,0,0,0,0,0,248,30,59,2,556,78,199,35,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Autism,0,0,0,0,0,36,0,7,0,70,16,25,0,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Black or African American,0,0,0,0,0,60,6,20,0,132,25,49,6,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,13,0,5,0,22,11,6,0,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Emotional disturbance,0,0,0,0,0,324,77,77,0,1043,71,268,87,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13,0,27,0
+HAWAII,,15,4,9,Female,0,0,0,0,0,345,38,83,0,715,105,277,44,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Hearing impairment,0,0,0,0,0,21,3,7,0,54,11,16,3,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Hispanic/Latino,0,0,0,0,0,152,20,39,1,365,47,119,23,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Intellectual disability,0,0,0,0,0,84,9,25,0,211,31,62,11,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Limited English proficient (LEP) Student,0,0,0,0,0,174,25,53,1,388,68,136,27,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Male,3,3,0,0,0,1505,253,437,6,3908,495,1197,284,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Multiple disabilities,0,0,0,0,0,4,1,1,0,8,1,4,1,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Native Hawaiian or Other Pacific Islander,2,2,0,0,0,1019,177,294,2,2633,323,820,198,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Non-limited English proficient (non-LEP) Student,3,3,0,0,0,1676,266,467,5,4235,532,1338,301,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Orthopedic impairment,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Other health impairment,1,1,0,0,0,400,66,117,2,1060,127,322,76,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Specific learning disability,2,2,0,0,0,948,132,280,4,2119,325,757,147,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Speech or language impairment,0,0,0,0,0,11,1,1,0,22,6,6,1,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Traumatic brain injury,0,0,0,0,0,6,1,0,0,10,0,6,1,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Two or more races,0,0,0,0,0,128,20,34,1,309,38,99,24,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,Visual impairment,0,0,0,0,0,2,1,0,0,3,0,2,1,N/A,N/A,N/A,N/A
+HAWAII,,15,4,9,White,1,1,0,0,0,229,36,66,0,588,81,178,40,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,All Disabilities,122,63,38,36,0,1311,25,1216,9,3298,924,1240,46,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,American Indian or Alaska Native,5,3,0,2,0,68,1,48,0,149,30,56,4,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Asian,1,1,0,0,0,3,0,2,0,6,2,2,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Autism,4,0,1,3,0,73,0,54,0,146,63,55,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Black or African American,1,0,1,0,0,33,2,29,0,91,17,32,2,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Deaf-blindness,0,0,0,0,0,x,0,x,0,x,x,x,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),3,0,2,1,0,32,1,13,0,58,23,17,1,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Emotional disturbance,31,12,10,12,0,294,6,201,2,684,141,265,11,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,15,1,N/A,N/A
+IDAHO,,16,4,8,Female,13,10,2,2,0,175,1,207,1,480,179,168,3,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Hearing impairment,1,1,0,0,0,6,0,12,0,24,6,10,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Hispanic/Latino,13,7,3,5,0,187,4,217,2,529,147,191,9,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Intellectual disability,11,5,2,5,0,73,1,67,1,168,55,69,2,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Limited English proficient (LEP) Student,4,2,2,1,0,62,1,69,0,170,52,62,1,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Male,109,53,36,34,0,1136,24,1009,8,2818,745,1072,43,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Multiple disabilities,0,0,0,0,0,11,0,4,0,17,6,9,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,2,0,0,0,2,1,1,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Non-limited English proficient (non-LEP) Student,118,61,36,35,0,1249,24,1147,9,3128,872,1178,45,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Orthopedic impairment,0,0,0,0,0,1,0,4,0,5,3,1,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Other health impairment,36,28,10,8,0,326,9,291,5,874,212,309,17,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Specific learning disability,26,13,10,4,0,393,5,460,0,1070,315,416,9,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Speech or language impairment,10,4,3,3,0,94,2,99,1,228,91,80,5,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Traumatic brain injury,0,0,0,0,0,5,1,6,0,15,4,6,1,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Two or more races,2,0,1,1,0,23,2,40,0,102,23,29,2,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,Visual impairment,0,0,0,0,0,x,0,x,0,x,x,x,0,N/A,N/A,N/A,N/A
+IDAHO,,16,4,8,White,100,52,33,28,0,995,16,880,7,2419,704,929,29,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,All Disabilities,44,24,11,9,16,23785,1836,18117,992,100027,9182,22779,4247,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,American Indian or Alaska Native,0,0,0,0,0,78,6,68,3,348,35,75,15,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Asian,1,1,0,0,0,109,8,94,1,416,60,106,17,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Autism,0,0,0,0,1,482,13,284,3,1358,242,404,27,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Black or African American,19,6,8,5,5,11337,937,6551,497,45399,3017,10177,2206,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Deaf-blindness,0,0,0,0,0,37,7,49,10,363,23,49,19,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,383,13,188,2,1039,199,283,20,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Emotional disturbance,11,6,2,3,6,4789,470,2746,175,20116,1216,4275,992,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,153,35,395,674
+ILLINOIS,,17,2,3,Female,8,0,4,4,6,5397,357,4475,180,21777,2421,5388,826,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Hearing impairment,0,0,0,0,0,158,12,143,3,571,104,150,23,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Hispanic/Latino,16,12,1,3,3,4223,221,3545,169,17413,1990,4092,610,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Intellectual disability,2,1,1,0,0,1469,112,910,54,5585,530,1332,229,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Limited English proficient (LEP) Student,4,3,0,1,2,1375,51,1132,40,5083,709,1280,153,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Male,36,24,7,5,10,18388,1479,13642,812,78250,6761,17391,3421,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Multiple disabilities,0,0,0,0,0,96,19,51,2,337,37,80,24,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,14,1,12,0,44,6,16,1,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Non-limited English proficient (non-LEP) Student,40,21,11,8,14,22410,1785,16985,952,94944,8473,21499,4094,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Orthopedic impairment,0,0,0,0,0,84,5,25,1,193,22,76,7,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Other health impairment,1,1,0,0,1,2893,266,2462,127,13151,1214,2864,540,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Specific learning disability,30,16,8,6,7,12376,846,10395,596,53638,5007,12289,2240,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Speech or language impairment,0,0,0,0,1,915,69,782,16,3302,546,873,114,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Traumatic brain injury,0,0,0,0,0,60,2,38,2,216,15,57,9,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Two or more races,1,0,1,0,2,718,70,582,31,3239,294,678,143,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,Visual impairment,0,0,0,0,0,43,2,44,1,158,27,47,3,N/A,N/A,N/A,N/A
+ILLINOIS,,17,2,3,White,7,5,1,1,6,7306,593,7265,291,33168,3780,7635,1255,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,All Disabilities,439,164,91,251,0,15652,1920,11053,576,64178,5389,15140,3312,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,American Indian or Alaska Native,3,2,0,1,0,53,5,56,2,242,22,59,11,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Asian,0,0,0,0,0,38,0,21,0,104,9,40,0,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Autism,25,2,3,26,0,812,36,504,16,2603,371,722,77,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Black or African American,66,21,11,41,0,4544,644,2179,164,19010,1054,3954,1073,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Deaf-blindness,0,0,0,0,0,1,0,2,0,5,0,2,0,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,4,0,2,0,11,1,3,0,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Emotional disturbance,139,44,24,98,0,3960,633,2078,102,15898,870,3659,954,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,363,245,534,3199
+INDIANA,,18,2,3,Female,56,23,11,29,0,3418,292,2568,108,13102,1329,3408,562,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Hearing impairment,1,1,0,0,0,111,8,89,1,336,52,117,13,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Hispanic/Latino,22,14,2,7,0,977,93,795,35,4027,386,967,177,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Intellectual disability,48,18,8,30,0,1865,210,1146,74,7389,593,1746,383,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Limited English proficient (LEP) Student,8,6,0,2,0,443,38,430,20,1873,187,474,80,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Male,383,141,80,222,0,12234,1628,8485,468,51076,4060,11732,2750,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Multiple disabilities,2,0,1,1,0,39,2,18,0,100,13,34,2,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,1,5,0,17,2,3,1,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Non-limited English proficient (non-LEP) Student,431,158,91,249,0,15209,1882,10623,556,62305,5202,14666,3232,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Orthopedic impairment,2,0,1,1,0,39,4,31,1,145,27,29,7,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Other health impairment,53,19,16,22,0,1906,243,1538,83,8483,719,1880,430,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Specific learning disability,154,77,33,61,0,6042,739,5009,293,26354,2224,6207,1365,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Speech or language impairment,13,3,4,11,0,773,37,564,3,2484,473,653,65,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Traumatic brain injury,0,0,0,0,0,47,5,27,1,188,17,42,9,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Two or more races,22,7,4,15,0,991,105,609,37,3928,317,931,187,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,Visual impairment,2,0,1,1,0,53,3,45,2,182,29,46,7,N/A,N/A,N/A,N/A
+INDIANA,,18,2,3,White,326,120,74,187,0,9046,1072,7388,338,36850,3599,9186,1863,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,All Disabilities,5,2,2,1,0,5107,237,5021,88,20435,2889,5262,467,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,American Indian or Alaska Native,0,0,0,0,0,43,1,57,2,196,29,56,3,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Asian,0,0,0,0,0,23,3,11,0,60,12,17,3,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Autism,0,0,0,0,0,58,3,57,1,231,33,59,5,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Black or African American,0,0,0,0,0,1291,87,804,37,4948,473,1133,157,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Emotional disturbance,0,0,0,0,0,498,23,490,9,1992,282,513,46,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22,0,0,137
+IOWA,,19,2,4,Female,0,0,0,0,0,1115,35,1119,14,4163,692,1159,72,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Hearing impairment,0,0,0,0,0,36,2,36,1,145,21,37,3,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Hispanic/Latino,0,0,0,0,0,490,18,526,13,2048,296,516,48,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Intellectual disability,0,0,0,0,0,880,41,865,15,3521,498,907,80,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Limited English proficient (LEP) Student,0,0,0,0,0,195,5,243,7,900,135,211,19,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Male,5,2,2,1,0,3992,202,3902,74,16272,2197,4103,395,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Multiple disabilities,0,0,0,0,0,29,1,28,0,114,16,29,3,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,13,0,9,0,28,8,12,0,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Non-limited English proficient (non-LEP) Student,5,2,2,1,0,4912,232,4778,81,19535,2754,5051,448,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Orthopedic impairment,0,0,0,0,0,58,3,57,1,231,33,59,5,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Other health impairment,0,0,0,0,0,7,0,7,0,29,4,7,1,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Specific learning disability,5,2,2,1,0,3080,143,3027,53,12325,1741,3175,282,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Speech or language impairment,0,0,0,0,0,440,20,433,8,1761,249,454,40,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Traumatic brain injury,0,0,0,0,0,14,1,14,0,57,8,15,1,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Two or more races,N/A,0,0,0,N/A,277,11,199,1,960,137,241,21,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,Visual impairment,0,0,0,0,0,7,0,7,0,29,4,7,1,N/A,N/A,N/A,N/A
+IOWA,,19,2,4,White,5,2,2,1,0,2970,117,3415,35,12195,1934,3287,235,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,All Disabilities,414,379,104,10,0,3244,156,3642,142,15175,1623,3461,524,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,American Indian or Alaska Native,11,13,0,0,0,61,3,71,1,302,37,63,10,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Asian,2,2,0,0,0,9,0,25,1,79,10,21,1,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Autism,6,4,3,0,0,90,1,86,4,410,44,97,6,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Black or African American,87,77,21,1,0,673,42,742,48,3802,247,681,158,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Deaf-blindness,0,0,0,0,0,1,0,1,0,3,0,2,0,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),2,0,2,0,0,78,0,48,1,217,40,71,3,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Emotional disturbance,60,50,18,2,0,483,22,414,18,2139,163,471,78,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,60,3,146,270
+KANSAS,,20,2,4,Female,72,68,8,2,0,596,24,788,19,2850,361,713,72,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Hearing impairment,1,0,1,0,0,29,1,48,2,142,20,34,7,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Hispanic/Latino,67,57,17,1,0,530,22,595,21,2524,258,562,80,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Intellectual disability,20,16,4,0,0,172,3,152,4,642,97,156,16,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Limited English proficient (LEP) Student,15,17,2,0,0,139,10,182,7,733,82,143,25,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Male,342,311,96,8,0,2648,132,2854,123,12325,1262,2748,452,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Multiple disabilities,29,25,10,1,0,224,12,211,11,1055,89,227,37,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,6,0,5,1,25,2,6,1,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Non-limited English proficient (non-LEP) Student,399,362,102,10,0,3105,146,3460,135,14442,1541,3318,499,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Orthopedic impairment,1,1,0,0,0,2,0,5,0,8,3,4,0,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Other health impairment,85,76,23,3,0,605,34,670,21,2784,304,651,97,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Specific learning disability,204,205,39,4,0,1470,79,1883,80,7427,768,1657,274,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Speech or language impairment,6,2,4,0,0,85,3,113,1,325,87,84,5,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Traumatic brain injury,0,0,0,0,0,3,1,10,0,19,7,6,1,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Two or more races,31,32,5,1,0,245,15,240,9,1138,102,246,42,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,Visual impairment,0,0,0,0,0,2,0,1,0,4,1,1,0,N/A,N/A,N/A,N/A
+KANSAS,,20,2,4,White,216,198,61,7,0,1720,74,1964,61,7305,967,1882,232,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,All Disabilities,30,22,5,4,0,7688,187,10419,988,59089,3963,9232,1805,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,American Indian or Alaska Native,0,0,0,0,0,16,0,14,3,70,16,11,3,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Asian,0,0,0,0,0,11,0,7,1,43,6,8,1,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Autism,0,0,0,0,0,181,2,189,9,852,139,177,13,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Black or African American,3,1,1,2,0,2033,83,2265,243,17185,713,2106,526,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,209,2,275,3,1208,204,228,8,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Emotional disturbance,7,3,2,2,0,1695,54,1496,172,11408,415,1671,382,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16,0,167,37
+KENTUCKY,,21,3,6,Female,5,4,1,0,0,1216,33,2070,151,9864,893,1651,270,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Hearing impairment,0,0,0,0,0,24,1,36,0,157,14,32,4,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Hispanic/Latino,1,0,1,0,0,171,2,258,14,1303,112,204,40,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Intellectual disability,5,4,0,2,0,1419,30,2077,210,11203,757,1818,359,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Limited English proficient (LEP) Student,1,0,1,0,0,105,1,165,10,861,59,139,22,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Male,25,18,4,4,0,6472,154,8349,837,49225,3070,7581,1535,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Multiple disabilities,1,0,1,0,0,216,5,230,13,1316,88,231,37,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,3,0,14,1,3,0,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Non-limited English proficient (non-LEP) Student,29,22,4,4,0,7583,186,10254,978,58228,3904,9093,1783,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Orthopedic impairment,0,0,0,0,0,6,0,18,1,62,8,10,2,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Other health impairment,9,8,1,0,0,2184,64,3064,331,18738,1032,2656,594,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Specific learning disability,5,5,0,0,0,1361,24,2303,205,11134,871,1891,343,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Speech or language impairment,2,1,1,0,0,357,5,669,37,2763,402,477,52,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Traumatic brain injury,0,0,0,0,0,17,0,24,5,127,12,18,7,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Two or more races,1,0,1,0,0,207,5,247,21,1523,84,248,43,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,Visual impairment,1,1,0,0,0,19,0,38,2,121,21,23,4,N/A,N/A,N/A,N/A
+KENTUCKY,,21,3,6,White,25,21,2,2,0,5249,97,7625,706,38951,3031,6652,1192,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,All Disabilities,115,73,43,3,0,11185,655,8392,379,42034,3513,11206,1619,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,American Indian or Alaska Native,2,1,1,0,0,72,3,50,2,247,16,74,9,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Asian,0,0,0,0,0,19,0,14,0,64,4,22,2,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Autism,2,1,1,0,0,141,0,79,1,353,73,119,6,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Black or African American,74,42,33,3,0,7669,532,5280,279,29453,1984,7537,1241,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Developmental delay (valid only for children ages 3-9 when defined by state),1,0,1,0,0,318,3,193,2,936,160,287,9,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Emotional disturbance,18,11,8,0,0,945,72,519,32,3694,147,848,182,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,414,28,4861,1343
+LOUISIANA,,22,3,7,Female,5,4,1,0,0,2311,84,1859,57,7972,910,2348,241,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Hearing impairment,1,1,0,0,0,117,6,103,1,369,50,127,10,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Hispanic/Latino,2,2,0,0,0,154,7,150,3,533,71,158,17,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Intellectual disability,5,3,1,2,0,1152,69,736,28,4019,342,1076,158,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Limited English proficient (LEP) Student,0,0,0,0,0,65,2,65,0,229,33,59,10,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Male,110,69,42,3,0,8874,571,6533,322,34062,2603,8858,1378,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Multiple disabilities,0,0,0,0,0,11,0,2,0,21,2,10,0,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,4,0,4,0,11,0,6,0,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Non-limited English proficient (non-LEP) Student,115,73,43,3,0,11120,653,8327,379,41805,3480,11147,1609,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Orthopedic impairment,0,0,0,0,0,39,0,45,2,151,29,40,3,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Other health impairment,22,13,10,0,0,2181,143,1696,106,8889,643,2176,377,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Specific learning disability,60,40,20,1,0,5124,323,4145,189,19949,1514,5399,781,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Speech or language impairment,5,3,2,0,0,1091,38,823,17,3440,533,1053,87,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Traumatic brain injury,1,1,0,0,0,33,0,20,0,92,8,33,2,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Two or more races,1,1,0,0,0,82,3,58,2,286,20,82,8,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,Visual impairment,0,0,0,0,0,33,1,31,1,121,12,38,4,N/A,N/A,N/A,N/A
+LOUISIANA,,22,3,7,White,36,27,9,0,0,3185,110,2836,93,11440,1418,3327,342,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,All Disabilities,N/A,4,1,19,N/A,N/A,N/A,N/A,N/A,1670,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,American Indian or Alaska Native,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,23,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Asian,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Autism,N/A,0,0,3,N/A,N/A,N/A,N/A,N/A,69,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Black or African American,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,91,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,1,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Emotional disturbance,N/A,1,1,6,N/A,N/A,N/A,N/A,N/A,335,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8,4,8,18
+MAINE,,23,1,1,Female,N/A,0,0,2,N/A,N/A,N/A,N/A,N/A,249,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Hearing impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Hispanic/Latino,N/A,0,0,1,N/A,N/A,N/A,N/A,N/A,35,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Intellectual disability,N/A,0,0,1,N/A,N/A,N/A,N/A,N/A,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Limited English proficient (LEP) Student,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,42,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Male,N/A,4,1,17,N/A,N/A,N/A,N/A,N/A,1421,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Multiple disabilities,N/A,1,0,1,N/A,N/A,N/A,N/A,N/A,184,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Non-limited English proficient (non-LEP) Student,N/A,4,1,19,N/A,N/A,N/A,N/A,N/A,1628,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Other health impairment,N/A,0,0,6,N/A,N/A,N/A,N/A,N/A,552,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Specific learning disability,N/A,2,0,1,N/A,N/A,N/A,N/A,N/A,429,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Speech or language impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,66,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Traumatic brain injury,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Two or more races,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,22,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MAINE,,23,1,1,White,N/A,4,1,18,N/A,N/A,N/A,N/A,N/A,1492,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,All Disabilities,30,9,20,1,0,10645,1180,3576,30,28098,2941,9225,1458,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,American Indian or Alaska Native,0,0,0,0,0,37,4,17,0,100,12,33,5,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Asian,1,0,1,0,0,72,5,18,0,150,27,55,6,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Autism,0,0,0,0,0,412,15,122,0,956,163,311,20,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Black or African American,20,5,14,1,0,6522,925,1779,13,17343,1393,5752,1096,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),1,0,1,0,0,111,3,18,0,241,44,77,3,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Emotional disturbance,11,2,9,0,0,2230,379,505,7,6815,406,1918,436,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,206,17,475,94
+MARYLAND,,24,3,5,Female,2,0,2,0,0,2256,215,720,7,5447,612,1974,266,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Hearing impairment,0,0,0,0,0,17,2,13,0,43,9,20,2,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Hispanic/Latino,3,2,1,0,0,706,63,235,1,1663,213,619,75,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Intellectual disability,0,0,0,0,0,352,28,83,0,731,97,296,33,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Limited English proficient (LEP) Student,0,0,0,0,0,120,10,40,0,276,47,99,11,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Male,28,9,18,1,0,8389,965,2856,23,22651,2329,7251,1192,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Multiple disabilities,1,0,1,0,0,307,16,98,0,848,79,245,28,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,0,1,0,7,1,3,0,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Non-limited English proficient (non-LEP) Student,30,9,20,1,0,10525,1170,3536,30,27822,2894,9126,1447,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Orthopedic impairment,0,0,0,0,0,6,1,2,1,14,0,6,2,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Other health impairment,7,2,5,0,0,2799,315,971,9,7592,731,2427,392,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Specific learning disability,10,5,4,1,0,3779,392,1436,9,9383,1116,3381,501,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Speech or language impairment,0,0,0,0,0,597,25,312,4,1382,287,514,36,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Traumatic brain injury,0,0,0,0,0,21,2,8,0,54,5,18,2,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Two or more races,0,0,0,0,0,318,19,147,1,869,130,250,31,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,Visual impairment,0,0,0,0,0,13,2,8,0,38,4,11,3,N/A,N/A,N/A,N/A
+MARYLAND,,24,3,5,White,6,2,4,0,0,2987,164,1379,15,7966,1165,2513,245,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,All Disabilities,29,9,8,12,21,11434,1400,5089,140,38630,4223,9573,1881,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,American Indian or Alaska Native,0,0,0,0,1,42,7,21,1,164,11,41,10,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Asian,0,0,0,0,0,142,15,63,0,437,57,122,16,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Autism,0,0,0,0,0,254,13,94,0,599,126,188,16,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Black or African American,7,1,1,5,4,1641,244,704,30,5910,533,1387,324,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Deaf-blindness,0,0,0,0,0,3,0,1,0,7,2,2,0,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,311,7,50,0,671,142,195,7,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Emotional disturbance,11,1,5,5,3,2652,401,873,29,9470,727,2179,509,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21,0,70,18
+MASSACHUSETTS,,25,1,1,Female,6,2,2,2,1,2668,286,1268,38,8695,1101,2239,391,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Hearing impairment,0,0,0,0,0,19,1,10,0,43,8,19,1,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Hispanic/Latino,11,3,2,6,14,3688,518,1552,46,13229,1241,3070,678,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Intellectual disability,3,0,1,2,2,841,101,333,7,2738,289,708,127,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Limited English proficient (LEP) Student,4,0,1,3,4,1191,143,387,11,3773,380,946,184,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Male,23,7,6,10,20,8766,1114,3821,102,29935,3122,7334,1490,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Multiple disabilities,0,0,0,0,0,303,36,124,4,971,113,246,50,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,7,1,2,0,17,0,9,1,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Non-limited English proficient (non-LEP) Student,25,9,7,9,17,10243,1257,4702,129,34857,3843,8627,1697,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Orthopedic impairment,0,0,0,0,0,23,3,13,0,96,8,21,4,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Other health impairment,4,1,1,2,9,1850,245,949,38,7098,655,1629,355,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Specific learning disability,9,6,1,2,6,3769,480,1952,48,12815,1484,3236,658,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Speech or language impairment,1,1,0,0,1,1026,81,486,6,2987,476,844,105,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Traumatic brain injury,0,0,0,0,0,368,28,196,7,1065,190,290,44,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Two or more races,0,0,0,0,0,344,35,110,4,1089,125,265,51,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,Visual impairment,1,0,0,1,0,15,4,8,1,70,3,16,5,N/A,N/A,N/A,N/A
+MASSACHUSETTS,,25,1,1,White,11,5,5,1,2,5570,580,2637,59,17784,2256,4679,801,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,All Disabilities,6,2,4,0,22,21285,3515,8406,248,71669,7361,17617,4227,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,American Indian or Alaska Native,0,0,0,0,0,242,33,119,1,791,95,203,44,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Asian,0,0,0,0,0,75,6,18,1,190,33,55,7,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Autism,0,0,0,0,0,752,53,282,2,1866,368,552,62,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Black or African American,1,0,1,0,10,8068,1655,1867,53,26956,1918,6741,1823,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Deaf-blindness,0,N/A,N/A,N/A,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,101,4,23,0,236,51,63,4,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Emotional disturbance,1,0,1,0,6,3747,878,1360,63,15489,1034,3128,1021,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,292,76,736,975
+MICHIGAN,,26,2,3,Female,1,0,1,0,3,4653,609,1786,45,13849,1709,3903,733,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Hearing impairment,0,0,0,0,1,175,18,88,2,523,73,148,21,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Hispanic/Latino,0,0,0,0,0,1048,161,453,24,3511,365,883,213,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Intellectual disability,0,0,0,0,1,2038,309,591,16,6184,634,1661,358,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Limited English proficient (LEP) Student,0,0,0,0,0,592,80,226,8,1877,222,452,106,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Male,5,2,3,0,19,16632,2906,6620,203,57820,5652,13714,3494,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Multiple disabilities,0,0,0,0,0,13,1,0,0,33,3,10,1,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,8,1,3,0,15,5,4,1,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Non-limited English proficient (non-LEP) Student,6,2,4,0,22,20693,3435,8180,240,69792,7139,17165,4121,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Orthopedic impairment,0,0,0,0,0,80,9,34,1,242,41,54,11,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Other health impairment,2,1,1,0,5,2984,485,1328,38,10301,1061,2486,600,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Specific learning disability,2,0,2,0,8,9888,1640,4199,118,32851,3409,8416,2011,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Speech or language impairment,1,1,0,0,1,1414,106,471,7,3700,654,1026,125,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Traumatic brain injury,0,0,0,0,0,58,8,21,1,150,19,49,9,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Two or more races,0,0,0,0,0,509,102,231,5,1833,186,426,118,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,Visual impairment,0,0,0,0,0,35,4,9,0,94,14,24,4,N/A,N/A,N/A,N/A
+MICHIGAN,,26,2,3,White,5,2,3,0,12,11335,1557,5715,164,38373,4759,9305,2021,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,All Disabilities,12,2,10,0,4,10251,961,3643,57,31859,3375,8578,1182,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,American Indian or Alaska Native,1,0,1,0,1,596,54,140,0,1642,129,518,59,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Asian,0,0,0,0,0,175,9,62,0,420,79,132,12,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Autism,0,0,0,0,0,617,17,234,1,1377,317,466,20,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Black or African American,1,1,0,0,0,3412,563,1046,29,13311,814,2873,666,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Deaf-blindness,0,0,0,0,0,1,0,2,0,3,3,0,0,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,71,2,12,0,160,33,44,3,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Emotional disturbance,10,2,8,0,2,4206,541,1393,16,14912,1092,3559,652,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,28,0,191,14
+MINNESOTA,,27,2,4,Female,0,0,0,0,0,2153,215,759,12,6657,736,1797,260,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Hearing impairment,0,0,0,0,0,96,4,50,0,234,48,76,6,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Hispanic/Latino,1,0,1,0,0,838,64,268,6,2430,285,687,82,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Intellectual disability,0,0,0,0,1,414,23,142,2,1199,165,337,28,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Limited English proficient (LEP) Student,0,0,0,0,0,449,37,162,2,1323,191,344,48,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Male,12,2,10,0,4,8098,746,2884,45,25202,2639,6781,922,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Multiple disabilities,0,0,0,0,0,18,0,7,0,50,6,15,1,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,6,0,1,0,13,2,5,0,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Non-limited English proficient (non-LEP) Student,12,2,10,0,4,9802,924,3481,55,30536,3184,8234,1134,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Orthopedic impairment,0,0,0,0,0,25,0,8,0,61,10,17,1,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Other health impairment,2,0,2,0,0,1890,160,697,12,5569,639,1595,200,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Specific learning disability,0,0,0,0,1,2545,192,988,24,7431,893,2206,244,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Speech or language impairment,0,0,0,0,0,324,16,98,2,751,160,222,21,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Traumatic brain injury,0,0,0,0,0,38,6,10,0,100,7,36,6,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Two or more races,0,0,0,0,0,410,24,115,0,1187,121,332,28,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,Visual impairment,0,0,0,0,0,6,0,2,0,12,2,5,0,N/A,N/A,N/A,N/A
+MINNESOTA,,27,2,4,White,9,1,8,0,3,4814,247,2011,22,12856,1945,4031,335,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,All Disabilities,62,40,35,1,15,6033,831,4791,564,26633,1850,6122,1775,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,American Indian or Alaska Native,0,0,0,0,0,13,1,9,0,51,2,12,3,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Asian,0,0,0,0,0,8,0,4,1,20,2,7,2,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Autism,0,0,0,0,0,164,9,141,8,603,78,160,25,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Black or African American,37,25,19,1,11,4212,695,2992,397,19063,1025,4102,1363,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,186,4,96,4,472,106,150,10,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Emotional disturbance,10,4,7,1,2,956,195,562,97,4374,143,864,369,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,53,22,119,386
+MISSISSIPPI,,28,3,6,Female,4,4,0,0,5,1217,155,1048,114,5265,418,1309,333,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Hearing impairment,0,0,0,0,0,43,2,44,3,190,23,47,8,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Hispanic/Latino,1,1,0,0,1,45,4,47,4,181,22,53,10,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Intellectual disability,5,4,4,0,2,351,41,233,26,1330,95,352,86,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Limited English proficient (LEP) Student,0,0,0,0,0,31,6,25,3,119,12,33,11,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Male,58,36,35,1,10,4816,676,3743,450,21368,1432,4813,1442,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Multiple disabilities,0,0,0,0,0,39,2,27,3,128,13,42,7,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,0,0,2,0,1,0,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Non-limited English proficient (non-LEP) Student,62,40,35,1,15,6002,825,4766,561,26514,1838,6089,1764,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Orthopedic impairment,0,0,0,0,0,11,0,22,2,62,10,16,4,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Other health impairment,12,9,8,0,2,1196,174,1015,166,6301,339,1209,421,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Specific learning disability,30,22,12,0,9,2376,366,2090,218,10829,677,2578,752,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Speech or language impairment,3,1,2,0,0,670,35,529,33,2204,351,663,84,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Traumatic brain injury,1,0,1,0,0,18,3,8,2,64,4,16,5,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Two or more races,0,0,0,0,0,23,2,21,2,98,8,23,6,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,Visual impairment,1,0,1,0,0,23,0,24,2,76,11,25,4,N/A,N/A,N/A,N/A
+MISSISSIPPI,,28,3,6,White,24,14,16,0,3,1731,129,1718,160,7218,791,1924,391,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,All Disabilities,211,143,46,27,0,11416,2734,15871,2113,78450,5117,14680,5657,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,American Indian or Alaska Native,0,0,0,0,0,59,11,89,14,449,34,68,32,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Asian,1,1,0,0,0,43,9,57,11,262,33,48,20,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Autism,5,2,3,0,0,491,44,480,24,2000,270,517,89,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Black or African American,61,31,19,11,0,4436,1522,4134,635,27863,1149,4820,2378,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Deaf-blindness,0,0,0,0,0,2,0,3,0,8,1,3,0,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,78,10,66,0,329,45,72,12,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Emotional disturbance,33,18,11,6,0,2013,712,1951,344,14480,454,2080,1204,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11,2,11,30
+MISSOURI,,29,2,4,Female,34,23,7,5,0,2247,450,3458,378,14750,1213,3166,977,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Hearing impairment,2,0,1,1,0,64,10,92,9,356,39,89,24,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Hispanic/Latino,8,7,1,0,0,342,58,486,54,2120,166,432,149,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Intellectual disability,9,2,4,3,0,989,235,1183,139,5824,434,1197,432,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Limited English proficient (LEP) Student,2,2,0,0,0,155,15,163,18,747,72,178,45,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Male,177,120,39,22,0,9169,2284,12413,1735,63700,3904,11514,4680,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Multiple disabilities,1,0,0,1,0,39,2,34,2,133,16,46,5,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,5,1,17,1,46,1,16,3,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Non-limited English proficient (non-LEP) Student,209,141,46,27,0,11261,2719,15708,2095,77703,5045,14502,5612,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Orthopedic impairment,0,0,0,0,0,11,1,24,2,68,11,17,3,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Other health impairment,60,47,9,5,0,2871,725,4262,637,21932,1254,3777,1587,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Specific learning disability,84,63,13,9,0,3592,794,5709,807,25988,1660,5121,1889,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Speech or language impairment,16,10,5,2,0,1197,188,1967,137,6901,897,1668,385,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Traumatic brain injury,1,1,0,0,0,47,10,66,8,311,24,59,19,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Two or more races,5,2,1,2,0,219,39,310,39,1553,101,269,99,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,Visual impairment,0,0,0,0,0,22,3,34,4,120,12,34,8,N/A,N/A,N/A,N/A
+MISSOURI,,29,2,4,White,136,102,25,14,0,6312,1094,10778,1359,46157,3633,9027,2976,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,All Disabilities,56,34,16,16,0,1340,60,1262,36,5862,733,1350,174,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,American Indian or Alaska Native,5,3,2,1,0,357,31,298,13,1573,166,348,59,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Asian,0,0,0,0,0,3,0,6,0,16,6,1,1,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Autism,1,0,0,2,0,21,0,15,0,69,18,13,1,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Black or African American,3,3,0,0,0,21,0,15,0,77,9,22,2,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,3,0,0,0,4,1,2,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Emotional disturbance,11,6,5,4,0,217,12,149,3,882,72,205,31,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7,1,8,47
+MONTANA,,30,4,8,Female,7,6,0,1,0,203,10,243,5,914,158,214,26,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Hearing impairment,0,0,0,0,0,2,0,5,0,25,0,6,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Hispanic/Latino,6,4,2,1,0,52,5,60,2,245,32,60,9,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Intellectual disability,0,0,0,0,0,35,1,27,1,140,19,32,3,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Limited English proficient (LEP) Student,1,0,1,0,0,122,12,108,5,546,53,126,21,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Male,49,28,16,15,0,1137,50,1019,31,4948,575,1136,148,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Multiple disabilities,11,6,3,3,0,283,11,241,6,1181,144,266,34,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,0,1,0,5,1,2,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Non-limited English proficient (non-LEP) Student,55,34,15,16,0,1218,48,1154,31,5316,680,1224,153,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Other health impairment,10,9,2,2,0,257,16,243,10,1217,142,256,41,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Specific learning disability,22,13,5,5,0,460,16,525,16,2139,280,521,59,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Speech or language impairment,1,0,1,0,0,61,4,55,0,201,55,48,5,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Traumatic brain injury,0,0,0,0,0,1,0,1,0,3,1,1,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Two or more races,5,2,1,3,0,26,1,31,0,143,16,30,4,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,Visual impairment,0,0,0,0,0,0,0,1,0,1,1,0,0,N/A,N/A,N/A,N/A
+MONTANA,,30,4,8,White,37,22,11,11,0,878,23,851,21,3803,503,887,99,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,All Disabilities,N/A,13,13,10,N/A,N/A,N/A,2878,101,12639,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,American Indian or Alaska Native,N/A,1,0,0,N/A,N/A,N/A,91,1,363,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Asian,N/A,0,0,0,N/A,N/A,N/A,22,0,88,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Autism,N/A,4,3,3,N/A,N/A,N/A,130,0,524,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Black or African American,N/A,4,4,4,N/A,N/A,N/A,318,12,3451,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,25,0,86,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Emotional disturbance,N/A,1,2,1,N/A,N/A,N/A,485,34,3272,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,202,4,674,60
+NEBRASKA,,31,2,4,Female,2,1,1,0,0,715,120,548,19,2357,239,696,139,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Hearing impairment,N/A,0,0,0,N/A,N/A,N/A,22,1,60,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Hispanic/Latino,N/A,0,1,1,N/A,N/A,N/A,481,25,1600,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Intellectual disability,N/A,0,1,0,N/A,N/A,N/A,191,4,740,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Limited English proficient (LEP) Student,1,0,0,1,0,100,24,158,9,389,49,130,27,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Male,20,12,12,10,0,2853,586,2330,82,10282,852,2755,696,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Multiple disabilities,N/A,0,0,0,N/A,N/A,N/A,3,0,39,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,1,0,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Non-limited English proficient (non-LEP) Student,21,13,13,9,0,3468,682,2720,92,12250,1042,3321,808,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,6,0,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Other health impairment,N/A,3,2,3,N/A,N/A,N/A,577,19,2598,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Specific learning disability,N/A,4,5,3,N/A,N/A,N/A,1200,36,4697,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Speech or language impairment,N/A,1,0,0,N/A,N/A,N/A,223,5,569,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Traumatic brain injury,N/A,0,0,0,N/A,N/A,N/A,10,2,26,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Two or more races,N/A,0,0,0,N/A,N/A,N/A,94,1,716,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,6,0,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEBRASKA,,31,2,4,White,N/A,8,8,5,N/A,N/A,N/A,1871,62,6411,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,All Disabilities,47,33,5,9,21,6113,952,3338,108,25212,1850,5273,1319,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,American Indian or Alaska Native,1,N/A,N/A,N/A,0,93,13,72,6,439,35,88,26,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Asian,2,N/A,N/A,N/A,0,70,3,30,0,202,31,54,4,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Autism,1,0,0,1,1,277,14,96,2,691,114,211,18,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Black or African American,15,N/A,N/A,N/A,8,1592,374,788,22,6780,363,1335,469,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Deaf-blindness,0,0,0,0,0,2,0,1,0,8,0,2,0,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,11,0,5,0,18,13,3,0,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Emotional disturbance,9,6,2,1,3,740,173,337,12,3878,146,619,228,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,562,20,850,30
+NEVADA,,32,4,8,Female,8,7,0,1,5,1331,130,736,17,4734,449,1181,193,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Hearing impairment,0,0,0,0,0,53,10,27,5,274,13,51,13,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Hispanic/Latino,16,N/A,N/A,N/A,4,2187,310,1160,34,8940,673,1884,428,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Intellectual disability,3,2,0,1,0,161,13,63,4,541,48,148,17,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Limited English proficient (LEP) Student,8,6,1,1,1,1099,156,603,16,4663,325,931,232,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Male,39,26,5,8,16,4782,822,2602,91,20478,1401,4092,1126,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Multiple disabilities,0,0,0,0,0,51,1,12,0,127,22,39,1,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Native Hawaiian or Other Pacific Islander,0,N/A,N/A,N/A,0,44,8,23,1,156,12,36,10,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Non-limited English proficient (non-LEP) Student,39,27,4,8,20,5014,796,2735,92,20549,1525,4342,1087,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Orthopedic impairment,0,0,0,0,0,14,2,2,0,28,4,11,2,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Other health impairment,3,1,1,1,2,682,113,423,12,3083,199,610,152,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Specific learning disability,31,24,2,5,14,3795,610,2255,73,15779,1122,3356,867,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Speech or language impairment,0,0,0,0,0,297,13,105,0,668,160,196,17,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Traumatic brain injury,0,0,0,0,1,23,2,6,0,70,7,19,3,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Two or more races,2,N/A,N/A,N/A,1,298,45,172,3,1249,93,253,62,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,Visual impairment,0,0,0,0,0,7,1,6,0,47,2,8,1,N/A,N/A,N/A,N/A
+NEVADA,,32,4,8,White,11,N/A,N/A,N/A,8,1829,199,1093,42,7446,643,1623,320,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,All Disabilities,0,0,0,0,0,1878,274,974,16,6843,675,1606,350,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,American Indian or Alaska Native,0,0,0,0,0,4,0,5,0,23,4,2,1,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Asian,0,0,0,0,0,2,0,1,0,3,3,0,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Autism,0,0,0,0,0,47,1,30,0,125,22,44,2,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Black or African American,0,0,0,0,0,78,15,35,0,294,24,67,19,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,22,0,5,0,62,7,15,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Emotional disturbance,0,0,0,0,0,426,91,230,3,1729,120,362,115,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,6,0,0
+NEW HAMPSHIRE,,33,1,1,Female,0,0,0,0,0,441,33,229,0,1349,190,366,50,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Hearing impairment,0,0,0,0,0,8,3,1,0,19,2,7,3,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Hispanic/Latino,0,0,0,0,0,98,24,42,2,467,24,80,32,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Intellectual disability,0,0,0,0,0,37,4,13,0,87,17,28,4,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Limited English proficient (LEP) Student,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Male,0,0,0,0,0,1437,241,745,16,5494,485,1240,300,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Multiple disabilities,0,0,0,0,0,6,0,5,0,19,4,7,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,1,1,0,6,0,0,1,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Non-limited English proficient (non-LEP) Student,0,0,0,0,0,1878,274,974,16,6843,675,1606,350,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Orthopedic impairment,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Other health impairment,0,0,0,0,0,461,67,242,5,1680,171,400,83,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Specific learning disability,0,0,0,0,0,758,96,405,7,2820,283,661,128,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Speech or language impairment,0,0,0,0,0,104,12,39,1,288,44,77,15,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Traumatic brain injury,0,0,0,0,0,5,0,2,0,8,2,3,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Two or more races,0,0,0,0,0,4,1,0,0,13,1,3,1,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,Visual impairment,0,0,0,0,0,3,0,2,0,5,2,2,0,N/A,N/A,N/A,N/A
+NEW HAMPSHIRE,,33,1,1,White,0,0,0,0,0,1692,233,890,14,6037,619,1454,296,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,All Disabilities,44,17,25,3,11,8291,807,5540,294,29881,3191,8379,1396,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,American Indian or Alaska Native,0,0,0,0,0,13,1,13,0,40,4,21,1,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Asian,0,0,0,0,1,88,10,62,1,244,55,83,13,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Autism,1,1,0,0,1,236,12,80,1,480,91,197,18,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Black or African American,20,9,11,1,6,3021,331,1725,103,10699,918,2991,551,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Deaf-blindness,0,0,0,0,1,2,0,0,0,3,1,1,1,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Emotional disturbance,8,1,6,1,2,1133,160,508,44,4102,312,1055,240,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,16,9
+NEW JERSEY,,34,1,2,Female,3,1,2,0,0,1794,122,1324,58,6400,790,1874,236,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Hearing impairment,0,0,0,0,0,26,2,16,0,85,7,26,5,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Hispanic/Latino,8,3,4,1,3,1793,157,1087,67,6516,661,1745,288,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Intellectual disability,0,0,0,0,0,82,6,39,5,246,32,72,13,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Limited English proficient (LEP) Student,0,0,0,0,1,38,3,23,2,163,14,33,10,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Male,41,16,23,3,11,6497,685,4216,236,23481,2401,6505,1160,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Multiple disabilities,3,2,2,0,2,1010,130,531,29,3814,304,976,196,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Native Hawaiian or Other Pacific Islander,1,1,0,0,0,16,1,10,0,39,10,10,2,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Non-limited English proficient (non-LEP) Student,44,17,25,3,10,8253,804,5517,292,29718,3177,8346,1386,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Orthopedic impairment,0,0,0,0,0,8,2,9,0,38,6,8,2,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Other health impairment,5,0,4,1,1,1629,144,1226,59,6131,706,1655,262,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Specific learning disability,27,13,13,1,4,3844,320,2916,152,13958,1584,4067,612,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Speech or language impairment,0,0,0,0,0,293,25,189,4,892,138,286,40,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Traumatic brain injury,0,0,0,0,0,22,5,20,0,114,6,28,6,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Two or more races,0,0,0,0,0,41,7,24,0,155,7,47,9,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,Visual impairment,0,0,0,0,0,6,1,6,0,18,4,8,1,N/A,N/A,N/A,N/A
+NEW JERSEY,,34,1,2,White,15,4,10,1,1,3319,300,2619,123,12188,1536,3482,532,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,All Disabilities,22,17,7,3,0,2767,179,758,19,5098,769,2762,214,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,American Indian or Alaska Native,5,3,2,1,0,406,36,118,3,830,114,411,43,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Asian,0,0,0,0,0,13,0,2,0,18,4,11,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Autism,0,0,0,0,0,41,2,12,0,82,13,40,2,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Black or African American,0,0,0,0,0,109,5,23,1,189,20,112,6,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,29,1,9,0,54,21,17,1,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Emotional disturbance,5,4,1,1,0,489,26,123,3,972,116,497,33,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,66,1,18,231
+NEW MEXICO,,35,4,8,Female,2,1,2,0,0,522,27,157,4,907,141,539,32,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Hearing impairment,0,0,0,0,0,19,1,5,0,39,3,21,1,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Hispanic/Latino,10,7,4,2,0,1690,117,443,12,3067,460,1676,136,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Intellectual disability,0,0,0,0,0,89,2,16,0,152,28,77,2,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Limited English proficient (LEP) Student,7,5,3,2,0,670,42,199,7,1261,215,656,54,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Male,20,16,5,3,0,2245,152,601,15,4191,628,2223,182,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Multiple disabilities,1,1,0,0,0,11,0,3,0,19,5,10,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Non-limited English proficient (non-LEP) Student,15,12,4,1,0,2097,137,559,12,3837,554,2106,160,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Orthopedic impairment,0,0,0,0,0,1,0,1,0,2,0,2,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Other health impairment,4,4,2,0,0,335,30,107,4,668,105,339,36,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Specific learning disability,11,7,4,2,0,1559,101,430,11,2762,411,1580,121,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Speech or language impairment,1,1,0,0,0,177,14,47,1,319,64,160,16,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Traumatic brain injury,0,0,0,0,0,13,2,2,0,20,1,14,2,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Two or more races,1,1,1,0,0,37,0,10,0,59,11,36,1,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,Visual impairment,0,0,0,0,0,4,0,3,0,9,2,5,0,N/A,N/A,N/A,N/A
+NEW MEXICO,,35,4,8,White,6,6,0,0,0,511,21,162,3,934,160,515,28,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,All Disabilities,N/A,211,458,79,N/A,N/A,N/A,N/A,N/A,106471,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,American Indian or Alaska Native,N/A,1,2,1,N/A,N/A,N/A,N/A,N/A,933,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Asian,N/A,0,6,0,N/A,N/A,N/A,N/A,N/A,833,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Autism,N/A,2,1,3,N/A,N/A,N/A,N/A,N/A,1353,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Black or African American,N/A,90,226,42,N/A,N/A,N/A,N/A,N/A,34163,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,101,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Emotional disturbance,N/A,50,122,28,N/A,N/A,N/A,N/A,N/A,21338,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,418,129,908,308
+NEW YORK,,36,1,2,Female,93,25,54,16,1,4711,925,6505,336,22687,2248,6530,1447,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Hearing impairment,N/A,0,1,0,N/A,N/A,N/A,N/A,N/A,371,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Hispanic/Latino,N/A,57,157,9,N/A,N/A,N/A,N/A,N/A,18302,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Intellectual disability,N/A,5,10,0,N/A,N/A,N/A,N/A,N/A,1577,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Limited English proficient (LEP) Student,75,13,63,3,2,851,270,1721,96,5170,358,1770,425,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Male,619,186,404,63,20,16313,3769,20709,1339,83784,6256,21664,5904,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Multiple disabilities,N/A,0,8,6,N/A,N/A,N/A,N/A,N/A,2061,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Non-limited English proficient (non-LEP) Student,637,198,395,76,19,20173,4424,25493,1579,101301,8146,26424,6926,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,68,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Other health impairment,N/A,40,53,14,N/A,N/A,N/A,N/A,N/A,24005,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Specific learning disability,N/A,99,222,22,N/A,N/A,N/A,N/A,N/A,49097,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Speech or language impairment,N/A,14,38,6,N/A,N/A,N/A,N/A,N/A,6132,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Traumatic brain injury,N/A,1,2,0,N/A,N/A,N/A,N/A,N/A,257,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Two or more races,N/A,1,0,0,N/A,N/A,N/A,N/A,N/A,940,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,Visual impairment,N/A,0,1,0,N/A,N/A,N/A,N/A,N/A,110,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NEW YORK,,36,1,2,White,N/A,62,67,27,N/A,N/A,N/A,N/A,N/A,51280,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,All Disabilities,186,96,95,4,0,23986,4359,21772,1299,116338,8960,23070,7537,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,American Indian or Alaska Native,0,0,0,0,0,526,125,410,19,2438,176,491,177,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Asian,1,0,1,0,0,60,7,58,2,262,40,56,12,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Autism,5,2,4,0,0,855,43,523,15,2590,410,740,89,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Black or African American,88,39,50,3,0,12242,2848,9922,668,61845,3581,11281,4484,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,531,27,122,0,1423,260,352,30,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Emotional disturbance,29,13,15,1,0,2704,918,1964,178,16439,524,2280,1359,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,145,N/A,N/A,731
+NORTH CAROLINA,,37,3,5,Female,15,7,8,0,0,4855,633,4790,189,20945,2146,5016,1174,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Hearing impairment,0,0,0,0,0,170,16,164,2,601,87,169,27,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Hispanic/Latino,17,12,6,0,0,1932,301,2025,93,9198,870,1998,545,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Intellectual disability,19,10,8,1,0,2817,561,2254,122,13053,885,2751,855,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Limited English proficient (LEP) Student,9,6,3,0,0,1208,190,1300,65,5796,551,1267,344,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Male,171,89,87,4,0,19131,3726,16982,1110,95393,6814,18054,6363,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Multiple disabilities,0,0,0,0,0,65,7,24,3,203,28,49,11,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,9,0,8,0,31,1,9,1,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Non-limited English proficient (non-LEP) Student,177,90,92,4,0,22778,4169,20472,1234,110542,8409,21803,7193,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Orthopedic impairment,1,0,1,0,0,29,1,19,1,76,16,24,5,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Other health impairment,48,28,22,1,0,6017,1141,5812,390,31297,2106,5875,2057,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Specific learning disability,81,41,43,1,0,9753,1597,10241,569,47574,4036,10016,3006,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Speech or language impairment,2,2,1,0,0,946,39,554,15,2667,563,719,80,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Traumatic brain injury,1,0,1,0,0,60,7,56,3,286,25,55,15,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Two or more races,5,2,3,0,0,938,138,808,47,4239,372,877,255,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,Visual impairment,0,0,0,0,0,38,2,39,1,128,20,39,3,N/A,N/A,N/A,N/A
+NORTH CAROLINA,,37,3,5,White,75,43,35,1,0,8279,940,8541,470,38325,3920,8358,2063,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,All Disabilities,5,3,2,0,1,267,9,164,2,397,118,267,12,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,American Indian or Alaska Native,1,1,0,0,1,87,5,34,0,115,23,86,6,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Autism,0,0,0,0,0,8,1,4,0,10,4,5,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Black or African American,0,0,0,0,0,13,1,9,0,21,10,10,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,4,0,2,0,6,3,3,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Emotional disturbance,1,1,0,0,0,73,4,51,1,115,30,79,6,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,3,0,0
+NORTH DAKOTA,,38,2,4,Female,1,0,1,0,0,44,1,35,1,75,21,51,3,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Hearing impairment,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Hispanic/Latino,0,0,0,0,0,11,0,3,0,12,3,9,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Intellectual disability,0,0,0,0,0,16,0,9,1,24,3,20,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Limited English proficient (LEP) Student,0,0,0,0,0,21,0,14,0,33,14,18,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Male,4,3,1,0,1,223,8,129,1,322,97,216,9,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,2,0,1,0,3,1,2,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Non-limited English proficient (non-LEP) Student,5,3,2,0,1,246,9,150,2,364,104,249,11,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Other health impairment,3,2,1,0,1,34,1,32,0,59,19,39,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Specific learning disability,1,0,1,0,0,103,2,50,0,142,38,102,2,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Speech or language impairment,0,0,0,0,0,26,1,16,0,38,20,17,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Traumatic brain injury,0,0,0,0,0,2,0,0,0,2,1,1,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Two or more races,0,0,0,0,0,2,0,3,1,6,1,4,1,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTH DAKOTA,,38,2,4,White,4,2,2,0,0,152,3,114,1,240,80,156,4,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,All Disabilities,0,0,0,0,0,33,1,38,22,114,7,56,25,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Asian,0,0,0,0,0,1,0,7,0,8,3,4,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Autism,0,0,0,0,0,0,0,1,0,1,1,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Emotional disturbance,0,0,0,0,0,2,0,1,0,3,0,3,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+NORTHERN MARIANAS,,69,,,Female,0,0,0,0,0,3,0,11,1,16,0,13,1,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Hearing impairment,0,0,0,0,0,1,0,1,0,2,0,2,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Intellectual disability,0,0,0,0,0,2,1,4,2,11,0,4,4,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Limited English proficient (LEP) Student,0,0,0,0,N/A,11,0,13,3,32,2,18,4,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Male,0,0,0,0,0,30,1,27,21,98,7,43,24,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,26,1,27,19,91,4,44,21,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Non-limited English proficient (non-LEP) Student,N/A,0,0,0,0,22,1,25,19,82,5,38,21,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Other health impairment,0,0,0,0,0,4,0,2,1,9,0,5,1,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Specific learning disability,0,0,0,0,0,23,0,28,19,86,5,41,20,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Speech or language impairment,0,0,0,0,0,1,0,1,0,2,1,1,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Two or more races,0,0,0,0,0,6,0,4,3,15,0,8,4,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+NORTHERN MARIANAS,,69,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,All Disabilities,55,17,19,19,23,23872,3078,14387,909,35748,6315,24141,5292,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,American Indian or Alaska Native,0,0,0,0,0,45,3,30,2,68,17,44,7,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Asian,0,0,0,0,0,54,5,28,1,76,18,52,6,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Autism,1,0,1,0,1,549,26,262,5,768,226,504,38,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Black or African American,15,5,2,8,5,8930,1394,4060,388,12520,1653,8617,2250,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Emotional disturbance,16,4,7,5,6,4450,817,1861,143,6117,745,4164,1208,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,441,7,1642,1292
+OHIO,,39,2,3,Female,6,0,2,4,7,5503,558,3534,184,8391,1696,5689,1006,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Hearing impairment,1,0,0,1,0,106,7,76,2,163,37,112,14,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Hispanic/Latino,2,0,0,2,0,883,106,453,21,1235,232,827,176,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Intellectual disability,3,0,1,2,1,2850,349,1832,133,4276,732,2862,682,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Limited English proficient (LEP) Student,1,1,0,0,0,384,40,186,4,517,90,362,65,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Male,49,17,17,15,16,18369,2520,10853,725,27357,4619,18452,4286,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Multiple disabilities,1,0,0,1,1,400,30,161,3,542,135,369,38,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,4,1,3,0,7,2,3,2,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Non-limited English proficient (non-LEP) Student,54,16,19,19,23,23488,3038,14201,905,35231,6225,23779,5227,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Orthopedic impairment,0,0,0,0,0,30,0,20,2,48,14,31,3,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Other health impairment,12,5,3,4,4,4116,549,2514,183,6218,1110,4183,925,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Specific learning disability,20,8,6,6,10,10826,1254,7342,423,16794,3126,11363,2305,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Speech or language impairment,1,0,1,0,0,393,34,217,13,591,138,395,58,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Traumatic brain injury,0,0,0,0,0,110,10,71,2,165,31,118,16,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Two or more races,3,2,0,1,0,1252,156,708,40,1798,319,1215,264,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,Visual impairment,0,0,0,0,0,42,2,31,0,66,21,40,5,N/A,N/A,N/A,N/A
+OHIO,,39,2,3,White,35,10,17,8,18,12704,1413,9105,457,20044,4074,13383,2587,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,All Disabilities,N/A,70,45,78,2,6510,965,3651,460,10006,1326,6917,1763,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,American Indian or Alaska Native,18,N/A,N/A,N/A,0,858,129,582,79,1437,210,985,242,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Asian,0,N/A,N/A,N/A,0,19,0,12,2,26,4,16,6,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Autism,N/A,0,1,3,0,156,10,70,3,220,42,164,14,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Black or African American,58,N/A,N/A,N/A,1,1999,326,753,108,2725,261,1925,539,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Deaf-blindness,N/A,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,1,302,18,80,3,379,106,250,23,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Emotional disturbance,N/A,11,11,28,1,923,171,382,65,1291,99,895,297,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,0,5,15
+OKLAHOMA,,40,3,7,Female,27,9,4,15,0,1339,153,888,72,2162,314,1555,293,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Hearing impairment,N/A,1,1,1,0,54,7,35,2,80,11,55,14,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Hispanic/Latino,26,N/A,N/A,N/A,0,778,82,377,51,1114,166,776,172,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Intellectual disability,N/A,4,1,4,0,431,51,196,20,609,79,432,98,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Limited English proficient (LEP) Student,14,6,4,5,0,485,36,256,20,665,115,476,74,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Male,154,61,41,63,2,5171,812,2763,388,7844,1012,5362,1470,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Multiple disabilities,N/A,0,0,0,0,27,2,14,0,38,8,28,2,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Native Hawaiian or Other Pacific Islander,0,N/A,N/A,N/A,0,7,1,6,0,10,2,6,2,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Non-limited English proficient (non-LEP) Student,167,64,41,73,2,6025,929,3395,440,9341,1211,6441,1689,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Orthopedic impairment,N/A,0,0,0,0,6,2,6,2,15,6,6,3,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Other health impairment,N/A,6,8,9,0,1195,192,733,117,1900,241,1292,367,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Specific learning disability,N/A,48,20,26,0,3167,492,2011,241,5108,636,3555,917,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Speech or language impairment,N/A,0,3,7,0,224,14,109,5,326,92,213,21,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Traumatic brain injury,N/A,0,0,0,0,11,3,6,1,17,0,13,4,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Two or more races,11,N/A,N/A,N/A,0,287,42,103,17,408,72,268,68,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,Visual impairment,N/A,0,0,0,0,14,3,9,1,23,6,14,3,N/A,N/A,N/A,N/A
+OKLAHOMA,,40,3,7,White,68,N/A,N/A,N/A,1,2562,385,1818,203,4286,611,2941,734,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,All Disabilities,11,5,5,1,0,7467,567,5856,68,26678,3733,6701,906,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,American Indian or Alaska Native,0,0,0,0,0,224,22,151,6,825,104,192,35,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Asian,0,0,0,0,0,59,1,49,2,196,36,58,3,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Autism,0,0,0,0,0,458,13,258,2,1232,268,339,23,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Black or African American,1,0,1,0,0,589,33,307,6,1977,177,509,58,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Emotional disturbance,3,0,2,1,0,1366,111,786,13,5196,387,1211,180,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,239,85,819,483
+OREGON,,41,4,9,Female,1,1,0,0,0,1358,77,1137,10,4548,750,1279,130,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Hearing impairment,0,0,0,0,0,50,2,45,0,153,38,45,2,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Hispanic/Latino,1,1,0,0,0,1564,128,1368,20,5920,803,1467,210,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Intellectual disability,0,0,0,0,0,293,13,150,1,816,120,237,22,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Limited English proficient (LEP) Student,1,1,0,0,0,686,62,660,6,2618,394,668,93,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Male,10,4,5,1,0,6109,490,4719,58,22130,2983,5422,776,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,31,6,35,1,153,17,36,6,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Non-limited English proficient (non-LEP) Student,10,4,5,1,0,6781,505,5196,62,24060,3339,6033,813,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Orthopedic impairment,0,0,0,0,0,10,0,4,0,27,3,11,0,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Other health impairment,2,2,0,0,0,1546,129,1283,20,5996,724,1407,220,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Specific learning disability,4,1,3,0,0,2603,240,2396,28,9620,1463,2486,372,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Speech or language impairment,2,2,0,0,0,1101,54,905,4,3522,707,933,79,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Traumatic brain injury,0,0,0,0,0,34,4,24,0,99,18,27,7,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Two or more races,1,0,1,0,0,406,29,274,2,1451,196,339,50,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,Visual impairment,0,0,0,0,0,6,1,5,0,17,5,5,1,N/A,N/A,N/A,N/A
+OREGON,,41,4,9,White,8,4,3,1,0,4594,348,3672,31,16156,2400,4100,544,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,All Disabilities,614,329,278,57,0,25303,1337,17023,699,95743,10661,23011,2740,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,American Indian or Alaska Native,5,2,4,0,0,122,3,93,4,440,54,119,7,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Asian,1,1,0,0,0,106,4,84,1,391,57,100,9,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Autism,4,2,4,0,0,615,20,468,8,1890,385,512,37,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Black or African American,277,128,139,31,0,9937,487,4300,248,34085,3175,8134,931,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Deaf-blindness,0,0,0,0,0,4,1,2,0,20,2,3,1,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Emotional disturbance,144,71,77,16,0,5957,428,3032,167,23359,1646,5238,801,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,266,15,937,215
+PENNSYLVANIA,,42,1,2,Female,190,93,86,19,0,5902,276,4184,129,21207,2807,5388,531,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Hearing impairment,3,1,2,0,0,105,4,71,0,317,49,89,5,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Hispanic/Latino,58,21,35,2,0,3134,121,1649,75,11653,1385,2569,227,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Intellectual disability,15,4,11,0,0,618,12,433,13,1975,337,562,37,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Limited English proficient (LEP) Student,13,2,9,2,0,878,29,415,19,3157,380,680,67,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Male,424,236,192,38,0,19401,1061,12839,570,74536,7854,17623,2209,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Multiple disabilities,0,0,0,0,0,17,0,19,0,72,5,20,2,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,6,0,3,0,10,2,5,0,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Non-limited English proficient (non-LEP) Student,601,327,269,55,0,24425,1308,16608,680,92586,10281,22331,2673,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Orthopedic impairment,0,0,0,0,0,14,0,11,0,49,10,9,2,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Other health impairment,74,40,30,10,0,3451,187,2575,98,13934,1471,3225,407,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Specific learning disability,349,206,136,27,0,13533,652,9905,407,51464,6215,12599,1398,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Speech or language impairment,18,0,18,2,0,914,28,453,5,2381,502,686,40,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Traumatic brain injury,6,4,0,2,0,45,4,39,1,191,25,42,9,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Two or more races,5,1,3,1,0,493,27,301,18,2088,171,398,66,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,Visual impairment,1,1,0,0,0,30,1,15,0,91,14,26,1,N/A,N/A,N/A,N/A
+PENNSYLVANIA,,42,1,2,White,268,176,97,23,0,11505,695,10593,353,47076,5817,11686,1500,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,All Disabilities,21,2,2,17,0,407,8,47,1,484,28,447,9,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,American Indian or Alaska Native,0,0,0,0,0,2,0,0,0,2,0,2,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Autism,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Emotional disturbance,2,0,0,2,0,19,1,0,0,22,1,20,1,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+PUERTO RICO,,72,,,Female,7,0,1,6,0,63,0,3,0,73,7,66,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Hispanic/Latino,21,2,2,17,0,405,8,47,1,482,28,445,9,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Intellectual disability,1,0,0,1,0,50,1,5,1,58,7,49,2,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Limited English proficient (LEP) Student,0,0,0,0,0,4,0,0,0,4,0,4,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Male,14,2,1,11,0,344,8,44,1,411,21,381,9,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Multiple disabilities,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Non-limited English proficient (non-LEP) Student,21,2,2,17,0,403,8,47,1,480,28,443,9,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Other health impairment,3,0,1,2,0,56,0,8,0,67,2,65,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Specific learning disability,14,2,1,11,0,250,3,33,0,300,12,285,3,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Speech or language impairment,1,0,0,1,0,30,3,1,0,35,5,27,3,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Two or more races,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+PUERTO RICO,,72,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,All Disabilities,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Autism,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Emotional disturbance,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,14
+REPUBLIC OF PALAU,,230,,,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Intellectual disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Limited English proficient (LEP) Student,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Male,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Non-limited English proficient (non-LEP) Student,0,N/A,N/A,N/A,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Other health impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Specific learning disability,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Speech or language impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Two or more races,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF PALAU,,230,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,All Disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,American Indian or Alaska Native,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Asian,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Autism,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Black or African American,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Emotional disturbance,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Female,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Hispanic/Latino,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Intellectual disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Limited English proficient (LEP) Student,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Male,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Non-limited English proficient (non-LEP) Student,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Other health impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Specific learning disability,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Speech or language impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Two or more races,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+REPUBLIC OF THE MARSHALL ISLANDS,,231,,,White,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,All Disabilities,4,3,1,0,0,3025,211,1329,86,11680,1049,2419,422,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,American Indian or Alaska Native,0,0,0,0,0,48,4,19,1,205,13,32,11,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Asian,0,0,0,0,0,27,0,12,0,62,8,21,1,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Autism,1,1,0,0,0,103,3,45,0,274,49,72,8,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Black or African American,2,1,1,0,0,484,37,169,11,1722,158,373,64,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,60,1,6,0,118,26,37,1,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Emotional disturbance,0,0,0,0,0,619,55,227,19,2549,157,503,100,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+RHODE ISLAND,,44,1,1,Female,0,0,0,0,0,676,33,341,26,2683,249,559,89,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Hearing impairment,0,0,0,0,0,12,0,8,0,39,7,7,1,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Hispanic/Latino,0,0,0,0,0,939,62,404,28,3684,318,720,137,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Intellectual disability,0,0,0,0,0,54,2,27,3,224,19,43,9,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Limited English proficient (LEP) Student,0,0,0,0,0,146,13,83,6,681,54,118,25,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Male,4,3,1,0,0,2349,178,988,60,8997,800,1860,333,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Multiple disabilities,0,0,0,0,0,4,1,2,0,14,4,2,1,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,0,6,2,45,1,4,3,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Non-limited English proficient (non-LEP) Student,4,3,1,0,0,2879,198,1246,80,10999,995,2301,397,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Orthopedic impairment,0,0,0,0,0,4,0,0,0,7,1,3,0,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Other health impairment,1,1,0,0,0,723,60,381,28,3181,227,630,122,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Specific learning disability,2,1,1,0,0,1325,88,599,36,5010,499,1042,178,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Speech or language impairment,0,0,0,0,0,113,1,30,0,237,57,72,2,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Traumatic brain injury,0,0,0,0,0,4,0,3,0,16,1,5,0,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Two or more races,0,0,0,0,0,102,6,37,3,372,36,77,10,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,Visual impairment,0,0,0,0,0,4,0,1,0,11,2,3,0,N/A,N/A,N/A,N/A
+RHODE ISLAND,,44,1,1,White,2,2,0,0,0,1422,102,682,41,5590,515,1192,196,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,All Disabilities,117,77,42,0,16,14385,1293,14686,522,85153,7805,14294,2665,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,American Indian or Alaska Native,0,0,0,0,0,45,3,59,4,309,25,52,9,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Asian,1,0,1,0,0,30,0,35,1,123,26,29,1,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Autism,2,1,1,0,0,220,5,143,1,1828,125,178,12,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Black or African American,65,47,19,0,15,8739,877,8036,305,51346,4540,8099,1733,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,283,6,221,1,972,196,242,9,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Emotional disturbance,9,6,4,0,3,1278,158,923,50,7906,455,1105,298,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1763,6,475,1804
+SOUTH CAROLINA,,45,3,5,Female,8,4,4,0,1,2865,180,3214,55,15892,1824,2937,380,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Hearing impairment,0,0,0,0,0,86,3,121,2,525,70,90,9,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Hispanic/Latino,8,6,3,0,0,404,22,490,23,2237,222,414,78,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Intellectual disability,4,2,2,0,5,1075,108,852,21,5128,563,964,176,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Limited English proficient (LEP) Student,3,3,0,0,0,295,18,311,16,1655,159,288,46,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Male,109,73,38,0,15,11520,1113,11472,467,69261,5981,11357,2285,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Multiple disabilities,2,1,1,0,0,89,10,76,2,411,39,70,22,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,6,0,10,0,50,4,5,2,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Non-limited English proficient (non-LEP) Student,114,74,42,0,16,14090,1275,14375,506,83498,7646,14006,2619,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Orthopedic impairment,0,0,0,0,0,40,0,33,1,146,32,32,2,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Other health impairment,15,10,5,0,0,2194,202,2375,94,15546,1171,2126,464,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Specific learning disability,81,55,27,0,7,8228,770,9126,333,48771,4466,8755,1602,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Speech or language impairment,4,2,2,0,1,842,31,768,16,3721,660,681,68,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Traumatic brain injury,0,0,0,0,0,36,0,32,1,144,13,39,3,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Two or more races,1,0,1,0,0,263,23,325,12,1712,171,279,46,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,Visual impairment,0,0,0,0,0,14,0,16,0,55,15,12,0,N/A,N/A,N/A,N/A
+SOUTH CAROLINA,,45,3,5,White,42,24,18,0,1,4898,368,5731,177,29376,2817,5416,796,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,All Disabilities,21,13,8,2,4,590,61,1281,105,4729,539,1008,208,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,American Indian or Alaska Native,16,10,7,1,2,239,32,403,32,1457,173,359,78,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Asian,0,0,0,0,0,4,0,5,2,42,1,2,4,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Autism,0,0,0,0,0,10,1,27,0,58,10,20,1,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Black or African American,0,0,0,0,1,20,2,47,6,236,17,43,8,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Deaf-blindness,0,0,0,0,0,x,0,x,x,x,x,x,x,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,4,0,3,0,8,7,0,0,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Emotional disturbance,2,1,0,1,1,129,11,220,25,1090,78,192,44,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7,5,8,16
+SOUTH DAKOTA,,46,2,4,Female,4,3,1,0,0,92,7,256,13,727,108,193,25,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Hearing impairment,0,0,0,0,0,0,0,1,0,4,1,0,0,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Hispanic/Latino,0,0,0,0,0,29,1,50,8,269,17,44,13,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Intellectual disability,2,1,0,1,0,40,4,83,7,269,38,71,11,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Limited English proficient (LEP) Student,4,4,2,0,2,56,6,73,8,318,33,89,14,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Male,17,10,7,2,4,498,54,1025,92,4002,431,815,183,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Multiple disabilities,0,0,0,0,0,3,1,12,1,47,3,11,2,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,1,0,8,0,1,0,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Non-limited English proficient (non-LEP) Student,17,9,6,2,2,534,55,1208,97,4411,506,919,194,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Other health impairment,4,1,3,0,1,114,12,246,27,1003,105,202,44,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Specific learning disability,13,10,5,0,2,258,32,615,42,2055,252,459,103,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Speech or language impairment,0,0,0,0,0,30,0,69,2,173,42,50,2,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Traumatic brain injury,0,0,0,0,0,x,0,x,x,x,x,x,x,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Two or more races,0,0,0,0,0,6,1,21,1,70,8,16,2,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,Visual impairment,0,0,0,0,0,0,0,1,0,2,0,1,0,N/A,N/A,N/A,N/A
+SOUTH DAKOTA,,46,2,4,White,5,3,1,1,1,291,25,754,56,2647,323,543,103,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,All Disabilities,238,220,4,14,0,12539,1116,14177,1125,65847,4677,14086,4384,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,American Indian or Alaska Native,0,0,0,0,0,31,2,32,6,212,19,29,13,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Asian,0,0,0,0,0,32,1,41,1,160,13,37,6,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Autism,2,2,0,0,0,359,7,314,21,1274,171,396,42,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Black or African American,73,62,3,8,0,6481,905,5512,494,33074,1598,6166,2485,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,323,10,121,3,826,119,277,21,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Emotional disturbance,10,8,0,2,0,1152,100,864,87,5640,249,1069,368,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,230,0,549,399
+TENNESSEE,,47,3,6,Female,28,26,0,2,0,2658,198,3453,204,13459,1294,3279,762,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Hearing impairment,1,1,0,0,0,92,4,120,5,417,58,102,23,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Hispanic/Latino,7,5,0,2,0,447,22,559,34,2269,219,507,122,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Intellectual disability,3,1,0,2,0,759,95,577,28,3028,219,749,227,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Limited English proficient (LEP) Student,3,1,0,2,0,169,14,215,11,865,93,187,47,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Male,210,194,4,12,0,9881,918,10724,921,52388,3383,10807,3622,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Multiple disabilities,0,0,0,0,0,40,0,17,2,100,14,35,5,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,3,0,5,0,12,0,7,0,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Non-limited English proficient (non-LEP) Student,235,219,4,12,0,12370,1102,13962,1114,64982,4584,13899,4337,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Orthopedic impairment,0,0,0,0,0,10,0,26,0,65,10,23,1,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Other health impairment,40,38,1,1,0,2144,141,2615,251,12308,793,2405,830,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Specific learning disability,163,152,3,8,0,6286,706,7840,609,35568,2292,7404,2534,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Speech or language impairment,18,17,0,1,0,1318,52,1604,110,6307,721,1552,318,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Traumatic brain injury,1,1,0,0,0,31,0,30,6,146,14,30,10,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Two or more races,1,1,0,0,0,17,2,25,1,92,5,23,10,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,Visual impairment,0,0,0,0,0,24,1,49,3,167,17,43,5,N/A,N/A,N/A,N/A
+TENNESSEE,,47,3,6,White,157,152,1,4,0,5528,184,8003,589,30028,2823,7317,1748,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,All Disabilities,3259,3360,209,36,4,42908,3135,72971,7816,283415,21057,52430,19850,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,American Indian or Alaska Native,15,16,3,0,0,191,5,340,38,1250,103,232,97,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Asian,11,9,2,0,0,177,3,307,19,944,106,222,53,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Autism,27,18,8,2,0,1391,21,2071,85,5460,867,1568,191,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Black or African American,658,675,34,9,2,14106,1201,18075,2209,84654,4994,14669,5784,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Deaf-blindness,0,0,0,0,0,4,0,2,1,11,1,2,1,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Emotional disturbance,476,468,44,13,0,8254,781,9433,1126,47545,2403,7998,3484,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,606,18,3050,172
+TEXAS,,48,3,7,Female,390,399,16,4,0,8683,419,17277,1423,55613,5524,12068,3386,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Hearing impairment,20,18,3,0,0,335,12,708,44,2119,232,464,130,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Hispanic/Latino,1884,2002,86,12,2,18745,1420,32845,3547,126459,9651,22530,9136,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Intellectual disability,83,91,3,2,0,2130,124,2644,223,10109,971,2270,567,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Limited English proficient (LEP) Student,437,479,28,5,0,5029,396,8176,798,32547,2598,5780,2158,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Male,2869,2961,193,32,4,34225,2716,55694,6393,227802,15533,40362,16464,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Multiple disabilities,7,6,1,0,1,166,10,165,12,633,69,173,39,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Native Hawaiian or Other Pacific Islander,2,2,0,0,0,31,2,68,3,208,16,47,14,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Non-limited English proficient (non-LEP) Student,2822,2881,181,31,4,37879,2739,64795,7018,250868,18459,46650,17692,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Orthopedic impairment,8,8,1,0,0,59,3,135,7,374,47,91,23,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Other health impairment,539,556,37,4,0,6631,551,11807,1391,47642,3243,8231,3419,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Specific learning disability,2067,2165,108,15,3,21794,1586,41560,4738,158998,11351,28960,11565,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Speech or language impairment,21,18,3,0,0,1928,37,4024,159,9179,1731,2376,348,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Traumatic brain injury,8,9,1,0,0,111,7,179,12,678,54,141,41,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Two or more races,55,53,4,2,0,639,45,1205,110,4132,367,811,287,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,Visual impairment,3,3,0,0,0,105,3,243,18,667,88,156,42,N/A,N/A,N/A,N/A
+TEXAS,,48,3,7,White,634,603,80,13,0,9019,459,20131,1890,65768,5820,13919,4479,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,All Disabilities,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,388,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,American Indian or Alaska Native,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Asian,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Autism,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Black or African American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Deaf-blindness,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Emotional disturbance,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,52,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,564,6390,1187,23310
+UTAH,,49,4,8,Female,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Hearing impairment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Hispanic/Latino,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,111,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Intellectual disability,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,17,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Limited English proficient (LEP) Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,56,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Male,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,388,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Multiple disabilities,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Native Hawaiian or Other Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Non-limited English proficient (non-LEP) Student,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,332,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Orthopedic impairment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Other health impairment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,56,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Specific learning disability,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,192,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Speech or language impairment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,36,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Traumatic brain injury,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Two or more races,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,Visual impairment,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+UTAH,,49,4,8,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,227,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,All Disabilities,3,1,2,0,0,904,65,703,8,1680,538,801,91,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,American Indian or Alaska Native,0,0,0,0,0,21,4,12,0,37,4,23,4,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Asian,0,0,0,0,0,4,0,3,0,7,5,2,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Autism,0,0,0,0,0,31,3,25,0,59,19,31,3,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Black or African American,0,0,0,0,0,38,2,18,0,58,19,27,4,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Deaf-blindness,0,0,0,0,0,2,0,1,0,3,0,3,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,15,1,14,0,30,20,6,1,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Emotional disturbance,2,1,1,0,0,306,21,213,5,545,149,272,35,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5,0,5,7
+VERMONT,,50,1,1,Female,0,0,0,0,0,171,9,141,0,321,121,151,13,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Hearing impairment,0,0,0,0,0,1,0,6,0,7,2,4,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Hispanic/Latino,0,0,0,0,0,13,0,9,0,22,8,11,1,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Intellectual disability,0,0,0,0,0,36,2,28,0,66,28,25,2,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Limited English proficient (LEP) Student,1,0,1,0,0,87,3,71,0,161,54,87,3,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Male,3,1,2,0,0,733,56,562,8,1359,417,650,78,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Multiple disabilities,0,0,0,0,0,6,2,9,0,17,8,5,2,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,1,0,2,2,0,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Non-limited English proficient (non-LEP) Student,2,1,1,0,0,817,62,632,8,1519,484,714,88,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Orthopedic impairment,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Other health impairment,0,0,0,0,0,134,15,126,0,275,98,117,18,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Specific learning disability,1,0,1,0,0,313,20,238,1,572,181,283,27,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Speech or language impairment,0,0,0,0,0,53,1,41,2,97,32,49,3,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Traumatic brain injury,0,0,0,0,0,3,0,1,0,4,0,3,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Two or more races,0,0,0,0,0,7,0,3,0,10,3,5,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,Visual impairment,0,0,0,0,0,3,0,1,0,4,1,2,0,N/A,N/A,N/A,N/A
+VERMONT,,50,1,1,White,3,1,2,0,0,820,59,657,8,1544,497,733,82,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,All Disabilities,0,0,0,0,0,72,14,3,0,89,4,71,14,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,American Indian or Alaska Native,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Asian,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Autism,0,0,0,0,0,2,0,0,0,2,0,2,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Black or African American,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,71,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Emotional disturbance,0,0,0,0,0,8,2,0,0,10,0,8,2,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0,0
+VIRGIN ISLANDS,,78,,,Female,0,0,0,0,0,3,0,0,0,3,0,3,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Hearing impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Hispanic/Latino,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Intellectual disability,0,0,0,0,0,12,2,0,0,14,0,12,2,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Limited English proficient (LEP) Student,0,0,0,0,0,1,2,0,0,3,0,1,2,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Male,0,0,0,0,0,69,14,3,0,86,4,68,14,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Multiple disabilities,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Native Hawaiian or Other Pacific Islander,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Non-limited English proficient (non-LEP) Student,0,0,0,0,0,71,12,3,0,86,4,70,12,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Orthopedic impairment,0,0,0,0,0,x,0,0,0,x,0,x,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Other health impairment,0,0,0,0,0,16,0,1,0,17,3,14,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Specific learning disability,0,0,0,0,0,32,10,2,0,44,1,33,10,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Speech or language impairment,0,0,0,0,0,1,0,0,0,1,0,1,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Traumatic brain injury,0,0,0,0,0,x,0,0,0,x,0,x,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Two or more races,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,Visual impairment,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGIN ISLANDS,,78,,,White,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,All Disabilities,89,107,6,0,0,16292,3468,12701,391,69170,6149,15820,4639,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,American Indian or Alaska Native,0,0,0,0,0,64,5,53,0,230,23,65,11,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Asian,5,4,1,0,0,118,15,92,0,405,57,116,19,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Autism,0,0,0,0,0,681,44,388,0,1985,303,611,62,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Black or African American,24,31,0,0,0,7939,2164,5496,198,35205,2425,7454,2756,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Deaf-blindness,0,0,0,0,0,0,0,0,0,0,0,0,0,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,182,10,42,0,395,71,134,10,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Emotional disturbance,24,27,2,0,0,2684,734,1718,60,12392,691,2441,949,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,504,0,598,1727
+VIRGINIA,,51,3,5,Female,12,20,0,0,0,3438,603,2819,51,13254,1533,3433,795,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Hearing impairment,0,0,0,0,0,58,6,55,1,189,36,56,9,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Hispanic/Latino,17,23,0,0,0,1321,162,1006,23,4691,633,1278,226,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Intellectual disability,0,0,0,0,0,816,145,571,15,3046,271,809,200,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Limited English proficient (LEP) Student,14,18,0,0,0,685,64,449,8,2208,326,626,94,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Male,77,87,6,0,0,12854,2865,9882,340,55916,4616,12387,3844,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Multiple disabilities,0,0,0,0,0,158,31,68,0,551,59,123,36,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,11,2,10,0,40,6,12,2,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Non-limited English proficient (non-LEP) Student,75,89,6,0,0,15607,3404,12252,383,66962,5823,15194,4545,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Orthopedic impairment,0,0,0,0,0,15,2,10,2,73,2,13,5,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Other health impairment,30,39,1,0,0,4604,1162,3926,143,21981,1647,4540,1580,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Specific learning disability,33,40,2,0,0,6339,1252,5548,164,26470,2686,6489,1689,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Speech or language impairment,1,0,1,0,0,694,72,329,6,1862,351,549,86,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Traumatic brain injury,1,1,0,0,0,36,8,24,0,145,16,32,10,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Two or more races,7,8,1,0,0,565,95,451,8,2209,234,544,128,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,Visual impairment,0,0,0,0,0,25,2,22,0,81,16,23,3,N/A,N/A,N/A,N/A
+VIRGINIA,,51,3,5,White,36,41,4,0,0,6274,1025,5593,162,26390,2771,6351,1497,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,All Disabilities,N/A,351,102,581,N/A,N/A,N/A,7346,161,39064,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,American Indian or Alaska Native,43,15,4,37,0,435,88,292,12,1561,158,419,112,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Asian,22,7,2,20,0,159,22,118,0,485,85,160,28,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Autism,N/A,1,3,43,N/A,N/A,N/A,246,4,1386,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Black or African American,182,81,25,137,0,1245,345,976,7,4868,440,1320,439,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,0,0,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,2,34,N/A,N/A,N/A,187,3,967,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Emotional disturbance,N/A,49,14,124,N/A,N/A,N/A,844,15,6535,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,732,0,27,0
+WASHINGTON,,53,4,9,Female,341,142,45,288,0,2234,420,2058,21,7376,1116,2444,551,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Hearing impairment,N/A,2,1,4,N/A,N/A,N/A,41,0,159,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Hispanic/Latino,127,76,14,56,0,2580,468,1531,53,8235,1020,2320,628,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Intellectual disability,N/A,10,2,15,N/A,N/A,N/A,203,4,968,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Limited English proficient (LEP) Student,69,31,11,47,0,984,159,718,21,3115,434,903,228,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Male,502,209,57,293,0,9961,1797,5288,140,31688,3882,8583,2284,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Multiple disabilities,N/A,1,1,18,N/A,N/A,N/A,69,2,510,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Native Hawaiian or Other Pacific Islander,14,3,0,14,0,115,29,77,3,377,49,107,32,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Non-limited English proficient (non-LEP) Student,774,320,91,534,0,11211,2058,6628,140,35949,4564,10124,2607,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,4,0,34,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Other health impairment,N/A,112,37,181,N/A,N/A,N/A,2124,44,11758,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Specific learning disability,N/A,174,40,153,N/A,N/A,N/A,3355,84,15505,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Speech or language impairment,N/A,0,2,9,N/A,N/A,N/A,248,4,1107,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Traumatic brain injury,N/A,2,0,0,N/A,N/A,N/A,16,0,95,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Two or more races,41,16,7,25,0,808,180,493,12,2743,329,739,205,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,9,1,38,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WASHINGTON,,53,4,9,White,414,153,50,292,0,6853,1085,3859,74,20795,2917,5962,1391,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,All Disabilities,1,1,0,0,0,4462,716,3373,186,18913,1612,4159,1150,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,American Indian or Alaska Native,0,0,0,0,0,7,0,6,0,22,3,7,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Asian,0,0,0,0,0,4,0,4,1,27,4,2,1,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Autism,0,0,0,0,0,99,8,47,0,286,42,75,13,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Black or African American,0,0,0,0,0,357,77,252,16,1620,120,319,107,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Deaf-blindness,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Developmental delay (valid only for children ages 3-9 when defined by state),0,0,0,0,0,11,0,1,0,16,6,5,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Emotional disturbance,1,1,0,0,0,551,142,368,31,2948,97,507,219,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64,0,306,0
+WEST VIRGINIA,,54,3,5,Female,0,0,0,0,0,908,90,745,24,3187,388,895,152,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Hearing impairment,0,0,0,0,0,31,2,21,0,84,15,33,2,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Hispanic/Latino,0,0,0,0,0,45,2,32,0,160,18,38,7,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Intellectual disability,0,0,0,0,0,793,121,501,25,2984,277,709,186,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Limited English proficient (LEP) Student,0,0,0,0,0,13,0,6,1,47,3,12,2,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Male,1,1,0,0,0,3554,626,2628,162,15726,1224,3264,998,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,0,0,0,1,1,0,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Non-limited English proficient (non-LEP) Student,1,1,0,0,0,4449,716,3367,185,18866,1609,4147,1148,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Orthopedic impairment,0,0,0,0,0,2,0,0,0,3,1,1,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Other health impairment,0,0,0,0,0,935,172,712,38,4069,325,876,259,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Specific learning disability,0,0,0,0,0,1705,260,1515,87,7664,641,1716,449,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Speech or language impairment,0,0,0,0,0,302,11,182,4,759,196,202,20,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Traumatic brain injury,0,0,0,0,0,15,0,11,1,51,3,15,2,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Two or more races,0,0,0,0,0,44,12,33,5,245,21,40,17,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,Visual impairment,0,0,0,0,0,17,0,15,0,48,8,20,0,N/A,N/A,N/A,N/A
+WEST VIRGINIA,,54,3,5,White,1,1,0,0,0,4004,625,3046,164,16838,1445,3753,1018,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,All Disabilities,N/A,5,7,0,N/A,N/A,N/A,N/A,N/A,44790,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,American Indian or Alaska Native,3,2,1,0,0,328,29,157,0,982,167,266,36,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Asian,0,0,0,0,0,59,3,51,0,219,56,48,4,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Autism,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1083,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Black or African American,2,0,2,0,0,5658,993,1062,12,21461,1515,4551,1075,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,x,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,86,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Emotional disturbance,N/A,1,4,0,N/A,N/A,N/A,N/A,N/A,15152,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,223,20,163,579
+WISCONSIN,,55,2,3,Female,1,1,0,0,0,2749,295,1121,9,9051,1341,2216,346,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Hearing impairment,N/A,0,1,0,N/A,N/A,N/A,N/A,N/A,183,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Hispanic/Latino,0,0,0,0,0,1246,100,433,4,3671,591,940,124,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Intellectual disability,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,2670,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Limited English proficient (LEP) Student,0,0,0,0,0,509,34,195,1,1451,275,380,41,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Male,11,4,7,0,1,9869,1113,4548,30,35739,4697,8155,1314,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,4,1,2,0,18,2,3,1,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Non-limited English proficient (non-LEP) Student,12,5,7,0,1,12109,1374,5474,38,43339,5763,9991,1619,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,36,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Other health impairment,N/A,1,2,0,N/A,N/A,N/A,N/A,N/A,13059,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Specific learning disability,N/A,3,0,0,N/A,N/A,N/A,N/A,N/A,11095,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Speech or language impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,1300,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Traumatic brain injury,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,x,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Two or more races,0,0,0,0,0,309,15,175,2,1042,191,239,27,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WISCONSIN,,55,2,3,White,7,3,4,0,1,5014,267,3789,21,17397,3516,4324,393,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,All Disabilities,N/A,9,8,0,N/A,N/A,N/A,N/A,N/A,2676,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,American Indian or Alaska Native,0,0,0,0,0,8,2,0,0,142,1,7,2,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Asian,0,0,0,0,0,0,0,0,0,1,0,0,0,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Autism,N/A,0,1,0,N/A,N/A,N/A,N/A,N/A,81,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Black or African American,0,0,0,0,0,1,0,0,0,80,0,1,0,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Deaf-blindness,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,x,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Developmental delay (valid only for children ages 3-9 when defined by state),N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Emotional disturbance,N/A,1,0,0,N/A,N/A,N/A,N/A,N/A,557,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,21,0,55,22
+WYOMING,,56,4,8,Female,2,2,0,0,0,4,3,4,0,354,1,9,3,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Hearing impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,759,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Hispanic/Latino,1,0,1,0,0,8,3,3,0,323,5,7,3,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Intellectual disability,N/A,1,1,0,N/A,N/A,N/A,N/A,N/A,42,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Limited English proficient (LEP) Student,0,0,0,0,0,0,0,0,0,58,0,0,0,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Male,13,7,8,0,2,61,18,16,2,2322,18,57,23,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Multiple disabilities,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,22,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Native Hawaiian or Other Pacific Islander,0,0,0,0,0,1,1,0,0,23,0,1,1,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Non-limited English proficient (non-LEP) Student,15,9,8,0,2,65,21,20,2,2618,19,66,26,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Orthopedic impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Other health impairment,N/A,2,4,0,N/A,N/A,N/A,N/A,N/A,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Specific learning disability,N/A,5,2,0,N/A,N/A,N/A,N/A,N/A,1023,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Speech or language impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,141,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Traumatic brain injury,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Two or more races,0,0,0,0,0,3,0,1,0,70,0,4,0,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,Visual impairment,N/A,0,0,0,N/A,N/A,N/A,N/A,N/A,x,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+WYOMING,,56,4,8,White,14,9,7,0,2,44,15,16,2,2037,13,46,20,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,All Disabilities,6891,6328,1961,1491,182,445928,48607,403686,29076,2305788,175814,450711,109383,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,American Indian or Alaska Native,166,96,32,50,6,7374,935,5340,323,32907,2721,7369,1589,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Asian,50,27,14,20,1,2486,191,1921,69,16962,1278,2366,358,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Autism,98,45,44,94,4,13482,513,9870,282,53978,6896,12174,1151,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Black or African American,2052,1509,716,358,79,183203,25069,128547,11367,867375,54753,171618,48970,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Deaf-blindness,0,0,0,0,1,69,8,70,11,460,42,76,22,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Developmental delay (valid only for children ages 3-9 when defined by state),13,0,8,42,1,4907,144,2357,31,14233,2650,3674,220,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Emotional disturbance,1187,942,451,388,36,80936,12002,53516,4909,433818,20399,73736,22848,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Expulsions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10200,9528,22567,53428
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Female,1420,924,294,427,31,103518,9650,100196,5411,452540,48105,111119,21121,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Hearing impairment,32,26,12,7,1,2749,180,2990,125,13732,1478,2950,484,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Hispanic/Latino,2477,2415,383,210,33,72703,7031,75419,5805,427797,31667,75652,19694,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Intellectual disability,261,197,74,79,13,31722,3335,24889,1678,136726,11796,31150,6843,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Limited English proficient (LEP) Student,726,635,142,107,13,24638,2477,23738,1570,145903,11087,25262,5898,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Male,7256,5404,1667,1064,175,391880,48003,336393,25381,1853248,148359,392701,100969,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Multiple disabilities,60,44,29,32,4,4178,372,2508,105,17481,1506,3881,646,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Native Hawaiian or Other Pacific Islander,20,9,0,14,0,1765,302,779,42,5800,556,1586,387,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Non-limited English proficient (non-LEP) Student,7950,5693,1819,1384,193,470760,55176,412851,29222,2159885,185377,478558,116192,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Orthopedic impairment,25,15,10,1,0,1997,157,1431,44,7670,870,1877,279,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Other health impairment,1177,1173,336,315,31,75350,9126,74431,5912,434141,29429,77863,20839,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Specific learning disability,3859,3766,893,479,86,201637,21027,204678,14809,1065748,83868,215227,51993,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Speech or language impairment,146,91,96,49,4,26575,1553,24852,1048,117640,15768,25753,3615,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Traumatic brain injury,23,23,5,3,1,1543,143,1191,73,6418,651,1481,301,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Two or more races,209,137,39,64,3,13593,1513,10699,691,60616,5380,12980,2991,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,Visual impairment,10,6,3,2,0,783,47,903,49,3743,461,869,142,N/A,N/A,N/A,N/A
+"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",US_OT_FAS,,,,White,2968,2032,727,688,63,189610,17198,186667,10820,894331,90510,200533,39901,N/A,N/A,N/A,N/A

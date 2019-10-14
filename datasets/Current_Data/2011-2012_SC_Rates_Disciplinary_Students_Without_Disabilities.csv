@@ -1,0 +1,34 @@
+Discipline by gender	Number of Students Without Disabilities	Percent of Students Without Disabilities	Number of American Indian or Alaska Native Students Without Disabilities	Percent of American Indian or Alaska Native Students Without Disabilities	Number of Asian Students Without Disabilities	Percent of Asian Students Without Disabilities	Number of Hispanic or Latino of any race Students Without Disabilities	Percent of Hispanic or Latino of any race Students Without Disabilities	Number of Black or African American Students Without Disabilities	Percent of Black or African American Students Without Disabilities	Number of White Students Without Disabilities	Percent of White Students Without Disabilities	Number of Native Hawaiian or Other Pacific Islander Students Without Disabilities	Percent of Native Hawaiian or Other Pacific Islander Students Without Disabilities	Number of Two or more races Students Without Disabilities	Percent of Two or more races Students Without Disabilities	Number of English Language Learners Without Disabilities 	Percent of English Language Learners Without Disabilities 	Number of Schools	State_ID	Region_ID	Division_ID
+Corporal punishment on males	98	86.7	DS	1.8	0	0	DS	1.8	30	26.5	62	54.9	0	0	DS	1.8	DS	1.8	"1,219"	45	3	5
+Corporal punishment on females	15	13.3	0	0	0	0	0	0	11	9.7	4	3.5	0	0	0	0	0	0	"1,219"	45	3	5
+Corporal punishment total	113	100	DS	1.8	0	0	DS	1.8	41	36.3	66	58.4	0	0	DS	1.8	DS	1.8	"1,219"	45	3	5
+One or more in-school suspensions on males	"46,381"	63	164	0.2	226	0.3	"2,400"	3.3	"23,175"	31.5	"19,393"	26.3	43	0.1	980	1.3	"1,612"	2.2	"1,219"	45	3	5
+One or more in-school suspensions on females	"27,243"	37	84	0.1	115	0.2	"1,269"	1.7	"15,719"	21.4	"9,375"	12.7	29	0	652	0.9	718	1	"1,219"	45	3	5
+One or more in-school suspensions total	"73,624"	100	248	0.3	341	0.5	"3,669"	5	"38,894"	52.8	"28,768"	39.1	72	0.1	"1,632"	2.2	"2,330"	3.2	"1,219"	45	3	5
+Only one out-of-school suspension on males	"19,920"	63.5	54	0.2	93	0.3	"1,048"	3.3	"10,607"	33.8	"7,647"	24.4	20	0.1	451	1.4	643	2	"1,219"	45	3	5
+Only one out-of-school suspension on females	"11,473"	36.5	40	0.1	29	0.1	448	1.4	"7,107"	22.6	"3,558"	11.3	10	0	281	0.9	254	0.8	"1,219"	45	3	5
+Only one out-of-school suspension total	"31,393"	100	94	0.3	122	0.4	"1,496"	4.8	"17,714"	56.4	"11,205"	35.7	30	0.1	732	2.3	897	2.9	"1,219"	45	3	5
+More than one out-of-school suspension on males	"19,924"	68.1	75	0.3	63	0.2	778	2.7	"12,169"	41.6	"6,434"	22	13	0	392	1.3	447	1.5	"1,219"	45	3	5
+More than one out-of-school suspension on females	"9,336"	31.9	36	0.1	14	0	267	0.9	"6,570"	22.5	"2,251"	7.7	4	0	194	0.7	119	0.4	"1,219"	45	3	5
+More than one out-of-school suspension total	"29,260"	100	111	0.4	77	0.3	"1,045"	3.6	"18,739"	64	"8,685"	29.7	17	0.1	586	2	566	1.9	"1,219"	45	3	5
+One or more out-of-school suspensions on males	"39,844"	65.7	130	0.2	155	0.3	"1,826"	3	"22,780"	37.6	"14,080"	23.2	31	0.1	842	1.4	"1,093"	1.8	"1,219"	45	3	5
+One or more out-of-school suspensions on females	"20,783"	34.3	75	0.1	43	0.1	719	1.2	"13,672"	22.6	"5,791"	9.6	14	0	469	0.8	369	0.6	"1,219"	45	3	5
+One or more out-of-school suspensions total	"60,627"	100	205	0.3	198	0.3	"2,545"	4.2	"36,452"	60.1	"19,871"	32.8	45	0.1	"1,311"	2.2	"1,462"	2.4	"1,219"	45	3	5
+Expulsions with educational services on males	573	73.8	DS	0.3	DS	0.3	20	2.6	365	47	172	22.2	0	0	12	1.5	6	0.8	"1,219"	45	3	5
+Expulsions with educational services on females	203	26.2	DS	0.3	0	0	4	0.5	141	18.2	54	7	0	0	DS	0.3	DS	0.3	"1,219"	45	3	5
+Expulsions with educational services total	776	100	4	0.5	DS	0.3	24	3.1	506	65.2	226	29.1	0	0	14	1.8	8	1	"1,219"	45	3	5
+Expulsions without educational services on males	"1,283"	77.6	4	0.2	DS	0.1	41	2.5	779	47.1	440	26.6	DS	0.1	15	0.9	16	1	"1,219"	45	3	5
+Expulsions without educational services on females	371	22.4	DS	0.1	0	0	6	0.4	240	14.5	112	6.8	0	0	11	0.7	DS	0.1	"1,219"	45	3	5
+Expulsions without educational services total	"1,654"	100	6	0.4	DS	0.1	47	2.8	"1,019"	61.6	552	33.4	DS	0.1	26	1.6	18	1.1	"1,219"	45	3	5
+Expulsions with or without educational services on males	"1,859"	76.4	5	0.2	DS	0.1	61	2.5	"1,148"	47.2	614	25.2	DS	0.1	27	1.1	22	0.9	"1,219"	45	3	5
+Expulsions with or without educational services on females	575	23.6	5	0.2	0	0	10	0.4	381	15.7	167	6.9	0	0	12	0.5	DS	0.1	"1,219"	45	3	5
+Expulsions with or without educational services total	"2,434"	100	10	0.4	DS	0.1	71	2.9	"1,529"	62.8	781	32.1	DS	0.1	39	1.6	24	1	"1,219"	45	3	5
+Expulsions under zero-tolerance policies on males	348	79.1	0	0	DS	0.5	13	3	187	42.5	142	32.3	0	0	4	0.9	DS	0.5	"1,219"	45	3	5
+Expulsions under zero-tolerance policies on females	92	20.9	0	0	0	0	DS	0.5	49	11.1	39	8.9	0	0	DS	0.5	0	0	"1,219"	45	3	5
+Expulsions under zero-tolerance policies total	440	100	0	0	DS	0.5	15	3.4	236	53.6	181	41.1	0	0	6	1.4	DS	0.5	"1,219"	45	3	5
+Referral to law enforcement on males	"1,726"	67.9	5	0.2	DS	0.1	71	2.8	847	33.3	766	30.1	0	0	35	1.4	29	1.1	"1,219"	45	3	5
+Referral to law enforcement on females	817	32.1	5	0.2	DS	0.1	27	1.1	454	17.9	313	12.3	0	0	16	0.6	10	0.4	"1,219"	45	3	5
+Referral to law enforcement total	"2,543"	100	10	0.4	4	0.2	98	3.9	"1,301"	51.2	"1,079"	42.4	0	0	51	2	39	1.5	"1,219"	45	3	5
+School-related arrests on males	"1,153"	67.3	4	0.2	4	0.2	52	3	581	33.9	490	28.6	0	0	22	1.3	21	1.2	"1,219"	45	3	5
+School-related arrests on females	560	32.7	DS	0.1	0	0	21	1.2	304	17.7	221	12.9	0	0	12	0.7	11	0.6	"1,219"	45	3	5
+School-related arrests total	"1,713"	100	6	0.4	4	0.2	73	4.3	885	51.7	711	41.5	0	0	34	2	32	1.9	"1,219"	45	3	5

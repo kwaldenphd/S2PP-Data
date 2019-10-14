@@ -1,0 +1,22 @@
+"Easy Access to the Census of Juveniles in Residential Placement"
+"Age on Census Date by Race/Ethnicity forAlabama-2015"
+
+,,"Race/Ethnicity",,,,,
+"Age","Total","White","Black","Hispanic","American Indian","Asian","Other"
+"Total","849","300","507","27","0","3","9",
+"12 & younger","9","3","6","0","0","0","0",
+"13","42","18","24","0","0","0","0",
+"14","87","39","45","3","0","0","3",
+"15","162","48","102","9","0","0","3",
+"16","222","75","141","3","0","0","0",
+"17","255","93","150","6","0","3","3",
+"18 & older","69","27","39","6","0","0","0",
+
+"Note: To preserve the privacy of the juvenile residents  cell counts have been rounded to the nearest multiple of three.  Alabama was the State where the juvenile committed the offense for which they were being held. However  the state of offense is not always reported. These instances are not evenly distributed across states. Visit the <a href="../asp/methods.asp#StateTables">EZACJRP methods</a> section for more information.  "
+
+Note: The "Hispanic" category includes persons of Latin American or other Spanish culture or origin regardless of race.  These persons are not included in the other race/ethnicity categories.
+
+"Suggested citation: Sickmund  M.  Sladky  T.J.  Kang  W.  and Puzzanchera  C. (2017) "Easy Access to the Census of Juveniles in Residential Placement." Online. Available:
+http://www.ojjdp.gov/ojstatbb/ezacjrp/"
+
+"Data source: Author's analysis of OJJDP's  Census of Juveniles in Residential Placement 1997, 1999, 2001, 2003, 2006, 2007, 2010, 2011, 2013, and 2015  [machine-readable data files]."
