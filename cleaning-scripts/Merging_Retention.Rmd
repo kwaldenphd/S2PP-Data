@@ -1,0 +1,62 @@
+---
+title: "Merging_Retention"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path = "To_Merge/"
+filenames = list.files(path, pattern="Juvenile_Retention_Race.csv")
+
+print(filenames[1:5])
+print(length(filenames))
+print("Missing 3 states")
+
+index <- 1
+
+
+state <- substr(filenames[index],6,7)
+df1 <- read.csv(paste(path,filenames[index],sep=""), check.names = F, skip=4, row.names = NULL)
+df1 <- df1[-(9:15),]
+df1 <- df1[,1:8]
+names(df1) <- c("Age","Total","White","Black","Hispanic","American Indian","Asian", "Other")
+columns <- names(df1)
+
+df1$Age <- c("Total","< 12","13","14","15","16","17","> 18")
+
+df1 <- df1 %>% gather(columns,key="Race",value="Number", -Age)
+df1$State = state
+df1 <- df1[c(4,1,2,3)]
+print(df1)
+
+master <- df1
+
+
+for (filename in filenames[-index]){
+  state <- substr(filename,6,7)
+  df2 <- read.csv(paste(path,filename,sep=""), check.names = F, skip = 4, row.names = NULL)
+  df2 <- df2[-(9:15),]
+  df2 <- df2[,1:8]
+  names(df2) <- c("Age","Total","White","Black","Hispanic","American Indian","Asian", "Other")
+  columns <- names(df2)
+  
+  df2$Age <- c("Total","< 12","13","14","15","16","17","> 18")
+  
+  df2 <- df2 %>% gather(columns,key="Race",value="Number", -Age)
+  df2$State = state
+  df2 <- df2[c(4,1,2,3)]
+  
+  master <- rbind(master, df2)
+  
+}
+
+print(master)
+
+write.csv(master, "Juveniles_2015_National.csv", row.names = F)
+
+
+
+
+
+```

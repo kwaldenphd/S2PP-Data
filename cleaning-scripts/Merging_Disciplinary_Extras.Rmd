@@ -1,0 +1,95 @@
+---
+title: "Merging_Disciplinary_Extra"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path <- "To_Merge/"
+filenames <- list.files(path, pattern = "Measures_Disciplinary_Students_With_")
+# Students_With_ or _Combined
+
+df1 <- read.csv(paste(path,filenames[1],sep=""), stringsAsFactors = F, check.names = F)
+print(filenames[1])
+
+state <- substr(filenames[1],9,10)
+
+df1 <- df1[!(names(df1) %in% c("State_ID","Division_ID","Region_ID"))]
+
+columns <- names(df1)[!(names(df1) %in% c("State_ID","Division_ID","Region_ID","Discipline.by.gender"))]
+
+columns_per <- columns  %>% 
+  str_subset(pattern = "Percent")
+columns_per2 <- c("Discipline.by.gender",columns_per)
+df1_per <- df1[names(df1) %in% columns_per2]
+
+columns_raw <- columns[!(columns %in% columns_per)]
+columns_raw <- columns_raw[!(columns_raw=="Number.of.Schools")]
+columns_raw2 <- c("Discipline.by.gender",columns_raw)
+df1_raw <- df1[names(df1) %in% columns_raw2]
+
+print(names(df1_per))
+print(length(names(df1_per)))
+print(length(c("Disciplinary Action", "Students With Disabilities", "Students With Disabilities Served Only Under Section 504", "Students  With Disabilities Served Under  IDEA", "American Indian or Alaska Native Students With Disabilities Served Under IDEA", "Asian Students With Disabilities Served Under IDEA", "Hispanic or Latino of any race Students With Disabilities Served Under IDEA", "Black or African American Students With Disabilities Served Under IDEA", "White Students With Disabilities Served Under IDEA", "Native Hawaiian or other Pacific Islander Students With Disabilities Served Under IDEA", "Two or more races Students With Disabilities Served Under IDEA", "English Language Learners With Disabilities")))
+
+names(df1_per) <- c("Disciplinary Action", "Students With Disabilities", "Students With Disabilities Served Only Under Section 504", "Students  With Disabilities Served Under  IDEA", "American Indian or Alaska Native Students With Disabilities Served Under IDEA", "Asian Students With Disabilities Served Under IDEA", "Hispanic or Latino of any race Students With Disabilities Served Under IDEA", "Black or African American Students With Disabilities Served Under IDEA", "White Students With Disabilities Served Under IDEA", "Native Hawaiian or other Pacific Islander Students With Disabilities Served Under IDEA", "Two or more races Students With Disabilities Served Under IDEA", "English Language Learners With Disabilities")
+  
+  
+  
+names(df1_raw) <- c("Disciplinary Action", "Students With Disabilities", "Students With Disabilities Served Only Under Section 504", "Students  With Disabilities Served Under  IDEA", "American Indian or Alaska Native Students With Disabilities Served Under IDEA", "Asian Students With Disabilities Served Under IDEA", "Hispanic or Latino of any race Students With Disabilities Served Under IDEA", "Black or African American Students With Disabilities Served Under IDEA", "White Students With Disabilities Served Under IDEA", "Native Hawaiian or other Pacific Islander Students With Disabilities Served Under IDEA", "Two or more races Students With Disabilities Served Under IDEA", "English Language Learners With Disabilities")
+
+
+columns_per <- names(df_per)[!(names(df_per)=="Disciplinary Action")]
+columns_raw <- names(df_raw)[!(names(df_raw)=="Disciplinary Action")]
+
+df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+
+master <- left_join(df_raw,df_per)
+
+master$State = state
+master <- merged[c("State","Disciplinary Action","Attribute","Number","Percent")]
+
+for (filename in filenames[-1]){
+  print(filename)
+  
+  state <- substr(filename,9,10)
+  
+  df <- read.csv(paste(path,filename,sep=""), stringsAsFactors = F)
+  names(df) <- names(df1)
+  df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+  
+  columns <- names(df)[!(names(df) %in% c("State_ID","Division_ID","Region_ID","Discipline.by.gender"))]
+  
+  columns_per <- columns  %>% 
+    str_subset(pattern = "Percent")
+  columns_per2 <- c("Discipline.by.gender",columns_per)
+  df_per <- df[names(df) %in% columns_per2]
+  
+  columns_raw <- columns[!(columns %in% columns_per)]
+  columns_raw <- columns_raw[!(columns_raw=="Number.of.Schools")]
+  columns_raw2 <- c("Discipline.by.gender",columns_raw)
+  df_raw <- df[names(df) %in% columns_raw2]
+  
+  names(df_per) <- c("Disciplinary Action", "Students With Disabilities", "Students With Disabilities Served Only Under Section 504", "Students  With Disabilities Served Under  IDEA", "American Indian or Alaska Native Students With Disabilities Served Under IDEA", "Asian Students With Disabilities Served Under IDEA", "Hispanic or Latino of any race Students With Disabilities Served Under IDEA", "Black or African American Students With Disabilities Served Under IDEA", "White Students With Disabilities Served Under IDEA", "Native Hawaiian or other Pacific Islander Students With Disabilities Served Under IDEA", "Two or more races Students With Disabilities Served Under IDEA", "English Language Learners With Disabilities")
+  names(df_raw) <- c("Disciplinary Action", "Students With Disabilities", "Students With Disabilities Served Only Under Section 504", "Students  With Disabilities Served Under  IDEA", "American Indian or Alaska Native Students With Disabilities Served Under IDEA", "Asian Students With Disabilities Served Under IDEA", "Hispanic or Latino of any race Students With Disabilities Served Under IDEA", "Black or African American Students With Disabilities Served Under IDEA", "White Students With Disabilities Served Under IDEA", "Native Hawaiian or other Pacific Islander Students With Disabilities Served Under IDEA", "Two or more races Students With Disabilities Served Under IDEA", "English Language Learners With Disabilities")
+  
+  
+  columns_per <- names(df_per)[!(names(df_per)=="Disciplinary Action")]
+  columns_raw <- names(df_raw)[!(names(df_raw)=="Disciplinary Action")]
+  
+  df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+  df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+  
+  df_merged <- left_join(df_raw,df_per)
+  #print(df_merged)
+  df_merged$State = state
+  df_merged <- df_merged[c("State","Disciplinary Action","Attribute","Number","Percent")]
+  master <- rbind(master,df_merged)
+}
+
+write.csv(master,"Disciplinary_Merge_2.csv", row.names = F)
+
+
+```

@@ -1,0 +1,70 @@
+---
+title: "Merging_Iowa"
+output: html_document
+---
+
+```{r}
+library(replyr)
+
+
+path = "To_Merge/"
+
+
+master <- read.csv("Iowa_Master.csv",check.names = F,stringsAsFactors = F)
+
+for (filename in c("2006_IA_Rates_EITC.csv","2007_IA_Rates_EITC.csv")){
+  df <- read.csv(paste(path,filename,sep=""),check.names = F,stringsAsFactors = F)
+  
+  yr <- as.numeric(substr(filename,1,4))
+  df$YEAR <- yr  
+  
+  
+  names(df)[startsWith(names(df),as.character(yr))] = substr(names(df)[startsWith(names(df),"20")],5,100)
+  
+  
+  df <- df[, ! names(df) %in% c("State_ID","Region_ID","Division_ID","Nation_ID","IA_Region"), drop = F]
+  for (name in colnames(df)){
+    if (endsWith(name,"Change")){
+      df <- df[, ! names(df) %in% name, drop = F]
+    }
+    if (startsWith(name,"2000")){
+      df <- df[, ! names(df) %in% name, drop = F]
+    }
+  }
+  names(df)[names(df)=="County"] <- "CNTY_NAME"
+  names(df)[names(df)=="County_ID"] <- "CNTY_ID"
+  
+  for (i in 1:nrow(df)){
+    if (df$CNTY_NAME[i]=="Rural"){df$CNTY_ID[i] <- "00_001"}
+    else if (df$CNTY_NAME[i]=="Metropolitan"){df$CNTY_ID[i] <- "00_005"}
+    else if (df$CNTY_NAME[i]=="Small Urban"){df$CNTY_ID[i] <- "00_002"}
+    else if (df$CNTY_NAME[i]=="State"){df$CNTY_ID[i] <- "00_003"}
+    else if (df$CNTY_NAME[i]=="United States"){df$CNTY_ID[i] <- "00_004"}
+  }
+  
+  
+  master <- merge(master,df,by=c("CNTY_NAME","CNTY_ID","YEAR"),all.x = T,no.dups = F)
+  str(master)
+}
+
+for (name in names(master)){
+  if (endsWith(name,".x")){
+    fieldname <- substr(name,1,nchar(name)-2)
+    yname <- paste(fieldname,"y",sep=".")
+    print(name)
+    fielddata <- coalesce(master[[name]],master[[yname]])
+    master[[fieldname]] <- fielddata
+    master <- master[, ! names(master) %in% name, drop = F]
+    master <- master[, ! names(master) %in% yname, drop = F]
+  }
+}
+
+write.csv(master,"Iowa_Master_Test.csv")
+
+
+
+
+
+
+
+```

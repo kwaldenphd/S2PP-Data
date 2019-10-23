@@ -1,0 +1,109 @@
+---
+title: "Merging_Disciplinary"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path <- "To_Merge/"
+filenames <- list.files(path, pattern = "Rates_Retention.csv")
+
+
+index <- 1
+
+filename <- filenames[index]
+state <- substr(filename,11,12)
+print(state)
+
+df <- read.csv(paste(path,filename,sep=""), check.names = F, stringsAsFactors = F)
+names(df) <- names(df)
+
+df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+
+#df[1,1] <- "Grade by gender"
+
+columns <- names(df)[!(names(df) %in% c("Grade by gender"))]
+
+columns_per <- columns  %>% 
+  str_subset(pattern = "Percent")
+columns_per2 <- c("Grade by gender",columns_per)
+df_per <- df[names(df) %in% columns_per2]
+
+columns_raw <- columns[!(columns %in% columns_per)]
+columns_raw <- columns_raw[!(columns_raw=="Number of Schools")]
+columns_raw2 <- c("Grade by gender",columns_raw)
+df_raw <- df[names(df) %in% columns_raw2]
+
+names(df_per) <- c("Grade by Gender","Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+
+names(df_raw) <- c("Grade by Gender","Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+
+
+columns_per <- names(df_per)[-1]
+columns_raw <- names(df_raw)[-1]
+
+
+df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+
+
+
+df_merged <- left_join(df_raw,df_per)
+
+df_merged$State = state
+
+df_merged <- df_merged[c("State","Grade by Gender","Attribute","Number","Percent")]
+master <- df_merged
+
+for (filename in filenames[-index]){
+  state <- substr(filename,11,12)
+  print(state)
+  
+  df <- read.csv(paste(path,filename,sep=""), check.names = F, stringsAsFactors = F)
+  
+  df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+  names(df)[names(df)=="Retention by grade"] <- "Grade by gender"
+  
+  columns <- names(df)[!(names(df) %in% c("Grade by gender"))]
+  
+  columns_per <- columns  %>% 
+    str_subset(pattern = "Percent")
+  columns_per2 <- c("Grade by gender",columns_per)
+  df_per <- df[names(df) %in% columns_per2]
+ 
+  
+  columns_raw <- columns[!(columns %in% columns_per)]
+  columns_raw <- columns_raw[!(columns_raw=="Number of Schools")]
+  columns_raw2 <- c("Grade by gender",columns_raw)
+  df_raw <- df[names(df) %in% columns_raw2]
+  
+  
+  
+  names(df_per) <- c("Grade by Gender","Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+  
+  names(df_raw) <- c("Grade by Gender","Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+  
+  
+  columns_per <- names(df_per)[-1]
+  columns_raw <- names(df_raw)[-1]
+  
+  df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+  df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+  
+  
+  
+  df_merged <- left_join(df_raw,df_per)
+  
+  df_merged$State = state
+  
+  df_merged <- df_merged[c("State","Grade by Gender","Attribute","Number","Percent")]
+  master <- rbind(master,df_merged)
+
+}
+
+
+write.csv(master,"Retention_2011-12_National.csv", row.names = F)
+
+
+```

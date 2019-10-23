@@ -1,0 +1,54 @@
+---
+title: "Merging_pop"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path = "To_Merge/"
+filenames = list.files(path, pattern="Population_Race.csv")
+
+print(filenames[1:5])
+print(length(filenames))
+
+
+index <- 1
+
+
+state <- substr(filenames[index],6,7)
+df1 <- read.csv(paste(path,filenames[index],sep=""), check.names = F, skip=4)
+df1 <- df1[,-(3:4)]
+df1 <- df1[-(6:8),]
+
+names(df1) <- c("Race","Population")
+
+df1$State <- state
+
+print(df1)
+master <- df1
+
+
+for (filename in filenames[-index]){
+  state <- substr(filename,6,7)
+  df2 <- read.csv(paste(path,filename,sep=""), check.names = F, skip=4)
+  df2 <- df2[,-(3:4)]
+  df2 <- df2[-(6:8),]
+  
+  names(df2) <- c("Race","Population")
+  
+  df2$State <- state
+  
+  master <- rbind(master, df2)
+  
+}
+
+print(master)
+
+write.csv(master, "2015_National_Population_Race.csv", row.names = F)
+
+
+
+
+
+```

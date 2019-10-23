@@ -1,0 +1,123 @@
+---
+title: "Merging_Restraint"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path <- "Unusable/"
+filenames <- list.files(path, pattern = "Restraint_Seclusion_Combined.csv")
+
+main <- "Restraint or Seclusion by Gender"
+
+index <- 1
+
+filename <- filenames[index]
+state <- substr(filename,11,12)
+print(state)
+
+if (state=="WV" || state=="WY"){
+  df <- read.csv(paste(path,filename,sep=""), check.names = F)
+} else {
+  df <- read.table(paste(path,filename,sep=""), sep="\t", head=T, check.names = F)
+}
+
+df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+
+
+print(df)
+
+names(df)[1] <- main
+
+columns <- names(df)[!(names(df) %in% c(main))]
+
+columns_per <- columns  %>% 
+  str_subset(pattern = "Percent")
+columns_per2 <- c(main,columns_per)
+df_per <- df[names(df) %in% columns_per2]
+
+columns_raw <- columns[!(columns %in% columns_per)]
+columns_raw <- columns_raw[!(columns_raw=="Number of Schools")]
+columns_raw2 <- c(main,columns_raw)
+df_raw <- df[names(df) %in% columns_raw2]
+
+
+names(df_per) <- c(main,"Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+
+names(df_raw) <- c(main,"Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+
+
+columns_per <- names(df_per)[-1]
+columns_raw <- names(df_raw)[-1]
+
+
+df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+
+
+
+df_merged <- left_join(df_raw,df_per)
+
+df_merged$State = state
+
+df_merged <- df_merged[c("State",main,"Attribute","Number","Percent")]
+master <- df_merged
+
+for (filename in filenames[-index]){
+  state <- substr(filename,11,12)
+  print(state)
+  
+  if (state=="WV" || state=="WY"){
+    df <- read.csv(paste(path,filename,sep=""), check.names = F)
+  } else {
+    df <- read.table(paste(path,filename,sep=""), sep="\t", head=T, check.names = F)
+  }
+  
+  df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+  
+  
+  print(df)
+  
+  names(df)[1] <- main
+  
+  columns <- names(df)[!(names(df) %in% c(main))]
+  
+  columns_per <- columns  %>% 
+    str_subset(pattern = "Percent")
+  columns_per2 <- c(main,columns_per)
+  df_per <- df[names(df) %in% columns_per2]
+  
+  columns_raw <- columns[!(columns %in% columns_per)]
+  columns_raw <- columns_raw[!(columns_raw=="Number of Schools")]
+  columns_raw2 <- c(main,columns_raw)
+  df_raw <- df[names(df) %in% columns_raw2]
+  
+  names(df_per) <- c(main,"Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+
+  names(df_raw) <- c(main,"Total Students","American Indian or Alaska Native","Asians","Hispanic or Latino of any race","Black or African American","White","Native Hawaiian or Other Pacific Islander","Two or more races","Students With Disabilities Served Under IDEA","Students With Disabilities Served Only Under Section 504","English Language Learners")
+  
+  
+  columns_per <- names(df_per)[-1]
+  columns_raw <- names(df_raw)[-1]
+  
+  
+  df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+  df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+  
+  
+  
+  df_merged <- left_join(df_raw,df_per)
+  
+  df_merged$State = state
+  
+  df_merged <- df_merged[c("State",main,"Attribute","Number","Percent")]
+  master <- rbind(master,df_merged)
+
+}
+
+
+write.csv(master,"Restraint_Seclusion_2011-12_National.csv", row.names = F)
+
+
+```

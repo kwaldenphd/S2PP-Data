@@ -1,0 +1,82 @@
+---
+title: "Merging_National"
+output: html_document
+---
+
+```{r}
+library(replyr)
+library(dplyr)
+
+path = "./Cleaned_Arrest_Data/"
+
+filenames <- list.files(path)
+filenames <- filenames[filenames != "2001-14_NC_Rates_Arrests.csv"]
+#filenames <- c("2001-14_NC_Rates_Arrests.csv","2001-14_AK_Rates_Arrests.csv")
+master <- read.csv("National_Master.csv", check.names = F, stringsAsFactors = F)
+first = T
+pre <- data.frame()
+
+filename <- "2001-14_NC_Rates_Arrests.csv"
+
+df <- read.csv(paste(path,filename,sep=""), check.names = F, stringsAsFactors = F)
+state <- substr(filename,9,10)
+df <- df[,-1]
+years <- as.character(seq(2001,2014))
+ids <- paste(state,years,sep="")
+df <- df[, ! names(df) %in% c("STATE_ID","REGION_ID","DIVISION_ID"), drop = F]
+names(df)[names(df) %in% years] <- paste(state,names(df)[names(df) %in% years],sep="_") 
+nms <- df$CRIME_TYPE
+
+pre <- df
+first <- F
+
+
+for (filename in filenames){
+  df <- read.csv(paste(path,filename,sep=""), check.names = F, stringsAsFactors = F)
+  state <- substr(filename,9,10)
+  df <- df[,-1]
+  years <- as.character(seq(2001,2014))
+  ids <- paste(state,years,sep="")
+  df <- df[, ! names(df) %in% c("STATE_ID","REGION_ID","DIVISION_ID"), drop = F]
+  names(df)[names(df) %in% years] <- paste(state,names(df)[names(df) %in% years],sep="_") 
+  
+  missing <- setdiff(nms, df$CRIME_TYPE) 
+  print(missing)
+  for (row in missing){
+    df <- rbind(df, row = rep(0,length(years)))
+    df$CRIME_TYPE[df$CRIME_TYPE==0] <- row
+  }
+                      
+
+  
+  #print(df)
+  df <- with(df,  df[order(CRIME_TYPE) , ])
+  pre <- with(pre,  pre[order(CRIME_TYPE) , ])
+  names(pre)[names(pre)=="CRIME_TYPE"] <- "CRIME_TYPE2"
+  test <- cbind(df, pre)
+  pre <- test
+  pre <- pre[, ! names(pre) %in% c("CRIME_TYPE2"), drop = F]
+  #print(df)
+  #print(pre)
+}
+
+print(pre)
+rownames(pre) <- pre$CRIME_TYPE
+pre <- pre[, ! names(pre) %in% c("CRIME_TYPE"), drop = F]
+x <- names(pre)
+pre <- rbind(pre, "STATE" = substr(x,1,2))
+pre <- rbind(pre, "YEAR" = substr(x,4,7))
+final <- t(pre)
+
+print(final)
+
+  
+write.csv(final,"National_Master_Arrests.csv", row.names = T)
+### COMPLETE
+
+
+
+
+
+
+```

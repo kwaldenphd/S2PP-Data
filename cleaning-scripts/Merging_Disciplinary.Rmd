@@ -1,0 +1,56 @@
+---
+title: "Merging_Disciplinary"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+path <- "To_Merge/"
+filenames <- list.files(path, pattern = "Measures_Disciplinary")
+master <- read.csv("Disciplinary_Merge_Test.csv", check.names = F, stringsAsFactors = F)
+
+df1 <- read.csv(paste(path,filenames[1],sep=""), stringsAsFactors = F)
+
+for (filename in filenames[-1]){
+  print(filename)
+  
+  state <- substr(filename,9,10)
+  
+  df <- read.csv(paste(path,filename,sep=""), stringsAsFactors = F)
+  names(df) <- names(df1)
+  df <- df[!(names(df) %in% c("State_ID","Division_ID","Region_ID"))]
+  
+  columns <- names(df)[!(names(df) %in% c("State_ID","Division_ID","Region_ID","Disciplinary.Action.by.Race"))]
+  
+  columns_per <- columns  %>% 
+    str_subset(pattern = "Percent")
+  columns_per2 <- c("Disciplinary.Action.by.Race",columns_per)
+  df_per <- df[names(df) %in% columns_per2]
+  
+  columns_raw <- columns[!(columns %in% columns_per)]
+  columns_raw <- columns_raw[!(columns_raw=="Number.of.Schools")]
+  columns_raw2 <- c("Disciplinary.Action.by.Race",columns_raw)
+  df_raw <- df[names(df) %in% columns_raw2]
+  
+  names(df_per) <- c("Disciplinary Action","Students with Disabilities (all)","Students with Disabilities (504)","Students with Disabilities (IDEA)","American Indian or Alaska Native","Asian","Hispanic or Latino","Black or African American","White","Native Hawaiian or Other Pacific Islander", "Two or more races","English Language Learners with Disabilities")
+  names(df_raw) <- c("Disciplinary Action","Students with Disabilities (all)","Students with Disabilities (504)","Students with Disabilities (IDEA)","American Indian or Alaska Native","Asian","Hispanic or Latino","Black or African American","White","Native Hawaiian or Other Pacific Islander", "Two or more races","English Language Learners with Disabilities")
+  
+  
+  columns_per <- names(df_per)[!(names(df_per)=="Disciplinary Action")]
+  columns_raw <- names(df_raw)[!(names(df_raw)=="Disciplinary Action")]
+  print(df_raw)
+  df_raw <- df_raw %>% gather(columns_raw,key="Attribute",value="Number")
+  df_per <- df_per %>% gather(columns_per,key="Attribute",value="Percent")
+  
+  df_merged <- left_join(df_raw,df_per)
+  #print(df_merged)
+  df_merged$State = state
+  df_merged <- df_merged[c("State","Disciplinary Action","Attribute","Number","Percent")]
+  master <- rbind(master,df_merged)
+}
+
+#write.csv(master,"Disciplinary_Merge_Master.csv", row.names = F)
+
+
+```
