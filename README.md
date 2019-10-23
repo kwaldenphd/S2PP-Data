@@ -17,6 +17,8 @@ The original datasets exist in the Current Data sub-folder. A list of datasets a
 
 An interactive version of the dataset inventory and codebook is available [on AirTable](https://airtable.com/shr0MBbJFjzXE6HT3).
 
+The combined dataset is included in the S2PP_Master CSV file located in the Datasets folder.
+
 Data facets included in the dataset cover the following areas:
 - Juvenile arrests
 - Juvenile public health
